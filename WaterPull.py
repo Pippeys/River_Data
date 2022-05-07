@@ -5,6 +5,7 @@ import json
 import requests
 import sys
 
+print('Water Data Pulling...')
 # Load table of locations and Ids's
 Ref = pd.read_csv('C:/Users/Scott/Desktop/Projects/River_Data/RiverReferenceTable.csv',
                     dtype={'WaterDischarge': str, 'PHLevel': str,'WaterTemp': str})

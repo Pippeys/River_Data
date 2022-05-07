@@ -6,6 +6,7 @@ import json
 import time
 import datetime as dt
 
+print('Forecast Rain Pulling...')
 # Parameters
 rivers_reference = pd.read_csv('RiverReferenceTable.csv')
 

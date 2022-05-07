@@ -6,6 +6,8 @@ import pandas as pd
 import json
 from datetime import datetime,date, timedelta
 
+print('Precipitation Data Pulling...')
+
 Token = 'ziLDJecqBlvTSNGOzOmPPLmBZtXSfBwR'
 
 referencedata = pd.read_csv('C:/Users/Scott/Desktop/Projects/River_Data/RiverReferenceTable.csv')
