@@ -50,6 +50,7 @@ for i in range(len(Geodata['value']['timeSeries'])):
     Forecast_df_temp['Station'] = baseStation
     Forecast_df = Forecast_df.append(Forecast_df_temp,ignore_index=True)
 
+
     # Cleaning DataFrame
     df = Forecast_df.drop_duplicates()
     df.startTime = pd.to_datetime(df.startTime,utc=True)
@@ -70,11 +71,21 @@ def LightRain(s):
 def Rain(s):
     if re.search('Rain Showers',s):
         value = 1
+    elif re.search('Rain'): 
+        value = 1
+    elif re.search('precipitation'): 
+        value = 1
     else: value = 0
     return value
 
 def HeavyRain(s):
     if re.search('Heavy Rain',s):
+        value = 1
+    else: value = 0
+    return value
+
+def Snow(s):
+    if re.search('Snow',s):
         value = 1
     else: value = 0
     return value
@@ -89,6 +100,7 @@ def WindTranslate(s):
 df['LightRain'] = df.shortForecast.apply(lambda x: LightRain(x))
 df['Rain'] = df.shortForecast.apply(lambda x: Rain(x))
 df['HeavyRain'] = df.shortForecast.apply(lambda x: HeavyRain(x))
+df['Snow'] = df.shortForecast.apply(lambda x: HeavyRain(x))
 df['WindMph'] = df.windSpeed.apply(lambda x: WindTranslate(x))
 
 # Create final Dataframe with Key
