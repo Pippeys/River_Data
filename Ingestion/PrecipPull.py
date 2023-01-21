@@ -41,8 +41,8 @@ for row in range(0,len(referencedata)):
 
     dates = []
     precips = []
-    print(d)
-    break
+    # print(d)
+    # break
 
     #get all items in the response which are precipitation readings
     try:
@@ -61,4 +61,4 @@ for row in range(0,len(referencedata)):
     df['Name'] = name
     all_data = all_data.append(df,ignore_index=True)
 # print(all_data)
-#all_data.to_csv('C:/Users/Scott/Desktop/Projects/River_Data/CurrentPrecip.csv')
+all_data.to_csv('C:/Users/Scott/Desktop/Projects/River_Data/Ingestion/CurrentPrecip.csv')
