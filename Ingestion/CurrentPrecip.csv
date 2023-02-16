@@ -12627,273 +12627,468 @@
 12625,2023-02-04 00:00:00,4.3,Yuba River Marysville
 12626,2023-02-05 00:00:00,6.1,Yuba River Marysville
 12627,2023-02-06 00:00:00,0.3,Yuba River Marysville
-12628,2023-02-06 00:00:00,5.3,Russian River HaciendaBridge
-12629,2023-02-06 00:00:00,7.1,Russian River HaciendaBridge
-12630,2023-02-07 00:00:00,0.0,Russian River HaciendaBridge
-12631,2023-02-07 00:00:00,0.0,Russian River HaciendaBridge
-12632,2023-02-08 00:00:00,0.0,Russian River HaciendaBridge
-12633,2023-02-08 00:00:00,0.0,Russian River HaciendaBridge
-12634,2023-02-09 00:00:00,0.0,Russian River HaciendaBridge
-12635,2023-02-09 00:00:00,0.0,Russian River HaciendaBridge
-12636,2023-02-06 00:00:00,3.3,Navarro River
-12637,2023-02-07 00:00:00,0.3,Navarro River
-12638,2023-02-08 00:00:00,0.0,Navarro River
-12639,2023-02-09 00:00:00,0.0,Navarro River
-12640,2023-02-06 00:00:00,6.9,Noyo River
-12641,2023-02-06 00:00:00,3.6,Noyo River
-12642,2023-02-06 00:00:00,1.0,Noyo River
-12643,2023-02-07 00:00:00,0.0,Noyo River
-12644,2023-02-07 00:00:00,0.0,Noyo River
-12645,2023-02-08 00:00:00,0.0,Noyo River
-12646,2023-02-08 00:00:00,0.8,Noyo River
-12647,2023-02-09 00:00:00,0.0,Noyo River
-12648,2023-02-09 00:00:00,0.0,Noyo River
-12649,2023-02-06 00:00:00,4.3,San Lorenzo River Upper
-12650,2023-02-06 00:00:00,3.0,San Lorenzo River Upper
-12651,2023-02-06 00:00:00,3.3,San Lorenzo River Upper
-12652,2023-02-07 00:00:00,0.0,San Lorenzo River Upper
-12653,2023-02-07 00:00:00,0.0,San Lorenzo River Upper
-12654,2023-02-08 00:00:00,0.0,San Lorenzo River Upper
-12655,2023-02-08 00:00:00,0.0,San Lorenzo River Upper
-12656,2023-02-07 00:00:00,0.0,Mad River
-12657,2023-02-08 00:00:00,0.0,Mad River
-12658,2023-02-09 00:00:00,0.0,Mad River
-12659,2023-02-06 00:00:00,0.8,Putah Creek
-12660,2023-02-06 00:00:00,0.3,Putah Creek
-12661,2023-02-07 00:00:00,0.0,Putah Creek
-12662,2023-02-07 00:00:00,0.0,Putah Creek
-12663,2023-02-08 00:00:00,0.0,Putah Creek
-12664,2023-02-08 00:00:00,0.0,Putah Creek
-12665,2023-02-09 00:00:00,0.0,Putah Creek
-12666,2023-02-09 00:00:00,0.0,Putah Creek
-12667,2023-02-06 00:00:00,13.7,Truckee River Farad
-12668,2023-02-06 00:00:00,7.9,Truckee River Farad
-12669,2023-02-06 00:00:00,0.0,Truckee River Farad
-12670,2023-02-07 00:00:00,0.0,Truckee River Farad
-12671,2023-02-07 00:00:00,0.0,Truckee River Farad
-12672,2023-02-08 00:00:00,0.0,Truckee River Farad
-12673,2023-02-08 00:00:00,0.0,Truckee River Farad
-12674,2023-02-09 00:00:00,0.0,Truckee River Farad
-12675,2023-02-09 00:00:00,0.0,Truckee River Farad
-12676,2023-02-06 00:00:00,13.7,Little Truckee River
-12677,2023-02-06 00:00:00,7.9,Little Truckee River
-12678,2023-02-06 00:00:00,0.0,Little Truckee River
-12679,2023-02-07 00:00:00,0.0,Little Truckee River
-12680,2023-02-07 00:00:00,0.0,Little Truckee River
-12681,2023-02-08 00:00:00,0.0,Little Truckee River
-12682,2023-02-08 00:00:00,0.0,Little Truckee River
-12683,2023-02-09 00:00:00,0.0,Little Truckee River
-12684,2023-02-09 00:00:00,0.0,Little Truckee River
-12685,2023-02-06 00:00:00,4.8,Smith River CC
-12686,2023-02-06 00:00:00,4.1,Smith River CC
-12687,2023-02-06 00:00:00,3.8,Smith River CC
-12688,2023-02-06 00:00:00,4.8,Smith River CC
-12689,2023-02-06 00:00:00,4.8,Smith River CC
-12690,2023-02-06 00:00:00,6.6,Smith River CC
-12691,2023-02-06 00:00:00,4.1,Smith River CC
-12692,2023-02-06 00:00:00,0.0,Smith River CC
-12693,2023-02-07 00:00:00,0.0,Smith River CC
-12694,2023-02-07 00:00:00,0.0,Smith River CC
-12695,2023-02-07 00:00:00,0.0,Smith River CC
-12696,2023-02-07 00:00:00,0.5,Smith River CC
-12697,2023-02-07 00:00:00,0.5,Smith River CC
-12698,2023-02-08 00:00:00,0.5,Smith River CC
-12699,2023-02-08 00:00:00,1.0,Smith River CC
-12700,2023-02-08 00:00:00,0.8,Smith River CC
-12701,2023-02-08 00:00:00,1.0,Smith River CC
-12702,2023-02-08 00:00:00,0.0,Smith River CC
-12703,2023-02-09 00:00:00,0.0,Smith River CC
-12704,2023-02-09 00:00:00,0.0,Smith River CC
-12705,2023-02-09 00:00:00,0.5,Smith River CC
-12706,2023-02-09 00:00:00,6.1,Smith River CC
-12707,2023-02-06 00:00:00,4.8,Smith River Fort Dick
-12708,2023-02-06 00:00:00,4.1,Smith River Fort Dick
-12709,2023-02-06 00:00:00,3.8,Smith River Fort Dick
-12710,2023-02-06 00:00:00,4.8,Smith River Fort Dick
-12711,2023-02-06 00:00:00,4.8,Smith River Fort Dick
-12712,2023-02-06 00:00:00,6.6,Smith River Fort Dick
-12713,2023-02-06 00:00:00,4.1,Smith River Fort Dick
-12714,2023-02-06 00:00:00,0.0,Smith River Fort Dick
-12715,2023-02-07 00:00:00,0.0,Smith River Fort Dick
-12716,2023-02-07 00:00:00,0.0,Smith River Fort Dick
-12717,2023-02-07 00:00:00,0.0,Smith River Fort Dick
-12718,2023-02-07 00:00:00,0.5,Smith River Fort Dick
-12719,2023-02-07 00:00:00,0.5,Smith River Fort Dick
-12720,2023-02-08 00:00:00,0.5,Smith River Fort Dick
-12721,2023-02-08 00:00:00,1.0,Smith River Fort Dick
-12722,2023-02-08 00:00:00,0.8,Smith River Fort Dick
-12723,2023-02-08 00:00:00,1.0,Smith River Fort Dick
-12724,2023-02-08 00:00:00,0.0,Smith River Fort Dick
-12725,2023-02-09 00:00:00,0.0,Smith River Fort Dick
-12726,2023-02-09 00:00:00,0.0,Smith River Fort Dick
-12727,2023-02-09 00:00:00,0.5,Smith River Fort Dick
-12728,2023-02-09 00:00:00,6.1,Smith River Fort Dick
-12729,2023-02-06 00:00:00,7.9,Eel River Fort Seward
-12730,2023-02-06 00:00:00,6.9,Eel River Fort Seward
-12731,2023-02-06 00:00:00,7.9,Eel River Fort Seward
-12732,2023-02-06 00:00:00,9.4,Eel River Fort Seward
-12733,2023-02-06 00:00:00,7.4,Eel River Fort Seward
-12734,2023-02-06 00:00:00,8.4,Eel River Fort Seward
-12735,2023-02-07 00:00:00,0.3,Eel River Fort Seward
-12736,2023-02-07 00:00:00,0.0,Eel River Fort Seward
-12737,2023-02-07 00:00:00,0.0,Eel River Fort Seward
-12738,2023-02-07 00:00:00,0.0,Eel River Fort Seward
-12739,2023-02-08 00:00:00,0.0,Eel River Fort Seward
-12740,2023-02-08 00:00:00,0.0,Eel River Fort Seward
-12741,2023-02-08 00:00:00,0.0,Eel River Fort Seward
-12742,2023-02-08 00:00:00,0.0,Eel River Fort Seward
-12743,2023-02-09 00:00:00,0.3,Eel River Fort Seward
-12744,2023-02-09 00:00:00,0.0,Eel River Fort Seward
-12745,2023-02-09 00:00:00,0.0,Eel River Fort Seward
-12746,2023-02-06 00:00:00,12.4,Eel River Fernbridge
-12747,2023-02-06 00:00:00,8.4,Eel River Fernbridge
-12748,2023-02-06 00:00:00,17.8,Eel River Fernbridge
-12749,2023-02-06 00:00:00,13.2,Eel River Fernbridge
-12750,2023-02-07 00:00:00,0.5,Eel River Fernbridge
-12751,2023-02-08 00:00:00,0.3,Eel River Fernbridge
-12752,2023-02-08 00:00:00,0.3,Eel River Fernbridge
-12753,2023-02-09 00:00:00,0.0,Eel River Fernbridge
-12754,2023-02-06 00:00:00,4.3,San Lorenzo River
-12755,2023-02-06 00:00:00,3.0,San Lorenzo River
-12756,2023-02-06 00:00:00,3.3,San Lorenzo River
-12757,2023-02-07 00:00:00,0.0,San Lorenzo River
-12758,2023-02-07 00:00:00,0.0,San Lorenzo River
-12759,2023-02-08 00:00:00,0.0,San Lorenzo River
-12760,2023-02-08 00:00:00,0.0,San Lorenzo River
-12761,2023-02-06 00:00:00,4.1,North Fork American River
-12762,2023-02-06 00:00:00,5.6,North Fork American River
-12763,2023-02-07 00:00:00,0.0,North Fork American River
-12764,2023-02-08 00:00:00,0.0,North Fork American River
-12765,2023-02-09 00:00:00,0.0,North Fork American River
-12766,2023-02-06 00:00:00,0.8,Pit River
-12767,2023-02-07 00:00:00,0.0,Pit River
-12768,2023-02-07 00:00:00,0.3,Pit River
-12769,2023-02-08 00:00:00,0.0,Pit River
-12770,2023-02-08 00:00:00,0.0,Pit River
-12771,2023-02-09 00:00:00,0.0,Pit River
-12772,2023-02-06 00:00:00,0.0,East Fork Carson
-12773,2023-02-06 00:00:00,0.0,East Fork Carson
-12774,2023-02-06 00:00:00,2.5,East Fork Carson
-12775,2023-02-06 00:00:00,0.0,East Fork Carson
-12776,2023-02-06 00:00:00,0.0,East Fork Carson
-12777,2023-02-06 00:00:00,0.0,East Fork Carson
-12778,2023-02-06 00:00:00,0.0,East Fork Carson
-12779,2023-02-07 00:00:00,0.0,East Fork Carson
-12780,2023-02-07 00:00:00,0.0,East Fork Carson
-12781,2023-02-07 00:00:00,0.0,East Fork Carson
-12782,2023-02-07 00:00:00,0.0,East Fork Carson
-12783,2023-02-07 00:00:00,0.0,East Fork Carson
-12784,2023-02-07 00:00:00,0.0,East Fork Carson
-12785,2023-02-07 00:00:00,0.0,East Fork Carson
-12786,2023-02-08 00:00:00,0.0,East Fork Carson
-12787,2023-02-08 00:00:00,0.0,East Fork Carson
-12788,2023-02-08 00:00:00,0.0,East Fork Carson
-12789,2023-02-08 00:00:00,0.0,East Fork Carson
-12790,2023-02-08 00:00:00,0.0,East Fork Carson
-12791,2023-02-08 00:00:00,0.0,East Fork Carson
-12792,2023-02-08 00:00:00,0.0,East Fork Carson
-12793,2023-02-09 00:00:00,0.0,East Fork Carson
-12794,2023-02-09 00:00:00,0.0,East Fork Carson
-12795,2023-02-06 00:00:00,3.0,Trinity River Junction City
-12796,2023-02-07 00:00:00,0.0,Trinity River Junction City
-12797,2023-02-08 00:00:00,0.0,Trinity River Junction City
-12798,2023-02-09 00:00:00,0.0,Trinity River Junction City
-12799,2023-02-06 00:00:00,4.8,Rogue River Grants Pass
-12800,2023-02-06 00:00:00,3.3,Rogue River Grants Pass
-12801,2023-02-06 00:00:00,2.8,Rogue River Grants Pass
-12802,2023-02-06 00:00:00,0.0,Rogue River Grants Pass
-12803,2023-02-07 00:00:00,0.3,Rogue River Grants Pass
-12804,2023-02-07 00:00:00,0.3,Rogue River Grants Pass
-12805,2023-02-07 00:00:00,0.0,Rogue River Grants Pass
-12806,2023-02-07 00:00:00,0.0,Rogue River Grants Pass
-12807,2023-02-08 00:00:00,0.5,Rogue River Grants Pass
-12808,2023-02-08 00:00:00,0.0,Rogue River Grants Pass
-12809,2023-02-08 00:00:00,0.0,Rogue River Grants Pass
-12810,2023-02-09 00:00:00,0.0,Rogue River Grants Pass
-12811,2023-02-09 00:00:00,0.0,Rogue River Grants Pass
-12812,2023-02-06 00:00:00,3.8,Rogue River Agness
-12813,2023-02-07 00:00:00,0.0,Rogue River Agness
-12814,2023-02-08 00:00:00,0.0,Rogue River Agness
-12815,2023-02-06 00:00:00,6.1,Redwood Creek Orick
-12816,2023-02-06 00:00:00,8.6,Redwood Creek Orick
-12817,2023-02-06 00:00:00,5.6,Redwood Creek Orick
-12818,2023-02-06 00:00:00,0.5,Redwood Creek Orick
-12819,2023-02-07 00:00:00,0.0,Redwood Creek Orick
-12820,2023-02-07 00:00:00,0.3,Redwood Creek Orick
-12821,2023-02-07 00:00:00,0.0,Redwood Creek Orick
-12822,2023-02-07 00:00:00,0.3,Redwood Creek Orick
-12823,2023-02-08 00:00:00,0.0,Redwood Creek Orick
-12824,2023-02-08 00:00:00,0.0,Redwood Creek Orick
-12825,2023-02-08 00:00:00,0.0,Redwood Creek Orick
-12826,2023-02-08 00:00:00,0.3,Redwood Creek Orick
-12827,2023-02-09 00:00:00,0.0,Redwood Creek Orick
-12828,2023-02-09 00:00:00,0.0,Redwood Creek Orick
-12829,2023-02-09 00:00:00,0.0,Redwood Creek Orick
-12830,2023-02-06 00:00:00,16.5,Van Duzen River Bridgeville
-12831,2023-02-06 00:00:00,13.7,Van Duzen River Bridgeville
-12832,2023-02-06 00:00:00,14.0,Van Duzen River Bridgeville
-12833,2023-02-07 00:00:00,0.0,Van Duzen River Bridgeville
-12834,2023-02-07 00:00:00,0.0,Van Duzen River Bridgeville
-12835,2023-02-07 00:00:00,0.0,Van Duzen River Bridgeville
-12836,2023-02-08 00:00:00,0.0,Van Duzen River Bridgeville
-12837,2023-02-08 00:00:00,0.0,Van Duzen River Bridgeville
-12838,2023-02-09 00:00:00,0.0,Van Duzen River Bridgeville
-12839,2023-02-09 00:00:00,0.0,Van Duzen River Bridgeville
-12840,2023-02-06 00:00:00,7.9,Mattole River Ettersburg
-12841,2023-02-06 00:00:00,6.9,Mattole River Ettersburg
-12842,2023-02-06 00:00:00,7.9,Mattole River Ettersburg
-12843,2023-02-06 00:00:00,9.4,Mattole River Ettersburg
-12844,2023-02-06 00:00:00,7.4,Mattole River Ettersburg
-12845,2023-02-06 00:00:00,8.4,Mattole River Ettersburg
-12846,2023-02-07 00:00:00,0.3,Mattole River Ettersburg
-12847,2023-02-07 00:00:00,0.0,Mattole River Ettersburg
-12848,2023-02-07 00:00:00,0.0,Mattole River Ettersburg
-12849,2023-02-07 00:00:00,0.0,Mattole River Ettersburg
-12850,2023-02-08 00:00:00,0.0,Mattole River Ettersburg
-12851,2023-02-08 00:00:00,0.0,Mattole River Ettersburg
-12852,2023-02-08 00:00:00,0.0,Mattole River Ettersburg
-12853,2023-02-08 00:00:00,0.0,Mattole River Ettersburg
-12854,2023-02-09 00:00:00,0.3,Mattole River Ettersburg
-12855,2023-02-09 00:00:00,0.0,Mattole River Ettersburg
-12856,2023-02-09 00:00:00,0.0,Mattole River Ettersburg
-12857,2023-02-06 00:00:00,9.7,Trinity River Burnt Ranch
-12858,2023-02-06 00:00:00,3.3,North Umpqua River Winchester
-12859,2023-02-06 00:00:00,2.5,North Umpqua River Winchester
-12860,2023-02-06 00:00:00,1.5,North Umpqua River Winchester
-12861,2023-02-06 00:00:00,2.0,North Umpqua River Winchester
-12862,2023-02-06 00:00:00,3.8,North Umpqua River Winchester
-12863,2023-02-06 00:00:00,2.0,North Umpqua River Winchester
-12864,2023-02-06 00:00:00,0.0,North Umpqua River Winchester
-12865,2023-02-07 00:00:00,0.0,North Umpqua River Winchester
-12866,2023-02-07 00:00:00,0.0,North Umpqua River Winchester
-12867,2023-02-07 00:00:00,0.3,North Umpqua River Winchester
-12868,2023-02-07 00:00:00,0.0,North Umpqua River Winchester
-12869,2023-02-07 00:00:00,0.0,North Umpqua River Winchester
-12870,2023-02-07 00:00:00,2.0,North Umpqua River Winchester
-12871,2023-02-08 00:00:00,3.8,North Umpqua River Winchester
-12872,2023-02-08 00:00:00,3.3,North Umpqua River Winchester
-12873,2023-02-08 00:00:00,3.0,North Umpqua River Winchester
-12874,2023-02-08 00:00:00,3.0,North Umpqua River Winchester
-12875,2023-02-08 00:00:00,3.0,North Umpqua River Winchester
-12876,2023-02-08 00:00:00,3.6,North Umpqua River Winchester
-12877,2023-02-08 00:00:00,1.8,North Umpqua River Winchester
-12878,2023-02-08 00:00:00,4.6,North Umpqua River Winchester
-12879,2023-02-08 00:00:00,0.0,North Umpqua River Winchester
-12880,2023-02-09 00:00:00,0.0,North Umpqua River Winchester
-12881,2023-02-09 00:00:00,0.0,North Umpqua River Winchester
-12882,2023-02-09 00:00:00,0.3,North Umpqua River Winchester
-12883,2023-02-09 00:00:00,0.0,North Umpqua River Winchester
-12884,2023-02-09 00:00:00,0.0,North Umpqua River Winchester
-12885,2023-02-09 00:00:00,0.0,North Umpqua River Winchester
-12886,2023-02-06 00:00:00,5.3,North Umpquar River Idlelyd
-12887,2023-02-06 00:00:00,1.0,North Umpquar River Idlelyd
-12888,2023-02-06 00:00:00,0.0,North Umpquar River Idlelyd
-12889,2023-02-07 00:00:00,0.5,North Umpquar River Idlelyd
-12890,2023-02-07 00:00:00,3.6,North Umpquar River Idlelyd
-12891,2023-02-07 00:00:00,5.1,North Umpquar River Idlelyd
-12892,2023-02-08 00:00:00,11.2,North Umpquar River Idlelyd
-12893,2023-02-08 00:00:00,3.6,North Umpquar River Idlelyd
-12894,2023-02-08 00:00:00,0.0,North Umpquar River Idlelyd
-12895,2023-02-09 00:00:00,0.0,North Umpquar River Idlelyd
-12896,2023-02-06 00:00:00,0.3,Yuba River Marysville
-12897,2023-02-07 00:00:00,0.0,Yuba River Marysville
+12628,2023-02-07 00:00:00,0.0,Russian River HaciendaBridge
+12629,2023-02-08 00:00:00,0.0,Russian River HaciendaBridge
+12630,2023-02-09 00:00:00,0.0,Russian River HaciendaBridge
+12631,2023-02-07 00:00:00,0.3,Navarro River
+12632,2023-02-08 00:00:00,0.0,Navarro River
+12633,2023-02-09 00:00:00,0.0,Navarro River
+12634,2023-02-07 00:00:00,0.0,Noyo River
+12635,2023-02-08 00:00:00,0.0,Noyo River
+12636,2023-02-08 00:00:00,0.8,Noyo River
+12637,2023-02-09 00:00:00,0.0,Noyo River
+12638,2023-02-06 00:00:00,3.0,San Lorenzo River Upper
+12639,2023-02-07 00:00:00,0.0,San Lorenzo River Upper
+12640,2023-02-08 00:00:00,0.0,San Lorenzo River Upper
+12641,2023-02-07 00:00:00,0.0,Mad River
+12642,2023-02-08 00:00:00,0.0,Mad River
+12643,2023-02-09 00:00:00,0.0,Mad River
+12644,2023-02-07 00:00:00,0.0,Putah Creek
+12645,2023-02-08 00:00:00,0.0,Putah Creek
+12646,2023-02-09 00:00:00,0.0,Putah Creek
+12647,2023-02-07 00:00:00,0.0,Truckee River Farad
+12648,2023-02-08 00:00:00,0.0,Truckee River Farad
+12649,2023-02-09 00:00:00,0.0,Truckee River Farad
+12650,2023-02-07 00:00:00,0.0,Little Truckee River
+12651,2023-02-08 00:00:00,0.0,Little Truckee River
+12652,2023-02-09 00:00:00,0.0,Little Truckee River
+12653,2023-02-06 00:00:00,4.1,Smith River CC
+12654,2023-02-06 00:00:00,0.0,Smith River CC
+12655,2023-02-07 00:00:00,0.0,Smith River CC
+12656,2023-02-07 00:00:00,0.5,Smith River CC
+12657,2023-02-08 00:00:00,0.5,Smith River CC
+12658,2023-02-08 00:00:00,1.0,Smith River CC
+12659,2023-02-08 00:00:00,0.8,Smith River CC
+12660,2023-02-08 00:00:00,0.0,Smith River CC
+12661,2023-02-09 00:00:00,0.0,Smith River CC
+12662,2023-02-09 00:00:00,0.5,Smith River CC
+12663,2023-02-09 00:00:00,6.1,Smith River CC
+12664,2023-02-06 00:00:00,4.1,Smith River Fort Dick
+12665,2023-02-06 00:00:00,0.0,Smith River Fort Dick
+12666,2023-02-07 00:00:00,0.0,Smith River Fort Dick
+12667,2023-02-07 00:00:00,0.5,Smith River Fort Dick
+12668,2023-02-08 00:00:00,0.5,Smith River Fort Dick
+12669,2023-02-08 00:00:00,1.0,Smith River Fort Dick
+12670,2023-02-08 00:00:00,0.8,Smith River Fort Dick
+12671,2023-02-08 00:00:00,0.0,Smith River Fort Dick
+12672,2023-02-09 00:00:00,0.0,Smith River Fort Dick
+12673,2023-02-09 00:00:00,0.5,Smith River Fort Dick
+12674,2023-02-09 00:00:00,6.1,Smith River Fort Dick
+12675,2023-02-06 00:00:00,6.9,Eel River Fort Seward
+12676,2023-02-07 00:00:00,0.3,Eel River Fort Seward
+12677,2023-02-07 00:00:00,0.0,Eel River Fort Seward
+12678,2023-02-08 00:00:00,0.0,Eel River Fort Seward
+12679,2023-02-09 00:00:00,0.3,Eel River Fort Seward
+12680,2023-02-09 00:00:00,0.0,Eel River Fort Seward
+12681,2023-02-06 00:00:00,12.4,Eel River Fernbridge
+12682,2023-02-06 00:00:00,17.8,Eel River Fernbridge
+12683,2023-02-07 00:00:00,0.5,Eel River Fernbridge
+12684,2023-02-08 00:00:00,0.3,Eel River Fernbridge
+12685,2023-02-09 00:00:00,0.0,Eel River Fernbridge
+12686,2023-02-06 00:00:00,3.0,San Lorenzo River
+12687,2023-02-07 00:00:00,0.0,San Lorenzo River
+12688,2023-02-08 00:00:00,0.0,San Lorenzo River
+12689,2023-02-07 00:00:00,0.0,North Fork American River
+12690,2023-02-08 00:00:00,0.0,North Fork American River
+12691,2023-02-09 00:00:00,0.0,North Fork American River
+12692,2023-02-07 00:00:00,0.0,Pit River
+12693,2023-02-07 00:00:00,0.3,Pit River
+12694,2023-02-08 00:00:00,0.0,Pit River
+12695,2023-02-09 00:00:00,0.0,Pit River
+12696,2023-02-07 00:00:00,0.0,East Fork Carson
+12697,2023-02-08 00:00:00,0.0,East Fork Carson
+12698,2023-02-09 00:00:00,0.0,East Fork Carson
+12699,2023-02-07 00:00:00,0.0,Trinity River Junction City
+12700,2023-02-08 00:00:00,0.0,Trinity River Junction City
+12701,2023-02-09 00:00:00,0.0,Trinity River Junction City
+12702,2023-02-06 00:00:00,0.0,Rogue River Grants Pass
+12703,2023-02-07 00:00:00,0.3,Rogue River Grants Pass
+12704,2023-02-07 00:00:00,0.0,Rogue River Grants Pass
+12705,2023-02-08 00:00:00,0.5,Rogue River Grants Pass
+12706,2023-02-08 00:00:00,0.0,Rogue River Grants Pass
+12707,2023-02-09 00:00:00,0.0,Rogue River Grants Pass
+12708,2023-02-07 00:00:00,0.0,Rogue River Agness
+12709,2023-02-08 00:00:00,0.0,Rogue River Agness
+12710,2023-02-06 00:00:00,6.1,Redwood Creek Orick
+12711,2023-02-06 00:00:00,0.5,Redwood Creek Orick
+12712,2023-02-07 00:00:00,0.0,Redwood Creek Orick
+12713,2023-02-07 00:00:00,0.3,Redwood Creek Orick
+12714,2023-02-08 00:00:00,0.0,Redwood Creek Orick
+12715,2023-02-08 00:00:00,0.3,Redwood Creek Orick
+12716,2023-02-09 00:00:00,0.0,Redwood Creek Orick
+12717,2023-02-07 00:00:00,0.0,Van Duzen River Bridgeville
+12718,2023-02-08 00:00:00,0.0,Van Duzen River Bridgeville
+12719,2023-02-09 00:00:00,0.0,Van Duzen River Bridgeville
+12720,2023-02-06 00:00:00,6.9,Mattole River Ettersburg
+12721,2023-02-07 00:00:00,0.3,Mattole River Ettersburg
+12722,2023-02-07 00:00:00,0.0,Mattole River Ettersburg
+12723,2023-02-08 00:00:00,0.0,Mattole River Ettersburg
+12724,2023-02-09 00:00:00,0.3,Mattole River Ettersburg
+12725,2023-02-09 00:00:00,0.0,Mattole River Ettersburg
+12726,2023-02-06 00:00:00,1.5,North Umpqua River Winchester
+12727,2023-02-06 00:00:00,0.0,North Umpqua River Winchester
+12728,2023-02-07 00:00:00,0.0,North Umpqua River Winchester
+12729,2023-02-07 00:00:00,0.3,North Umpqua River Winchester
+12730,2023-02-07 00:00:00,2.0,North Umpqua River Winchester
+12731,2023-02-08 00:00:00,3.8,North Umpqua River Winchester
+12732,2023-02-08 00:00:00,3.3,North Umpqua River Winchester
+12733,2023-02-08 00:00:00,3.0,North Umpqua River Winchester
+12734,2023-02-08 00:00:00,3.6,North Umpqua River Winchester
+12735,2023-02-08 00:00:00,1.8,North Umpqua River Winchester
+12736,2023-02-08 00:00:00,4.6,North Umpqua River Winchester
+12737,2023-02-08 00:00:00,0.0,North Umpqua River Winchester
+12738,2023-02-09 00:00:00,0.0,North Umpqua River Winchester
+12739,2023-02-09 00:00:00,0.3,North Umpqua River Winchester
+12740,2023-02-06 00:00:00,0.0,North Umpquar River Idlelyd
+12741,2023-02-07 00:00:00,0.5,North Umpquar River Idlelyd
+12742,2023-02-07 00:00:00,3.6,North Umpquar River Idlelyd
+12743,2023-02-07 00:00:00,5.1,North Umpquar River Idlelyd
+12744,2023-02-08 00:00:00,11.2,North Umpquar River Idlelyd
+12745,2023-02-08 00:00:00,3.6,North Umpquar River Idlelyd
+12746,2023-02-08 00:00:00,0.0,North Umpquar River Idlelyd
+12747,2023-02-09 00:00:00,0.0,North Umpquar River Idlelyd
+12748,2023-02-07 00:00:00,0.0,Yuba River Marysville
+12749,2023-02-07 00:00:00,2.5,East Fork Carson
+12750,2023-02-07 00:00:00,7.6,North Umpquar River Idlelyd
+12751,2023-02-09 00:00:00,0.0,Russian River HaciendaBridge
+12752,2023-02-09 00:00:00,0.0,Russian River HaciendaBridge
+12753,2023-02-10 00:00:00,0.0,Russian River HaciendaBridge
+12754,2023-02-10 00:00:00,0.0,Russian River HaciendaBridge
+12755,2023-02-11 00:00:00,2.0,Russian River HaciendaBridge
+12756,2023-02-11 00:00:00,2.5,Russian River HaciendaBridge
+12757,2023-02-12 00:00:00,0.0,Russian River HaciendaBridge
+12758,2023-02-12 00:00:00,0.0,Russian River HaciendaBridge
+12759,2023-02-13 00:00:00,0.0,Russian River HaciendaBridge
+12760,2023-02-13 00:00:00,0.0,Russian River HaciendaBridge
+12761,2023-02-09 00:00:00,0.0,Navarro River
+12762,2023-02-10 00:00:00,0.5,Navarro River
+12763,2023-02-11 00:00:00,6.9,Navarro River
+12764,2023-02-12 00:00:00,0.0,Navarro River
+12765,2023-02-13 00:00:00,0.0,Navarro River
+12766,2023-02-09 00:00:00,0.0,Noyo River
+12767,2023-02-09 00:00:00,0.0,Noyo River
+12768,2023-02-10 00:00:00,0.0,Noyo River
+12769,2023-02-10 00:00:00,2.8,Noyo River
+12770,2023-02-11 00:00:00,7.4,Noyo River
+12771,2023-02-11 00:00:00,7.4,Noyo River
+12772,2023-02-11 00:00:00,4.3,Noyo River
+12773,2023-02-12 00:00:00,0.0,Noyo River
+12774,2023-02-12 00:00:00,0.0,Noyo River
+12775,2023-02-13 00:00:00,0.0,Noyo River
+12776,2023-02-13 00:00:00,0.0,Noyo River
+12777,2023-02-09 00:00:00,0.0,San Lorenzo River Upper
+12778,2023-02-09 00:00:00,0.0,San Lorenzo River Upper
+12779,2023-02-10 00:00:00,0.0,San Lorenzo River Upper
+12780,2023-02-10 00:00:00,0.0,San Lorenzo River Upper
+12781,2023-02-11 00:00:00,3.6,San Lorenzo River Upper
+12782,2023-02-11 00:00:00,3.8,San Lorenzo River Upper
+12783,2023-02-11 00:00:00,0.0,San Lorenzo River Upper
+12784,2023-02-12 00:00:00,0.8,San Lorenzo River Upper
+12785,2023-02-12 00:00:00,6.1,San Lorenzo River Upper
+12786,2023-02-13 00:00:00,0.0,San Lorenzo River Upper
+12787,2023-02-09 00:00:00,0.0,Mad River
+12788,2023-02-10 00:00:00,1.0,Mad River
+12789,2023-02-09 00:00:00,0.0,Putah Creek
+12790,2023-02-09 00:00:00,0.0,Putah Creek
+12791,2023-02-10 00:00:00,0.0,Putah Creek
+12792,2023-02-10 00:00:00,0.0,Putah Creek
+12793,2023-02-11 00:00:00,1.3,Putah Creek
+12794,2023-02-11 00:00:00,2.8,Putah Creek
+12795,2023-02-12 00:00:00,0.0,Putah Creek
+12796,2023-02-12 00:00:00,0.0,Putah Creek
+12797,2023-02-13 00:00:00,0.0,Putah Creek
+12798,2023-02-13 00:00:00,0.0,Putah Creek
+12799,2023-02-09 00:00:00,0.0,Truckee River Farad
+12800,2023-02-09 00:00:00,0.0,Truckee River Farad
+12801,2023-02-10 00:00:00,0.0,Truckee River Farad
+12802,2023-02-10 00:00:00,2.5,Truckee River Farad
+12803,2023-02-11 00:00:00,1.3,Truckee River Farad
+12804,2023-02-11 00:00:00,0.0,Truckee River Farad
+12805,2023-02-12 00:00:00,1.5,Truckee River Farad
+12806,2023-02-12 00:00:00,1.3,Truckee River Farad
+12807,2023-02-12 00:00:00,0.0,Truckee River Farad
+12808,2023-02-13 00:00:00,0.0,Truckee River Farad
+12809,2023-02-13 00:00:00,0.0,Truckee River Farad
+12810,2023-02-13 00:00:00,0.0,Truckee River Farad
+12811,2023-02-09 00:00:00,0.0,Little Truckee River
+12812,2023-02-09 00:00:00,0.0,Little Truckee River
+12813,2023-02-10 00:00:00,0.0,Little Truckee River
+12814,2023-02-10 00:00:00,2.5,Little Truckee River
+12815,2023-02-11 00:00:00,1.3,Little Truckee River
+12816,2023-02-11 00:00:00,0.0,Little Truckee River
+12817,2023-02-12 00:00:00,1.5,Little Truckee River
+12818,2023-02-12 00:00:00,1.3,Little Truckee River
+12819,2023-02-12 00:00:00,0.0,Little Truckee River
+12820,2023-02-13 00:00:00,0.0,Little Truckee River
+12821,2023-02-13 00:00:00,0.0,Little Truckee River
+12822,2023-02-13 00:00:00,0.0,Little Truckee River
+12823,2023-02-09 00:00:00,0.0,Smith River CC
+12824,2023-02-09 00:00:00,2.0,Smith River CC
+12825,2023-02-09 00:00:00,0.0,Smith River CC
+12826,2023-02-09 00:00:00,0.0,Smith River CC
+12827,2023-02-09 00:00:00,0.5,Smith River CC
+12828,2023-02-09 00:00:00,6.1,Smith River CC
+12829,2023-02-10 00:00:00,9.4,Smith River CC
+12830,2023-02-10 00:00:00,8.4,Smith River CC
+12831,2023-02-10 00:00:00,8.6,Smith River CC
+12832,2023-02-10 00:00:00,11.2,Smith River CC
+12833,2023-02-10 00:00:00,9.9,Smith River CC
+12834,2023-02-10 00:00:00,10.2,Smith River CC
+12835,2023-02-10 00:00:00,2.3,Smith River CC
+12836,2023-02-11 00:00:00,3.6,Smith River CC
+12837,2023-02-11 00:00:00,2.5,Smith River CC
+12838,2023-02-11 00:00:00,3.6,Smith River CC
+12839,2023-02-11 00:00:00,3.0,Smith River CC
+12840,2023-02-11 00:00:00,4.1,Smith River CC
+12841,2023-02-11 00:00:00,0.3,Smith River CC
+12842,2023-02-12 00:00:00,0.0,Smith River CC
+12843,2023-02-12 00:00:00,0.0,Smith River CC
+12844,2023-02-12 00:00:00,0.0,Smith River CC
+12845,2023-02-13 00:00:00,0.0,Smith River CC
+12846,2023-02-13 00:00:00,0.0,Smith River CC
+12847,2023-02-13 00:00:00,1.0,Smith River CC
+12848,2023-02-09 00:00:00,0.0,Smith River Fort Dick
+12849,2023-02-09 00:00:00,2.0,Smith River Fort Dick
+12850,2023-02-09 00:00:00,0.0,Smith River Fort Dick
+12851,2023-02-09 00:00:00,0.0,Smith River Fort Dick
+12852,2023-02-09 00:00:00,0.5,Smith River Fort Dick
+12853,2023-02-09 00:00:00,6.1,Smith River Fort Dick
+12854,2023-02-10 00:00:00,9.4,Smith River Fort Dick
+12855,2023-02-10 00:00:00,8.4,Smith River Fort Dick
+12856,2023-02-10 00:00:00,8.6,Smith River Fort Dick
+12857,2023-02-10 00:00:00,11.2,Smith River Fort Dick
+12858,2023-02-10 00:00:00,9.9,Smith River Fort Dick
+12859,2023-02-10 00:00:00,10.2,Smith River Fort Dick
+12860,2023-02-10 00:00:00,2.3,Smith River Fort Dick
+12861,2023-02-11 00:00:00,3.6,Smith River Fort Dick
+12862,2023-02-11 00:00:00,2.5,Smith River Fort Dick
+12863,2023-02-11 00:00:00,3.6,Smith River Fort Dick
+12864,2023-02-11 00:00:00,3.0,Smith River Fort Dick
+12865,2023-02-11 00:00:00,4.1,Smith River Fort Dick
+12866,2023-02-11 00:00:00,0.3,Smith River Fort Dick
+12867,2023-02-12 00:00:00,0.0,Smith River Fort Dick
+12868,2023-02-12 00:00:00,0.0,Smith River Fort Dick
+12869,2023-02-12 00:00:00,0.0,Smith River Fort Dick
+12870,2023-02-13 00:00:00,0.0,Smith River Fort Dick
+12871,2023-02-13 00:00:00,0.0,Smith River Fort Dick
+12872,2023-02-13 00:00:00,1.0,Smith River Fort Dick
+12873,2023-02-09 00:00:00,0.3,Eel River Fort Seward
+12874,2023-02-09 00:00:00,0.0,Eel River Fort Seward
+12875,2023-02-09 00:00:00,0.0,Eel River Fort Seward
+12876,2023-02-09 00:00:00,0.0,Eel River Fort Seward
+12877,2023-02-10 00:00:00,0.5,Eel River Fort Seward
+12878,2023-02-10 00:00:00,0.3,Eel River Fort Seward
+12879,2023-02-10 00:00:00,1.0,Eel River Fort Seward
+12880,2023-02-10 00:00:00,0.3,Eel River Fort Seward
+12881,2023-02-10 00:00:00,0.3,Eel River Fort Seward
+12882,2023-02-11 00:00:00,6.1,Eel River Fort Seward
+12883,2023-02-11 00:00:00,6.1,Eel River Fort Seward
+12884,2023-02-11 00:00:00,6.9,Eel River Fort Seward
+12885,2023-02-11 00:00:00,8.1,Eel River Fort Seward
+12886,2023-02-11 00:00:00,5.1,Eel River Fort Seward
+12887,2023-02-12 00:00:00,0.3,Eel River Fort Seward
+12888,2023-02-12 00:00:00,0.0,Eel River Fort Seward
+12889,2023-02-12 00:00:00,0.0,Eel River Fort Seward
+12890,2023-02-13 00:00:00,0.0,Eel River Fort Seward
+12891,2023-02-13 00:00:00,0.0,Eel River Fort Seward
+12892,2023-02-13 00:00:00,0.0,Eel River Fort Seward
+12893,2023-02-09 00:00:00,0.0,Eel River Fernbridge
+12894,2023-02-09 00:00:00,0.0,Eel River Fernbridge
+12895,2023-02-09 00:00:00,0.0,Eel River Fernbridge
+12896,2023-02-10 00:00:00,0.3,Eel River Fernbridge
+12897,2023-02-10 00:00:00,0.0,Eel River Fernbridge
+12898,2023-02-10 00:00:00,0.0,Eel River Fernbridge
+12899,2023-02-11 00:00:00,6.6,Eel River Fernbridge
+12900,2023-02-11 00:00:00,6.4,Eel River Fernbridge
+12901,2023-02-11 00:00:00,4.8,Eel River Fernbridge
+12902,2023-02-11 00:00:00,7.4,Eel River Fernbridge
+12903,2023-02-12 00:00:00,0.0,Eel River Fernbridge
+12904,2023-02-12 00:00:00,0.3,Eel River Fernbridge
+12905,2023-02-12 00:00:00,0.3,Eel River Fernbridge
+12906,2023-02-13 00:00:00,1.8,Eel River Fernbridge
+12907,2023-02-13 00:00:00,2.3,Eel River Fernbridge
+12908,2023-02-09 00:00:00,0.0,San Lorenzo River
+12909,2023-02-09 00:00:00,0.0,San Lorenzo River
+12910,2023-02-10 00:00:00,0.0,San Lorenzo River
+12911,2023-02-10 00:00:00,0.0,San Lorenzo River
+12912,2023-02-11 00:00:00,3.6,San Lorenzo River
+12913,2023-02-11 00:00:00,3.8,San Lorenzo River
+12914,2023-02-11 00:00:00,0.0,San Lorenzo River
+12915,2023-02-12 00:00:00,0.8,San Lorenzo River
+12916,2023-02-12 00:00:00,6.1,San Lorenzo River
+12917,2023-02-13 00:00:00,0.0,San Lorenzo River
+12918,2023-02-09 00:00:00,0.0,North Fork American River
+12919,2023-02-10 00:00:00,0.0,North Fork American River
+12920,2023-02-11 00:00:00,0.0,North Fork American River
+12921,2023-02-12 00:00:00,0.0,North Fork American River
+12922,2023-02-13 00:00:00,0.0,North Fork American River
+12923,2023-02-09 00:00:00,0.0,Pit River
+12924,2023-02-09 00:00:00,0.0,Pit River
+12925,2023-02-10 00:00:00,0.0,Pit River
+12926,2023-02-10 00:00:00,0.0,Pit River
+12927,2023-02-11 00:00:00,3.3,Pit River
+12928,2023-02-12 00:00:00,0.0,Pit River
+12929,2023-02-13 00:00:00,0.0,Pit River
+12930,2023-02-13 00:00:00,0.0,Pit River
+12931,2023-02-09 00:00:00,0.0,East Fork Carson
+12932,2023-02-09 00:00:00,0.0,East Fork Carson
+12933,2023-02-09 00:00:00,2.5,East Fork Carson
+12934,2023-02-09 00:00:00,0.0,East Fork Carson
+12935,2023-02-09 00:00:00,0.0,East Fork Carson
+12936,2023-02-09 00:00:00,0.0,East Fork Carson
+12937,2023-02-09 00:00:00,0.0,East Fork Carson
+12938,2023-02-10 00:00:00,0.0,East Fork Carson
+12939,2023-02-10 00:00:00,0.0,East Fork Carson
+12940,2023-02-10 00:00:00,0.0,East Fork Carson
+12941,2023-02-10 00:00:00,0.0,East Fork Carson
+12942,2023-02-10 00:00:00,0.0,East Fork Carson
+12943,2023-02-10 00:00:00,0.0,East Fork Carson
+12944,2023-02-10 00:00:00,0.0,East Fork Carson
+12945,2023-02-11 00:00:00,7.6,East Fork Carson
+12946,2023-02-11 00:00:00,5.1,East Fork Carson
+12947,2023-02-11 00:00:00,5.1,East Fork Carson
+12948,2023-02-11 00:00:00,7.6,East Fork Carson
+12949,2023-02-11 00:00:00,12.7,East Fork Carson
+12950,2023-02-11 00:00:00,2.5,East Fork Carson
+12951,2023-02-11 00:00:00,7.6,East Fork Carson
+12952,2023-02-12 00:00:00,0.0,East Fork Carson
+12953,2023-02-12 00:00:00,0.0,East Fork Carson
+12954,2023-02-12 00:00:00,0.0,East Fork Carson
+12955,2023-02-12 00:00:00,0.0,East Fork Carson
+12956,2023-02-12 00:00:00,0.0,East Fork Carson
+12957,2023-02-12 00:00:00,0.0,East Fork Carson
+12958,2023-02-12 00:00:00,0.0,East Fork Carson
+12959,2023-02-13 00:00:00,2.5,East Fork Carson
+12960,2023-02-13 00:00:00,0.0,East Fork Carson
+12961,2023-02-13 00:00:00,0.0,East Fork Carson
+12962,2023-02-13 00:00:00,0.0,East Fork Carson
+12963,2023-02-13 00:00:00,0.0,East Fork Carson
+12964,2023-02-13 00:00:00,0.0,East Fork Carson
+12965,2023-02-13 00:00:00,0.0,East Fork Carson
+12966,2023-02-09 00:00:00,0.0,Trinity River Junction City
+12967,2023-02-10 00:00:00,0.0,Trinity River Junction City
+12968,2023-02-11 00:00:00,8.9,Trinity River Junction City
+12969,2023-02-12 00:00:00,0.8,Trinity River Junction City
+12970,2023-02-13 00:00:00,0.0,Trinity River Junction City
+12971,2023-02-09 00:00:00,0.0,Rogue River Grants Pass
+12972,2023-02-09 00:00:00,0.0,Rogue River Grants Pass
+12973,2023-02-09 00:00:00,0.0,Rogue River Grants Pass
+12974,2023-02-09 00:00:00,0.0,Rogue River Grants Pass
+12975,2023-02-10 00:00:00,0.5,Rogue River Grants Pass
+12976,2023-02-10 00:00:00,0.0,Rogue River Grants Pass
+12977,2023-02-10 00:00:00,0.0,Rogue River Grants Pass
+12978,2023-02-10 00:00:00,1.0,Rogue River Grants Pass
+12979,2023-02-11 00:00:00,5.1,Rogue River Grants Pass
+12980,2023-02-11 00:00:00,1.3,Rogue River Grants Pass
+12981,2023-02-11 00:00:00,2.0,Rogue River Grants Pass
+12982,2023-02-11 00:00:00,0.0,Rogue River Grants Pass
+12983,2023-02-12 00:00:00,0.0,Rogue River Grants Pass
+12984,2023-02-12 00:00:00,0.0,Rogue River Grants Pass
+12985,2023-02-12 00:00:00,0.0,Rogue River Grants Pass
+12986,2023-02-13 00:00:00,0.0,Rogue River Grants Pass
+12987,2023-02-13 00:00:00,0.0,Rogue River Grants Pass
+12988,2023-02-13 00:00:00,7.4,Rogue River Grants Pass
+12989,2023-02-09 00:00:00,0.0,Rogue River Agness
+12990,2023-02-10 00:00:00,0.3,Rogue River Agness
+12991,2023-02-11 00:00:00,6.9,Rogue River Agness
+12992,2023-02-13 00:00:00,0.0,Rogue River Agness
+12993,2023-02-09 00:00:00,0.0,Redwood Creek Orick
+12994,2023-02-09 00:00:00,0.0,Redwood Creek Orick
+12995,2023-02-09 00:00:00,0.0,Redwood Creek Orick
+12996,2023-02-09 00:00:00,0.0,Redwood Creek Orick
+12997,2023-02-10 00:00:00,2.5,Redwood Creek Orick
+12998,2023-02-10 00:00:00,1.5,Redwood Creek Orick
+12999,2023-02-10 00:00:00,1.3,Redwood Creek Orick
+13000,2023-02-10 00:00:00,1.8,Redwood Creek Orick
+13001,2023-02-11 00:00:00,5.6,Redwood Creek Orick
+13002,2023-02-11 00:00:00,5.1,Redwood Creek Orick
+13003,2023-02-11 00:00:00,4.3,Redwood Creek Orick
+13004,2023-02-11 00:00:00,5.6,Redwood Creek Orick
+13005,2023-02-12 00:00:00,0.0,Redwood Creek Orick
+13006,2023-02-12 00:00:00,0.3,Redwood Creek Orick
+13007,2023-02-12 00:00:00,0.0,Redwood Creek Orick
+13008,2023-02-12 00:00:00,0.0,Redwood Creek Orick
+13009,2023-02-13 00:00:00,0.8,Redwood Creek Orick
+13010,2023-02-13 00:00:00,1.8,Redwood Creek Orick
+13011,2023-02-13 00:00:00,1.3,Redwood Creek Orick
+13012,2023-02-13 00:00:00,1.3,Redwood Creek Orick
+13013,2023-02-09 00:00:00,0.0,Van Duzen River Bridgeville
+13014,2023-02-09 00:00:00,0.0,Van Duzen River Bridgeville
+13015,2023-02-09 00:00:00,0.0,Van Duzen River Bridgeville
+13016,2023-02-10 00:00:00,0.0,Van Duzen River Bridgeville
+13017,2023-02-10 00:00:00,0.0,Van Duzen River Bridgeville
+13018,2023-02-10 00:00:00,0.0,Van Duzen River Bridgeville
+13019,2023-02-11 00:00:00,1.0,Van Duzen River Bridgeville
+13020,2023-02-11 00:00:00,2.8,Van Duzen River Bridgeville
+13021,2023-02-11 00:00:00,0.5,Van Duzen River Bridgeville
+13022,2023-02-12 00:00:00,0.0,Van Duzen River Bridgeville
+13023,2023-02-12 00:00:00,0.0,Van Duzen River Bridgeville
+13024,2023-02-12 00:00:00,0.0,Van Duzen River Bridgeville
+13025,2023-02-13 00:00:00,0.0,Van Duzen River Bridgeville
+13026,2023-02-13 00:00:00,0.0,Van Duzen River Bridgeville
+13027,2023-02-13 00:00:00,0.0,Van Duzen River Bridgeville
+13028,2023-02-09 00:00:00,0.3,Mattole River Ettersburg
+13029,2023-02-09 00:00:00,0.0,Mattole River Ettersburg
+13030,2023-02-09 00:00:00,0.0,Mattole River Ettersburg
+13031,2023-02-09 00:00:00,0.0,Mattole River Ettersburg
+13032,2023-02-10 00:00:00,0.5,Mattole River Ettersburg
+13033,2023-02-10 00:00:00,0.3,Mattole River Ettersburg
+13034,2023-02-10 00:00:00,1.0,Mattole River Ettersburg
+13035,2023-02-10 00:00:00,0.3,Mattole River Ettersburg
+13036,2023-02-10 00:00:00,0.3,Mattole River Ettersburg
+13037,2023-02-11 00:00:00,6.1,Mattole River Ettersburg
+13038,2023-02-11 00:00:00,6.1,Mattole River Ettersburg
+13039,2023-02-11 00:00:00,6.9,Mattole River Ettersburg
+13040,2023-02-11 00:00:00,8.1,Mattole River Ettersburg
+13041,2023-02-11 00:00:00,5.1,Mattole River Ettersburg
+13042,2023-02-12 00:00:00,0.3,Mattole River Ettersburg
+13043,2023-02-12 00:00:00,0.0,Mattole River Ettersburg
+13044,2023-02-12 00:00:00,0.0,Mattole River Ettersburg
+13045,2023-02-13 00:00:00,0.0,Mattole River Ettersburg
+13046,2023-02-13 00:00:00,0.0,Mattole River Ettersburg
+13047,2023-02-13 00:00:00,0.0,Mattole River Ettersburg
+13048,2023-02-11 00:00:00,1.8,Trinity River Burnt Ranch
+13049,2023-02-09 00:00:00,0.0,North Umpqua River Winchester
+13050,2023-02-09 00:00:00,0.0,North Umpqua River Winchester
+13051,2023-02-09 00:00:00,0.0,North Umpqua River Winchester
+13052,2023-02-09 00:00:00,0.3,North Umpqua River Winchester
+13053,2023-02-09 00:00:00,0.0,North Umpqua River Winchester
+13054,2023-02-09 00:00:00,0.0,North Umpqua River Winchester
+13055,2023-02-09 00:00:00,0.0,North Umpqua River Winchester
+13056,2023-02-10 00:00:00,0.5,North Umpqua River Winchester
+13057,2023-02-10 00:00:00,2.0,North Umpqua River Winchester
+13058,2023-02-10 00:00:00,1.5,North Umpqua River Winchester
+13059,2023-02-10 00:00:00,0.5,North Umpqua River Winchester
+13060,2023-02-10 00:00:00,1.3,North Umpqua River Winchester
+13061,2023-02-10 00:00:00,1.0,North Umpqua River Winchester
+13062,2023-02-10 00:00:00,2.5,North Umpqua River Winchester
+13063,2023-02-10 00:00:00,1.0,North Umpqua River Winchester
+13064,2023-02-11 00:00:00,0.0,North Umpqua River Winchester
+13065,2023-02-11 00:00:00,0.3,North Umpqua River Winchester
+13066,2023-02-11 00:00:00,0.0,North Umpqua River Winchester
+13067,2023-02-11 00:00:00,0.5,North Umpqua River Winchester
+13068,2023-02-11 00:00:00,0.0,North Umpqua River Winchester
+13069,2023-02-12 00:00:00,0.0,North Umpqua River Winchester
+13070,2023-02-12 00:00:00,0.0,North Umpqua River Winchester
+13071,2023-02-12 00:00:00,0.0,North Umpqua River Winchester
+13072,2023-02-12 00:00:00,0.0,North Umpqua River Winchester
+13073,2023-02-12 00:00:00,0.0,North Umpqua River Winchester
+13074,2023-02-13 00:00:00,0.0,North Umpqua River Winchester
+13075,2023-02-13 00:00:00,0.3,North Umpqua River Winchester
+13076,2023-02-13 00:00:00,0.0,North Umpqua River Winchester
+13077,2023-02-13 00:00:00,0.3,North Umpqua River Winchester
+13078,2023-02-13 00:00:00,7.4,North Umpqua River Winchester
+13079,2023-02-09 00:00:00,0.0,North Umpquar River Idlelyd
+13080,2023-02-09 00:00:00,0.0,North Umpquar River Idlelyd
+13081,2023-02-09 00:00:00,0.0,North Umpquar River Idlelyd
+13082,2023-02-10 00:00:00,1.3,North Umpquar River Idlelyd
+13083,2023-02-10 00:00:00,0.5,North Umpquar River Idlelyd
+13084,2023-02-10 00:00:00,0.0,North Umpquar River Idlelyd
+13085,2023-02-11 00:00:00,0.0,North Umpquar River Idlelyd
+13086,2023-02-11 00:00:00,2.8,North Umpquar River Idlelyd
+13087,2023-02-11 00:00:00,0.0,North Umpquar River Idlelyd
+13088,2023-02-12 00:00:00,0.0,North Umpquar River Idlelyd
+13089,2023-02-12 00:00:00,0.0,North Umpquar River Idlelyd
+13090,2023-02-12 00:00:00,0.0,North Umpquar River Idlelyd
+13091,2023-02-13 00:00:00,0.8,North Umpquar River Idlelyd
+13092,2023-02-13 00:00:00,7.6,North Umpquar River Idlelyd
