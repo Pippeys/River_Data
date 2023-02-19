@@ -5978,227 +5978,692 @@
 5976,2023-02-21_Van Duzen River Bridgeville,13,Van Duzen River Bridgeville,Monday,2023-02-21,2023-02-21,NNW,0.5,13.5,45.0,0.0
 5977,2023-02-21_Yuba River,13,Yuba River,Monday,2023-02-21,2023-02-21,NNE,0.0,11.0,44.5,0.0
 5978,2023-02-21_Yuba River Marysville,13,Yuba River Marysville,Monday,2023-02-21,2023-02-21,N,0.0,9.0,52.0,0.0
-0,2023-02-16_East Fork Carson,1,East Fork Carson,Thursday,2023-02-16,2023-02-16,E,0.0,5.0,22.0,0.0
-1,2023-02-16_East Walker,1,East Walker,Thursday,2023-02-16,2023-02-16,SW,0.0,5.0,14.5,0.0
-2,2023-02-16_Eel River Fort Seward,1,Eel River Fort Seward,Thursday,2023-02-16,2023-02-16,SSE,0.0,11.0,39.5,0.0
-3,2023-02-16_Eel River Scotia,1,Eel River Scotia,Thursday,2023-02-16,2023-02-16,SE,0.0,17.0,41.5,0.0
-4,2023-02-16_Hat Creek,1,Hat Creek,Thursday,2023-02-16,2023-02-16,S,0.0,7.0,29.5,0.0
-5,2023-02-16_Little Truckee River,1,Little Truckee River,Thursday,2023-02-16,2023-02-16,E,0.0,5.0,21.0,0.0
-6,2023-02-16_Mad River,1,Mad River,Thursday,2023-02-16,2023-02-16,E,0.0,7.0,43.0,0.0
-7,2023-02-16_Mattole River Ettersburg,1,Mattole River Ettersburg,Thursday,2023-02-16,2023-02-16,SSE,0.0,8.5,39.5,0.0
-8,2023-02-16_Mattole River Petrolia,1,Mattole River Petrolia,Thursday,2023-02-16,2023-02-16,E,0.0,10.0,43.0,0.0
-9,2023-02-16_Navarro River,1,Navarro River,Thursday,2023-02-16,2023-02-16,SE,0.0,8.5,43.0,0.0
-10,2023-02-16_Nestucca River Beaver,1,Nestucca River Beaver,Thursday,2023-02-16,2023-02-16,NNW,0.0,4.5,40.5,0.0
-11,2023-02-16_North Fork American River,1,North Fork American River,Thursday,2023-02-16,2023-02-16,ENE,0.0,8.0,43.0,0.0
-12,2023-02-16_North Umpqua River Winchester,1,North Umpqua River Winchester,Thursday,2023-02-16,2023-02-16,SE,0.0,3.0,39.0,0.0
-13,2023-02-16_North Umpquar River Idlelyd,1,North Umpquar River Idlelyd,Thursday,2023-02-16,2023-02-16,NE,0.0,6.0,38.5,0.0
-14,2023-02-16_Noyo River,1,Noyo River,Thursday,2023-02-16,2023-02-16,E,0.0,13.0,42.0,0.0
-15,2023-02-16_Pit River,1,Pit River,Thursday,2023-02-16,2023-02-16,ENE,0.0,6.0,32.5,0.0
-16,2023-02-16_Putah Creek,1,Putah Creek,Thursday,2023-02-16,2023-02-16,E,0.0,6.5,42.0,0.0
-17,2023-02-16_Redwood Creek Orick,1,Redwood Creek Orick,Thursday,2023-02-16,2023-02-16,ESE,0.0,8.5,42.5,0.0
-18,2023-02-16_Rogue River Agness,1,Rogue River Agness,Thursday,2023-02-16,2023-02-16,ESE,0.0,6.0,39.5,0.0
-19,2023-02-16_Rogue River Grants Pass,1,Rogue River Grants Pass,Thursday,2023-02-16,2023-02-16,ENE,0.0,6.0,37.5,0.0
-20,2023-02-16_Russian River HaciendaBridge,1,Russian River HaciendaBridge,Thursday,2023-02-16,2023-02-16,E,0.0,6.5,44.5,0.0
-21,2023-02-16_San Lorenzo River,1,San Lorenzo River,Thursday,2023-02-16,2023-02-16,NNE,0.0,8.0,46.0,0.0
-22,2023-02-16_San Lorenzo River Upper,1,San Lorenzo River Upper,Thursday,2023-02-16,2023-02-16,NNE,0.0,7.5,46.0,0.0
-23,2023-02-16_Smith River CC,1,Smith River CC,Thursday,2023-02-16,2023-02-16,E,0.0,7.0,42.0,0.0
-24,2023-02-16_Trinity River Burnt Ranch,1,Trinity River Burnt Ranch,Thursday,2023-02-16,2023-02-16,E,0.0,13.0,39.0,0.0
-25,2023-02-16_Trinity River Junction City,1,Trinity River Junction City,Thursday,2023-02-16,2023-02-16,S,0.0,11.0,36.5,0.0
-26,2023-02-16_Trinity River Lewiston,1,Trinity River Lewiston,Thursday,2023-02-16,2023-02-16,ENE,0.0,6.0,33.0,0.0
-27,2023-02-16_Truckee River Farad,1,Truckee River Farad,Thursday,2023-02-16,2023-02-16,S,0.0,5.0,24.0,0.0
-28,2023-02-16_Umpqua River Elkton,1,Umpqua River Elkton,Thursday,2023-02-16,2023-02-16,ESE,0.0,7.0,37.5,0.0
-29,2023-02-16_Van Duzen River Bridgeville,1,Van Duzen River Bridgeville,Thursday,2023-02-16,2023-02-16,ENE,0.0,8.0,40.5,0.0
-30,2023-02-16_Yuba River,1,Yuba River,Thursday,2023-02-16,2023-02-16,ENE,0.0,9.5,34.0,0.0
-31,2023-02-16_Yuba River Marysville,1,Yuba River Marysville,Thursday,2023-02-16,2023-02-16,E,0.0,7.0,43.5,0.0
-32,2023-02-17_East Fork Carson,3,East Fork Carson,Friday,2023-02-17,2023-02-17,S,0.0,2.5,25.0,0.0
-33,2023-02-17_East Walker,3,East Walker,Friday,2023-02-17,2023-02-17,SE,0.0,7.5,18.0,0.0
-34,2023-02-17_Eel River Fort Seward,3,Eel River Fort Seward,Friday,2023-02-17,2023-02-17,N,0.0,14.5,43.5,0.0
-35,2023-02-17_Eel River Scotia,3,Eel River Scotia,Friday,2023-02-17,2023-02-17,NNW,0.0,13.0,45.5,0.0
-36,2023-02-17_Hat Creek,3,Hat Creek,Friday,2023-02-17,2023-02-17,E,0.0,6.0,34.0,0.0
-37,2023-02-17_Little Truckee River,3,Little Truckee River,Friday,2023-02-17,2023-02-17,NE,0.0,5.0,25.0,0.0
-38,2023-02-17_Mad River,3,Mad River,Friday,2023-02-17,2023-02-17,E,0.0,8.0,47.0,0.0
-39,2023-02-17_Mattole River Ettersburg,3,Mattole River Ettersburg,Friday,2023-02-17,2023-02-17,ENE,0.0,8.5,45.5,0.0
-40,2023-02-17_Mattole River Petrolia,3,Mattole River Petrolia,Friday,2023-02-17,2023-02-17,ESE,0.0,9.5,48.5,0.0
-41,2023-02-17_Navarro River,3,Navarro River,Friday,2023-02-17,2023-02-17,ESE,0.0,10.5,48.5,0.0
-42,2023-02-17_Nestucca River Beaver,3,Nestucca River Beaver,Friday,2023-02-17,2023-02-17,NNE,1.0,4.5,42.0,0.0
-43,2023-02-17_North Fork American River,3,North Fork American River,Friday,2023-02-17,2023-02-17,ESE,0.0,6.5,47.0,0.0
-44,2023-02-17_North Umpqua River Winchester,3,North Umpqua River Winchester,Friday,2023-02-17,2023-02-17,ENE,0.0,6.0,40.5,0.0
-45,2023-02-17_North Umpquar River Idlelyd,3,North Umpquar River Idlelyd,Friday,2023-02-17,2023-02-17,N,0.0,6.0,39.5,0.0
-46,2023-02-17_Noyo River,3,Noyo River,Friday,2023-02-17,2023-02-17,ENE,0.0,12.0,47.0,0.0
-47,2023-02-17_Pit River,3,Pit River,Friday,2023-02-17,2023-02-17,ENE,0.0,6.0,38.0,0.0
-48,2023-02-17_Putah Creek,3,Putah Creek,Friday,2023-02-17,2023-02-17,N,0.0,9.5,48.0,0.0
-49,2023-02-17_Redwood Creek Orick,3,Redwood Creek Orick,Friday,2023-02-17,2023-02-17,ENE,0.0,10.0,46.0,0.0
-50,2023-02-17_Rogue River Agness,3,Rogue River Agness,Friday,2023-02-17,2023-02-17,NE,0.0,7.0,41.5,0.0
-51,2023-02-17_Rogue River Grants Pass,3,Rogue River Grants Pass,Friday,2023-02-17,2023-02-17,E,0.0,4.0,39.5,0.0
-52,2023-02-17_Russian River HaciendaBridge,3,Russian River HaciendaBridge,Friday,2023-02-17,2023-02-17,ENE,0.0,7.5,50.0,0.0
-53,2023-02-17_San Lorenzo River,3,San Lorenzo River,Friday,2023-02-17,2023-02-17,ENE,0.5,6.0,49.5,0.0
-54,2023-02-17_San Lorenzo River Upper,3,San Lorenzo River Upper,Friday,2023-02-17,2023-02-17,ENE,0.5,6.5,49.5,0.0
-55,2023-02-17_Smith River CC,3,Smith River CC,Friday,2023-02-17,2023-02-17,E,0.0,7.5,47.0,0.0
-56,2023-02-17_Trinity River Burnt Ranch,3,Trinity River Burnt Ranch,Friday,2023-02-17,2023-02-17,E,0.0,11.5,44.5,0.0
-57,2023-02-17_Trinity River Junction City,3,Trinity River Junction City,Friday,2023-02-17,2023-02-17,ENE,0.0,9.5,42.0,0.0
-58,2023-02-17_Trinity River Lewiston,3,Trinity River Lewiston,Friday,2023-02-17,2023-02-17,NE,0.0,7.0,40.0,0.0
-59,2023-02-17_Truckee River Farad,3,Truckee River Farad,Friday,2023-02-17,2023-02-17,E,0.0,5.0,27.5,0.0
-60,2023-02-17_Umpqua River Elkton,3,Umpqua River Elkton,Friday,2023-02-17,2023-02-17,ENE,0.0,6.0,39.0,0.0
-61,2023-02-17_Van Duzen River Bridgeville,3,Van Duzen River Bridgeville,Friday,2023-02-17,2023-02-17,E,0.0,8.0,45.5,0.0
-62,2023-02-17_Yuba River,3,Yuba River,Friday,2023-02-17,2023-02-17,E,0.0,7.5,40.0,0.0
-63,2023-02-17_Yuba River Marysville,3,Yuba River Marysville,Friday,2023-02-17,2023-02-17,N,0.0,8.0,47.5,0.0
-64,2023-02-18_East Fork Carson,5,East Fork Carson,Friday,2023-02-18,2023-02-18,SE,0.0,5.0,27.5,0.0
-65,2023-02-18_East Walker,5,East Walker,Friday,2023-02-18,2023-02-18,S,0.0,5.0,21.0,0.0
-66,2023-02-18_Eel River Fort Seward,5,Eel River Fort Seward,Friday,2023-02-18,2023-02-18,N,0.0,10.0,46.0,0.0
-67,2023-02-18_Eel River Scotia,5,Eel River Scotia,Friday,2023-02-18,2023-02-18,NNW,0.0,11.5,44.5,0.0
-68,2023-02-18_Hat Creek,5,Hat Creek,Friday,2023-02-18,2023-02-18,ESE,0.0,6.5,35.5,0.0
-69,2023-02-18_Little Truckee River,5,Little Truckee River,Friday,2023-02-18,2023-02-18,S,0.0,5.0,26.5,0.0
-70,2023-02-18_Mad River,5,Mad River,Friday,2023-02-18,2023-02-18,NNE,0.0,8.0,45.0,0.0
-71,2023-02-18_Mattole River Ettersburg,5,Mattole River Ettersburg,Friday,2023-02-18,2023-02-18,N,0.0,8.5,44.5,0.0
-72,2023-02-18_Mattole River Petrolia,5,Mattole River Petrolia,Friday,2023-02-18,2023-02-18,N,0.0,10.0,48.0,0.0
-73,2023-02-18_Navarro River,5,Navarro River,Friday,2023-02-18,2023-02-18,NE,0.0,6.5,46.0,0.0
-74,2023-02-18_Nestucca River Beaver,5,Nestucca River Beaver,Friday,2023-02-18,2023-02-18,N,1.0,8.0,40.0,0.0
-75,2023-02-18_North Fork American River,5,North Fork American River,Friday,2023-02-18,2023-02-18,NE,0.0,6.5,48.5,0.0
-76,2023-02-18_North Umpqua River Winchester,5,North Umpqua River Winchester,Friday,2023-02-18,2023-02-18,NNE,0.0,7.0,40.0,0.0
-77,2023-02-18_North Umpquar River Idlelyd,5,North Umpquar River Idlelyd,Friday,2023-02-18,2023-02-18,ENE,0.0,7.0,38.5,0.0
-78,2023-02-18_Noyo River,5,Noyo River,Friday,2023-02-18,2023-02-18,ENE,0.0,7.5,44.5,0.0
-79,2023-02-18_Pit River,5,Pit River,Friday,2023-02-18,2023-02-18,ENE,0.0,6.5,38.0,0.0
-80,2023-02-18_Putah Creek,5,Putah Creek,Friday,2023-02-18,2023-02-18,NNE,0.0,8.0,49.0,0.0
-81,2023-02-18_Redwood Creek Orick,5,Redwood Creek Orick,Friday,2023-02-18,2023-02-18,NE,0.0,9.5,45.5,0.0
-82,2023-02-18_Rogue River Agness,5,Rogue River Agness,Friday,2023-02-18,2023-02-18,NE,0.0,9.0,41.5,0.0
-83,2023-02-18_Rogue River Grants Pass,5,Rogue River Grants Pass,Friday,2023-02-18,2023-02-18,NNE,0.0,6.0,40.0,0.0
-84,2023-02-18_Russian River HaciendaBridge,5,Russian River HaciendaBridge,Friday,2023-02-18,2023-02-18,NE,0.0,6.5,49.0,0.0
-85,2023-02-18_San Lorenzo River,5,San Lorenzo River,Friday,2023-02-18,2023-02-18,NNE,0.0,6.0,50.5,0.0
-86,2023-02-18_San Lorenzo River Upper,5,San Lorenzo River Upper,Friday,2023-02-18,2023-02-18,N,0.0,6.0,51.0,0.0
-87,2023-02-18_Smith River CC,5,Smith River CC,Friday,2023-02-18,2023-02-18,NNE,0.0,11.0,48.5,0.0
-88,2023-02-18_Trinity River Burnt Ranch,5,Trinity River Burnt Ranch,Friday,2023-02-18,2023-02-18,E,0.0,6.0,47.0,0.0
-89,2023-02-18_Trinity River Junction City,5,Trinity River Junction City,Friday,2023-02-18,2023-02-18,NE,0.0,6.0,45.0,0.0
-90,2023-02-18_Trinity River Lewiston,5,Trinity River Lewiston,Friday,2023-02-18,2023-02-18,ESE,0.0,6.0,42.5,0.0
-91,2023-02-18_Truckee River Farad,5,Truckee River Farad,Friday,2023-02-18,2023-02-18,S,0.0,5.0,29.5,0.0
-92,2023-02-18_Umpqua River Elkton,5,Umpqua River Elkton,Friday,2023-02-18,2023-02-18,NNE,0.0,7.0,39.5,0.0
-93,2023-02-18_Van Duzen River Bridgeville,5,Van Duzen River Bridgeville,Friday,2023-02-18,2023-02-18,NNE,0.0,7.5,45.0,0.0
-94,2023-02-18_Yuba River,5,Yuba River,Friday,2023-02-18,2023-02-18,NE,0.0,12.5,41.5,0.0
-95,2023-02-18_Yuba River Marysville,5,Yuba River Marysville,Friday,2023-02-18,2023-02-18,N,0.0,7.5,47.0,0.0
-96,2023-02-19_East Fork Carson,7,East Fork Carson,Saturday,2023-02-19,2023-02-19,N,0.0,5.0,30.0,0.0
-97,2023-02-19_East Walker,7,East Walker,Saturday,2023-02-19,2023-02-19,NW,0.0,7.5,24.0,0.0
-98,2023-02-19_Eel River Fort Seward,7,Eel River Fort Seward,Saturday,2023-02-19,2023-02-19,NNE,0.0,7.5,49.0,0.0
-99,2023-02-19_Eel River Scotia,7,Eel River Scotia,Saturday,2023-02-19,2023-02-19,N,0.0,11.5,46.5,0.0
-100,2023-02-19_Hat Creek,7,Hat Creek,Saturday,2023-02-19,2023-02-19,NE,0.0,7.5,39.0,0.0
-101,2023-02-19_Little Truckee River,7,Little Truckee River,Saturday,2023-02-19,2023-02-19,N,0.0,5.0,30.0,0.0
-102,2023-02-19_Mad River,7,Mad River,Saturday,2023-02-19,2023-02-19,NNE,0.0,11.5,47.5,0.0
-103,2023-02-19_Mattole River Ettersburg,7,Mattole River Ettersburg,Saturday,2023-02-19,2023-02-19,N,0.0,10.0,46.5,0.0
-104,2023-02-19_Mattole River Petrolia,7,Mattole River Petrolia,Saturday,2023-02-19,2023-02-19,N,0.0,15.5,48.5,0.0
-105,2023-02-19_Navarro River,7,Navarro River,Saturday,2023-02-19,2023-02-19,N,0.0,7.5,47.0,0.0
-106,2023-02-19_Nestucca River Beaver,7,Nestucca River Beaver,Saturday,2023-02-19,2023-02-19,NW,1.0,11.0,43.5,0.0
-107,2023-02-19_North Fork American River,7,North Fork American River,Saturday,2023-02-19,2023-02-19,ENE,0.0,6.5,48.5,0.0
-108,2023-02-19_North Umpqua River Winchester,7,North Umpqua River Winchester,Saturday,2023-02-19,2023-02-19,NNE,0.0,7.5,42.5,0.0
-109,2023-02-19_North Umpquar River Idlelyd,7,North Umpquar River Idlelyd,Saturday,2023-02-19,2023-02-19,N,0.0,8.0,42.5,0.0
-110,2023-02-19_Noyo River,7,Noyo River,Saturday,2023-02-19,2023-02-19,N,0.0,7.5,46.0,0.0
-111,2023-02-19_Pit River,7,Pit River,Saturday,2023-02-19,2023-02-19,ENE,0.0,7.0,40.5,0.0
-112,2023-02-19_Putah Creek,7,Putah Creek,Saturday,2023-02-19,2023-02-19,N,0.0,7.0,51.0,0.0
-113,2023-02-19_Redwood Creek Orick,7,Redwood Creek Orick,Saturday,2023-02-19,2023-02-19,NNE,0.0,13.0,47.5,0.0
-114,2023-02-19_Rogue River Agness,7,Rogue River Agness,Saturday,2023-02-19,2023-02-19,NNE,0.0,11.0,43.5,0.0
-115,2023-02-19_Rogue River Grants Pass,7,Rogue River Grants Pass,Saturday,2023-02-19,2023-02-19,NNE,0.0,7.5,41.5,0.0
-116,2023-02-19_Russian River HaciendaBridge,7,Russian River HaciendaBridge,Saturday,2023-02-19,2023-02-19,N,0.0,7.0,50.0,0.0
-117,2023-02-19_San Lorenzo River,7,San Lorenzo River,Saturday,2023-02-19,2023-02-19,N,0.0,6.5,51.0,0.0
-118,2023-02-19_San Lorenzo River Upper,7,San Lorenzo River Upper,Saturday,2023-02-19,2023-02-19,N,0.0,6.5,51.0,0.0
-119,2023-02-19_Smith River CC,7,Smith River CC,Saturday,2023-02-19,2023-02-19,NNE,0.0,13.5,49.5,0.0
-120,2023-02-19_Trinity River Burnt Ranch,7,Trinity River Burnt Ranch,Saturday,2023-02-19,2023-02-19,N,0.0,8.5,51.0,0.0
-121,2023-02-19_Trinity River Junction City,7,Trinity River Junction City,Saturday,2023-02-19,2023-02-19,NW,0.0,7.5,49.5,0.0
-122,2023-02-19_Trinity River Lewiston,7,Trinity River Lewiston,Saturday,2023-02-19,2023-02-19,NW,0.0,6.5,46.0,0.0
-123,2023-02-19_Truckee River Farad,7,Truckee River Farad,Saturday,2023-02-19,2023-02-19,NW,0.0,7.5,32.5,0.0
-124,2023-02-19_Umpqua River Elkton,7,Umpqua River Elkton,Saturday,2023-02-19,2023-02-19,NNE,0.0,7.5,41.5,0.0
-125,2023-02-19_Van Duzen River Bridgeville,7,Van Duzen River Bridgeville,Saturday,2023-02-19,2023-02-19,N,0.0,9.5,47.5,0.0
-126,2023-02-19_Yuba River,7,Yuba River,Saturday,2023-02-19,2023-02-19,N,0.0,7.5,44.5,0.0
-127,2023-02-19_Yuba River Marysville,7,Yuba River Marysville,Saturday,2023-02-19,2023-02-19,NE,0.0,7.0,48.5,0.0
-128,2023-02-20_East Fork Carson,9,East Fork Carson,Sunday,2023-02-20,2023-02-20,SW,0.0,7.5,34.5,0.0
-129,2023-02-20_East Walker,9,East Walker,Sunday,2023-02-20,2023-02-20,W,0.0,10.0,27.0,0.0
-130,2023-02-20_Eel River Fort Seward,9,Eel River Fort Seward,Sunday,2023-02-20,2023-02-20,N,0.0,11.0,48.5,0.0
-131,2023-02-20_Eel River Scotia,9,Eel River Scotia,Sunday,2023-02-20,2023-02-20,N,0.0,15.5,46.0,0.0
-132,2023-02-20_Hat Creek,9,Hat Creek,Sunday,2023-02-20,2023-02-20,ESE,0.0,10.0,40.5,0.0
-133,2023-02-20_Little Truckee River,9,Little Truckee River,Sunday,2023-02-20,2023-02-20,W,0.0,7.5,34.0,0.0
-134,2023-02-20_Mad River,9,Mad River,Sunday,2023-02-20,2023-02-20,N,0.0,15.5,48.5,0.0
-135,2023-02-20_Mattole River Ettersburg,9,Mattole River Ettersburg,Sunday,2023-02-20,2023-02-20,N,0.0,15.0,47.0,0.0
-136,2023-02-20_Mattole River Petrolia,9,Mattole River Petrolia,Sunday,2023-02-20,2023-02-20,N,0.0,19.5,48.5,0.0
-137,2023-02-20_Navarro River,9,Navarro River,Sunday,2023-02-20,2023-02-20,N,0.0,14.5,47.5,0.0
-138,2023-02-20_Nestucca River Beaver,9,Nestucca River Beaver,Sunday,2023-02-20,2023-02-20,WNW,1.0,15.0,44.5,0.0
-139,2023-02-20_North Fork American River,9,North Fork American River,Sunday,2023-02-20,2023-02-20,N,0.0,7.0,50.0,0.0
-140,2023-02-20_North Umpqua River Winchester,9,North Umpqua River Winchester,Sunday,2023-02-20,2023-02-20,W,1.0,8.0,43.0,0.0
-141,2023-02-20_North Umpquar River Idlelyd,9,North Umpquar River Idlelyd,Sunday,2023-02-20,2023-02-20,SSE,1.0,9.0,42.0,0.0
-142,2023-02-20_Noyo River,9,Noyo River,Sunday,2023-02-20,2023-02-20,NNW,0.0,13.5,46.5,0.0
-143,2023-02-20_Pit River,9,Pit River,Sunday,2023-02-20,2023-02-20,ENE,0.0,8.5,42.0,0.0
-144,2023-02-20_Putah Creek,9,Putah Creek,Sunday,2023-02-20,2023-02-20,NNW,0.0,8.0,51.0,0.0
-145,2023-02-20_Redwood Creek Orick,9,Redwood Creek Orick,Sunday,2023-02-20,2023-02-20,N,0.0,16.0,48.0,0.0
-146,2023-02-20_Rogue River Agness,9,Rogue River Agness,Sunday,2023-02-20,2023-02-20,N,1.0,12.0,42.5,0.0
-147,2023-02-20_Rogue River Grants Pass,9,Rogue River Grants Pass,Sunday,2023-02-20,2023-02-20,NW,1.0,8.0,41.0,0.0
-148,2023-02-20_Russian River HaciendaBridge,9,Russian River HaciendaBridge,Sunday,2023-02-20,2023-02-20,NW,0.0,8.0,51.0,0.0
-149,2023-02-20_San Lorenzo River,9,San Lorenzo River,Sunday,2023-02-20,2023-02-20,NNE,0.0,7.5,50.0,0.0
-150,2023-02-20_San Lorenzo River Upper,9,San Lorenzo River Upper,Sunday,2023-02-20,2023-02-20,NNE,0.0,7.5,50.5,0.0
-151,2023-02-20_Smith River CC,9,Smith River CC,Sunday,2023-02-20,2023-02-20,N,0.5,13.5,49.0,0.0
-152,2023-02-20_Trinity River Burnt Ranch,9,Trinity River Burnt Ranch,Sunday,2023-02-20,2023-02-20,N,0.0,11.5,50.0,0.0
-153,2023-02-20_Trinity River Junction City,9,Trinity River Junction City,Sunday,2023-02-20,2023-02-20,NW,0.0,10.0,49.5,0.0
-154,2023-02-20_Trinity River Lewiston,9,Trinity River Lewiston,Sunday,2023-02-20,2023-02-20,NW,0.0,8.0,45.5,0.0
-155,2023-02-20_Truckee River Farad,9,Truckee River Farad,Sunday,2023-02-20,2023-02-20,W,0.0,10.0,36.5,0.0
-156,2023-02-20_Umpqua River Elkton,9,Umpqua River Elkton,Sunday,2023-02-20,2023-02-20,W,1.0,8.5,42.0,0.0
-157,2023-02-20_Van Duzen River Bridgeville,9,Van Duzen River Bridgeville,Sunday,2023-02-20,2023-02-20,N,0.0,13.0,47.5,0.0
-158,2023-02-20_Yuba River,9,Yuba River,Sunday,2023-02-20,2023-02-20,NNE,0.0,8.5,45.0,0.0
-159,2023-02-20_Yuba River Marysville,9,Yuba River Marysville,Sunday,2023-02-20,2023-02-20,E,0.0,7.5,50.0,0.0
-160,2023-02-21_East Fork Carson,11,East Fork Carson,Monday,2023-02-21,2023-02-21,SW,0.5,15.0,34.0,0.0
-161,2023-02-21_East Walker,11,East Walker,Monday,2023-02-21,2023-02-21,NW,0.0,17.5,27.5,0.0
-162,2023-02-21_Eel River Fort Seward,11,Eel River Fort Seward,Monday,2023-02-21,2023-02-21,NNW,0.5,12.5,45.5,0.0
-163,2023-02-21_Eel River Scotia,11,Eel River Scotia,Monday,2023-02-21,2023-02-21,NNW,0.5,16.0,45.5,0.0
-164,2023-02-21_Hat Creek,11,Hat Creek,Monday,2023-02-21,2023-02-21,NE,0.5,14.0,38.0,0.0
-165,2023-02-21_Little Truckee River,11,Little Truckee River,Monday,2023-02-21,2023-02-21,SW,0.0,15.0,32.5,0.0
-166,2023-02-21_Mad River,11,Mad River,Monday,2023-02-21,2023-02-21,N,0.5,15.0,46.5,0.0
-167,2023-02-21_Mattole River Ettersburg,11,Mattole River Ettersburg,Monday,2023-02-21,2023-02-21,NNW,0.5,16.0,45.5,0.0
-168,2023-02-21_Mattole River Petrolia,11,Mattole River Petrolia,Monday,2023-02-21,2023-02-21,N,0.5,19.5,47.5,0.0
-169,2023-02-21_Navarro River,11,Navarro River,Monday,2023-02-21,2023-02-21,NNW,0.0,20.0,47.0,0.0
-170,2023-02-21_Nestucca River Beaver,11,Nestucca River Beaver,Monday,2023-02-21,2023-02-21,WNW,2.0,18.0,42.0,0.0
-171,2023-02-21_North Fork American River,11,North Fork American River,Monday,2023-02-21,2023-02-21,NNE,0.5,9.5,50.0,0.0
-172,2023-02-21_North Umpqua River Winchester,11,North Umpqua River Winchester,Monday,2023-02-21,2023-02-21,SW,1.5,11.0,41.5,0.0
-173,2023-02-21_North Umpquar River Idlelyd,11,North Umpquar River Idlelyd,Monday,2023-02-21,2023-02-21,SW,1.5,12.0,40.5,0.0
-174,2023-02-21_Noyo River,11,Noyo River,Monday,2023-02-21,2023-02-21,NNW,0.5,18.0,46.0,0.0
-175,2023-02-21_Pit River,11,Pit River,Monday,2023-02-21,2023-02-21,NNE,0.5,12.0,40.5,0.0
-176,2023-02-21_Putah Creek,11,Putah Creek,Monday,2023-02-21,2023-02-21,WNW,0.0,12.0,53.0,0.0
-177,2023-02-21_Redwood Creek Orick,11,Redwood Creek Orick,Monday,2023-02-21,2023-02-21,N,1.0,15.5,46.5,0.0
-178,2023-02-21_Rogue River Agness,11,Rogue River Agness,Monday,2023-02-21,2023-02-21,NW,1.5,13.0,40.0,0.0
-179,2023-02-21_Rogue River Grants Pass,11,Rogue River Grants Pass,Monday,2023-02-21,2023-02-21,WNW,1.5,10.0,40.5,0.0
-180,2023-02-21_Russian River HaciendaBridge,11,Russian River HaciendaBridge,Monday,2023-02-21,2023-02-21,NW,0.0,12.0,51.5,0.0
-181,2023-02-21_San Lorenzo River,11,San Lorenzo River,Monday,2023-02-21,2023-02-21,NW,0.0,10.5,51.0,0.0
-182,2023-02-21_San Lorenzo River Upper,11,San Lorenzo River Upper,Monday,2023-02-21,2023-02-21,NW,0.0,10.5,50.5,0.0
-183,2023-02-21_Smith River CC,11,Smith River CC,Monday,2023-02-21,2023-02-21,N,1.0,13.0,45.5,0.0
-184,2023-02-21_Trinity River Burnt Ranch,11,Trinity River Burnt Ranch,Monday,2023-02-21,2023-02-21,NW,0.5,13.0,47.0,0.0
-185,2023-02-21_Trinity River Junction City,11,Trinity River Junction City,Monday,2023-02-21,2023-02-21,W,0.5,12.0,45.5,0.0
-186,2023-02-21_Trinity River Lewiston,11,Trinity River Lewiston,Monday,2023-02-21,2023-02-21,W,0.5,10.5,43.5,0.0
-187,2023-02-21_Truckee River Farad,11,Truckee River Farad,Monday,2023-02-21,2023-02-21,W,0.0,17.5,35.0,0.0
-188,2023-02-21_Umpqua River Elkton,11,Umpqua River Elkton,Monday,2023-02-21,2023-02-21,SW,1.5,12.0,40.5,0.0
-189,2023-02-21_Van Duzen River Bridgeville,11,Van Duzen River Bridgeville,Monday,2023-02-21,2023-02-21,NW,0.5,13.5,45.5,0.0
-190,2023-02-21_Yuba River,11,Yuba River,Monday,2023-02-21,2023-02-21,N,1.0,11.5,43.5,0.0
-191,2023-02-21_Yuba River Marysville,11,Yuba River Marysville,Monday,2023-02-21,2023-02-21,NNE,0.0,11.0,52.0,0.0
-192,2023-02-22_East Fork Carson,13,East Fork Carson,Tuesday,2023-02-22,2023-02-22,SW,0.5,20.0,27.0,0.0
-193,2023-02-22_East Walker,13,East Walker,Tuesday,2023-02-22,2023-02-22,SW,0.0,22.5,21.5,0.0
-194,2023-02-22_Eel River Fort Seward,13,Eel River Fort Seward,Tuesday,2023-02-22,2023-02-22,WNW,1.0,12.0,37.5,0.0
-195,2023-02-22_Eel River Scotia,13,Eel River Scotia,Tuesday,2023-02-22,2023-02-22,NW,1.0,15.0,39.5,0.0
-196,2023-02-22_Hat Creek,13,Hat Creek,Tuesday,2023-02-22,2023-02-22,SW,0.0,16.5,29.5,0.0
-197,2023-02-22_Little Truckee River,13,Little Truckee River,Tuesday,2023-02-22,2023-02-22,SW,0.0,20.0,25.0,0.0
-198,2023-02-22_Mad River,13,Mad River,Tuesday,2023-02-22,2023-02-22,NW,1.0,14.0,42.0,0.0
-199,2023-02-22_Mattole River Ettersburg,13,Mattole River Ettersburg,Tuesday,2023-02-22,2023-02-22,NW,1.0,14.5,39.0,0.0
-200,2023-02-22_Mattole River Petrolia,13,Mattole River Petrolia,Tuesday,2023-02-22,2023-02-22,NW,1.0,18.0,43.0,0.0
-201,2023-02-22_Navarro River,13,Navarro River,Tuesday,2023-02-22,2023-02-22,NW,1.0,21.5,42.5,0.0
-202,2023-02-22_Nestucca River Beaver,13,Nestucca River Beaver,Tuesday,2023-02-22,2023-02-22,W,2.0,19.5,37.5,0.0
-203,2023-02-22_North Fork American River,13,North Fork American River,Tuesday,2023-02-22,2023-02-22,S,1.5,11.5,43.5,0.0
-204,2023-02-22_North Umpqua River Winchester,13,North Umpqua River Winchester,Tuesday,2023-02-22,2023-02-22,WSW,1.5,13.5,37.5,0.0
-205,2023-02-22_North Umpquar River Idlelyd,13,North Umpquar River Idlelyd,Tuesday,2023-02-22,2023-02-22,WSW,2.0,14.5,35.0,0.0
-206,2023-02-22_Noyo River,13,Noyo River,Tuesday,2023-02-22,2023-02-22,NW,1.0,20.0,41.5,0.0
-207,2023-02-22_Pit River,13,Pit River,Tuesday,2023-02-22,2023-02-22,WSW,0.0,15.5,34.0,0.0
-208,2023-02-22_Putah Creek,13,Putah Creek,Tuesday,2023-02-22,2023-02-22,W,2.0,15.0,46.5,0.0
-209,2023-02-22_Redwood Creek Orick,13,Redwood Creek Orick,Tuesday,2023-02-22,2023-02-22,NW,1.0,14.5,41.0,0.0
-210,2023-02-22_Rogue River Agness,13,Rogue River Agness,Tuesday,2023-02-22,2023-02-22,W,1.0,15.0,35.0,0.0
-211,2023-02-22_Rogue River Grants Pass,13,Rogue River Grants Pass,Tuesday,2023-02-22,2023-02-22,W,1.0,11.5,35.5,0.0
-212,2023-02-22_Russian River HaciendaBridge,13,Russian River HaciendaBridge,Tuesday,2023-02-22,2023-02-22,WNW,1.0,17.5,46.0,0.0
-213,2023-02-22_San Lorenzo River,13,San Lorenzo River,Tuesday,2023-02-22,2023-02-22,NW,1.0,16.5,46.0,0.0
-214,2023-02-22_San Lorenzo River Upper,13,San Lorenzo River Upper,Tuesday,2023-02-22,2023-02-22,NW,1.0,16.5,46.5,0.0
-215,2023-02-22_Smith River CC,13,Smith River CC,Tuesday,2023-02-22,2023-02-22,WNW,1.0,12.5,40.5,0.0
-216,2023-02-22_Trinity River Burnt Ranch,13,Trinity River Burnt Ranch,Tuesday,2023-02-22,2023-02-22,WNW,1.0,12.5,38.5,0.0
-217,2023-02-22_Trinity River Junction City,13,Trinity River Junction City,Tuesday,2023-02-22,2023-02-22,W,1.5,12.0,36.5,0.0
-218,2023-02-22_Trinity River Lewiston,13,Trinity River Lewiston,Tuesday,2023-02-22,2023-02-22,W,1.0,12.0,34.5,0.0
-219,2023-02-22_Truckee River Farad,13,Truckee River Farad,Tuesday,2023-02-22,2023-02-22,SW,0.0,22.5,28.5,0.0
-220,2023-02-22_Umpqua River Elkton,13,Umpqua River Elkton,Tuesday,2023-02-22,2023-02-22,WSW,1.5,15.0,36.0,0.0
-221,2023-02-22_Van Duzen River Bridgeville,13,Van Duzen River Bridgeville,Tuesday,2023-02-22,2023-02-22,NW,1.0,13.0,38.5,0.0
-222,2023-02-22_Yuba River,13,Yuba River,Tuesday,2023-02-22,2023-02-22,SSW,1.0,15.0,33.5,0.0
-223,2023-02-22_Yuba River Marysville,13,Yuba River Marysville,Tuesday,2023-02-22,2023-02-22,S,1.0,13.5,47.0,0.0
+5979,2023-02-16_East Fork Carson,1,East Fork Carson,Thursday,2023-02-16,2023-02-16,E,0.0,5.0,22.0,0.0
+5980,2023-02-16_East Walker,1,East Walker,Thursday,2023-02-16,2023-02-16,SW,0.0,5.0,14.5,0.0
+5981,2023-02-16_Eel River Fort Seward,1,Eel River Fort Seward,Thursday,2023-02-16,2023-02-16,SSE,0.0,11.0,39.5,0.0
+5982,2023-02-16_Eel River Scotia,1,Eel River Scotia,Thursday,2023-02-16,2023-02-16,SE,0.0,17.0,41.5,0.0
+5983,2023-02-16_Hat Creek,1,Hat Creek,Thursday,2023-02-16,2023-02-16,S,0.0,7.0,29.5,0.0
+5984,2023-02-16_Little Truckee River,1,Little Truckee River,Thursday,2023-02-16,2023-02-16,E,0.0,5.0,21.0,0.0
+5985,2023-02-16_Mad River,1,Mad River,Thursday,2023-02-16,2023-02-16,E,0.0,7.0,43.0,0.0
+5986,2023-02-16_Mattole River Ettersburg,1,Mattole River Ettersburg,Thursday,2023-02-16,2023-02-16,SSE,0.0,8.5,39.5,0.0
+5987,2023-02-16_Mattole River Petrolia,1,Mattole River Petrolia,Thursday,2023-02-16,2023-02-16,E,0.0,10.0,43.0,0.0
+5988,2023-02-16_Navarro River,1,Navarro River,Thursday,2023-02-16,2023-02-16,SE,0.0,8.5,43.0,0.0
+5989,2023-02-16_Nestucca River Beaver,1,Nestucca River Beaver,Thursday,2023-02-16,2023-02-16,NNW,0.0,4.5,40.5,0.0
+5990,2023-02-16_North Fork American River,1,North Fork American River,Thursday,2023-02-16,2023-02-16,ENE,0.0,8.0,43.0,0.0
+5991,2023-02-16_North Umpqua River Winchester,1,North Umpqua River Winchester,Thursday,2023-02-16,2023-02-16,SE,0.0,3.0,39.0,0.0
+5992,2023-02-16_North Umpquar River Idlelyd,1,North Umpquar River Idlelyd,Thursday,2023-02-16,2023-02-16,NE,0.0,6.0,38.5,0.0
+5993,2023-02-16_Noyo River,1,Noyo River,Thursday,2023-02-16,2023-02-16,E,0.0,13.0,42.0,0.0
+5994,2023-02-16_Pit River,1,Pit River,Thursday,2023-02-16,2023-02-16,ENE,0.0,6.0,32.5,0.0
+5995,2023-02-16_Putah Creek,1,Putah Creek,Thursday,2023-02-16,2023-02-16,E,0.0,6.5,42.0,0.0
+5996,2023-02-16_Redwood Creek Orick,1,Redwood Creek Orick,Thursday,2023-02-16,2023-02-16,ESE,0.0,8.5,42.5,0.0
+5997,2023-02-16_Rogue River Agness,1,Rogue River Agness,Thursday,2023-02-16,2023-02-16,ESE,0.0,6.0,39.5,0.0
+5998,2023-02-16_Rogue River Grants Pass,1,Rogue River Grants Pass,Thursday,2023-02-16,2023-02-16,ENE,0.0,6.0,37.5,0.0
+5999,2023-02-16_Russian River HaciendaBridge,1,Russian River HaciendaBridge,Thursday,2023-02-16,2023-02-16,E,0.0,6.5,44.5,0.0
+6000,2023-02-16_San Lorenzo River,1,San Lorenzo River,Thursday,2023-02-16,2023-02-16,NNE,0.0,8.0,46.0,0.0
+6001,2023-02-16_San Lorenzo River Upper,1,San Lorenzo River Upper,Thursday,2023-02-16,2023-02-16,NNE,0.0,7.5,46.0,0.0
+6002,2023-02-16_Smith River CC,1,Smith River CC,Thursday,2023-02-16,2023-02-16,E,0.0,7.0,42.0,0.0
+6003,2023-02-16_Trinity River Burnt Ranch,1,Trinity River Burnt Ranch,Thursday,2023-02-16,2023-02-16,E,0.0,13.0,39.0,0.0
+6004,2023-02-16_Trinity River Junction City,1,Trinity River Junction City,Thursday,2023-02-16,2023-02-16,S,0.0,11.0,36.5,0.0
+6005,2023-02-16_Trinity River Lewiston,1,Trinity River Lewiston,Thursday,2023-02-16,2023-02-16,ENE,0.0,6.0,33.0,0.0
+6006,2023-02-16_Truckee River Farad,1,Truckee River Farad,Thursday,2023-02-16,2023-02-16,S,0.0,5.0,24.0,0.0
+6007,2023-02-16_Umpqua River Elkton,1,Umpqua River Elkton,Thursday,2023-02-16,2023-02-16,ESE,0.0,7.0,37.5,0.0
+6008,2023-02-16_Van Duzen River Bridgeville,1,Van Duzen River Bridgeville,Thursday,2023-02-16,2023-02-16,ENE,0.0,8.0,40.5,0.0
+6009,2023-02-16_Yuba River,1,Yuba River,Thursday,2023-02-16,2023-02-16,ENE,0.0,9.5,34.0,0.0
+6010,2023-02-16_Yuba River Marysville,1,Yuba River Marysville,Thursday,2023-02-16,2023-02-16,E,0.0,7.0,43.5,0.0
+6011,2023-02-17_East Fork Carson,3,East Fork Carson,Friday,2023-02-17,2023-02-17,S,0.0,2.5,25.0,0.0
+6012,2023-02-17_East Walker,3,East Walker,Friday,2023-02-17,2023-02-17,SE,0.0,7.5,18.0,0.0
+6013,2023-02-17_Eel River Fort Seward,3,Eel River Fort Seward,Friday,2023-02-17,2023-02-17,N,0.0,14.5,43.5,0.0
+6014,2023-02-17_Eel River Scotia,3,Eel River Scotia,Friday,2023-02-17,2023-02-17,NNW,0.0,13.0,45.5,0.0
+6015,2023-02-17_Hat Creek,3,Hat Creek,Friday,2023-02-17,2023-02-17,E,0.0,6.0,34.0,0.0
+6016,2023-02-17_Little Truckee River,3,Little Truckee River,Friday,2023-02-17,2023-02-17,NE,0.0,5.0,25.0,0.0
+6017,2023-02-17_Mad River,3,Mad River,Friday,2023-02-17,2023-02-17,E,0.0,8.0,47.0,0.0
+6018,2023-02-17_Mattole River Ettersburg,3,Mattole River Ettersburg,Friday,2023-02-17,2023-02-17,ENE,0.0,8.5,45.5,0.0
+6019,2023-02-17_Mattole River Petrolia,3,Mattole River Petrolia,Friday,2023-02-17,2023-02-17,ESE,0.0,9.5,48.5,0.0
+6020,2023-02-17_Navarro River,3,Navarro River,Friday,2023-02-17,2023-02-17,ESE,0.0,10.5,48.5,0.0
+6021,2023-02-17_Nestucca River Beaver,3,Nestucca River Beaver,Friday,2023-02-17,2023-02-17,NNE,1.0,4.5,42.0,0.0
+6022,2023-02-17_North Fork American River,3,North Fork American River,Friday,2023-02-17,2023-02-17,ESE,0.0,6.5,47.0,0.0
+6023,2023-02-17_North Umpqua River Winchester,3,North Umpqua River Winchester,Friday,2023-02-17,2023-02-17,ENE,0.0,6.0,40.5,0.0
+6024,2023-02-17_North Umpquar River Idlelyd,3,North Umpquar River Idlelyd,Friday,2023-02-17,2023-02-17,N,0.0,6.0,39.5,0.0
+6025,2023-02-17_Noyo River,3,Noyo River,Friday,2023-02-17,2023-02-17,ENE,0.0,12.0,47.0,0.0
+6026,2023-02-17_Pit River,3,Pit River,Friday,2023-02-17,2023-02-17,ENE,0.0,6.0,38.0,0.0
+6027,2023-02-17_Putah Creek,3,Putah Creek,Friday,2023-02-17,2023-02-17,N,0.0,9.5,48.0,0.0
+6028,2023-02-17_Redwood Creek Orick,3,Redwood Creek Orick,Friday,2023-02-17,2023-02-17,ENE,0.0,10.0,46.0,0.0
+6029,2023-02-17_Rogue River Agness,3,Rogue River Agness,Friday,2023-02-17,2023-02-17,NE,0.0,7.0,41.5,0.0
+6030,2023-02-17_Rogue River Grants Pass,3,Rogue River Grants Pass,Friday,2023-02-17,2023-02-17,E,0.0,4.0,39.5,0.0
+6031,2023-02-17_Russian River HaciendaBridge,3,Russian River HaciendaBridge,Friday,2023-02-17,2023-02-17,ENE,0.0,7.5,50.0,0.0
+6032,2023-02-17_San Lorenzo River,3,San Lorenzo River,Friday,2023-02-17,2023-02-17,ENE,0.5,6.0,49.5,0.0
+6033,2023-02-17_San Lorenzo River Upper,3,San Lorenzo River Upper,Friday,2023-02-17,2023-02-17,ENE,0.5,6.5,49.5,0.0
+6034,2023-02-17_Smith River CC,3,Smith River CC,Friday,2023-02-17,2023-02-17,E,0.0,7.5,47.0,0.0
+6035,2023-02-17_Trinity River Burnt Ranch,3,Trinity River Burnt Ranch,Friday,2023-02-17,2023-02-17,E,0.0,11.5,44.5,0.0
+6036,2023-02-17_Trinity River Junction City,3,Trinity River Junction City,Friday,2023-02-17,2023-02-17,ENE,0.0,9.5,42.0,0.0
+6037,2023-02-17_Trinity River Lewiston,3,Trinity River Lewiston,Friday,2023-02-17,2023-02-17,NE,0.0,7.0,40.0,0.0
+6038,2023-02-17_Truckee River Farad,3,Truckee River Farad,Friday,2023-02-17,2023-02-17,E,0.0,5.0,27.5,0.0
+6039,2023-02-17_Umpqua River Elkton,3,Umpqua River Elkton,Friday,2023-02-17,2023-02-17,ENE,0.0,6.0,39.0,0.0
+6040,2023-02-17_Van Duzen River Bridgeville,3,Van Duzen River Bridgeville,Friday,2023-02-17,2023-02-17,E,0.0,8.0,45.5,0.0
+6041,2023-02-17_Yuba River,3,Yuba River,Friday,2023-02-17,2023-02-17,E,0.0,7.5,40.0,0.0
+6042,2023-02-17_Yuba River Marysville,3,Yuba River Marysville,Friday,2023-02-17,2023-02-17,N,0.0,8.0,47.5,0.0
+6043,2023-02-18_East Fork Carson,5,East Fork Carson,Friday,2023-02-18,2023-02-18,SE,0.0,5.0,27.5,0.0
+6044,2023-02-18_East Walker,5,East Walker,Friday,2023-02-18,2023-02-18,S,0.0,5.0,21.0,0.0
+6045,2023-02-18_Eel River Fort Seward,5,Eel River Fort Seward,Friday,2023-02-18,2023-02-18,N,0.0,10.0,46.0,0.0
+6046,2023-02-18_Eel River Scotia,5,Eel River Scotia,Friday,2023-02-18,2023-02-18,NNW,0.0,11.5,44.5,0.0
+6047,2023-02-18_Hat Creek,5,Hat Creek,Friday,2023-02-18,2023-02-18,ESE,0.0,6.5,35.5,0.0
+6048,2023-02-18_Little Truckee River,5,Little Truckee River,Friday,2023-02-18,2023-02-18,S,0.0,5.0,26.5,0.0
+6049,2023-02-18_Mad River,5,Mad River,Friday,2023-02-18,2023-02-18,NNE,0.0,8.0,45.0,0.0
+6050,2023-02-18_Mattole River Ettersburg,5,Mattole River Ettersburg,Friday,2023-02-18,2023-02-18,N,0.0,8.5,44.5,0.0
+6051,2023-02-18_Mattole River Petrolia,5,Mattole River Petrolia,Friday,2023-02-18,2023-02-18,N,0.0,10.0,48.0,0.0
+6052,2023-02-18_Navarro River,5,Navarro River,Friday,2023-02-18,2023-02-18,NE,0.0,6.5,46.0,0.0
+6053,2023-02-18_Nestucca River Beaver,5,Nestucca River Beaver,Friday,2023-02-18,2023-02-18,N,1.0,8.0,40.0,0.0
+6054,2023-02-18_North Fork American River,5,North Fork American River,Friday,2023-02-18,2023-02-18,NE,0.0,6.5,48.5,0.0
+6055,2023-02-18_North Umpqua River Winchester,5,North Umpqua River Winchester,Friday,2023-02-18,2023-02-18,NNE,0.0,7.0,40.0,0.0
+6056,2023-02-18_North Umpquar River Idlelyd,5,North Umpquar River Idlelyd,Friday,2023-02-18,2023-02-18,ENE,0.0,7.0,38.5,0.0
+6057,2023-02-18_Noyo River,5,Noyo River,Friday,2023-02-18,2023-02-18,ENE,0.0,7.5,44.5,0.0
+6058,2023-02-18_Pit River,5,Pit River,Friday,2023-02-18,2023-02-18,ENE,0.0,6.5,38.0,0.0
+6059,2023-02-18_Putah Creek,5,Putah Creek,Friday,2023-02-18,2023-02-18,NNE,0.0,8.0,49.0,0.0
+6060,2023-02-18_Redwood Creek Orick,5,Redwood Creek Orick,Friday,2023-02-18,2023-02-18,NE,0.0,9.5,45.5,0.0
+6061,2023-02-18_Rogue River Agness,5,Rogue River Agness,Friday,2023-02-18,2023-02-18,NE,0.0,9.0,41.5,0.0
+6062,2023-02-18_Rogue River Grants Pass,5,Rogue River Grants Pass,Friday,2023-02-18,2023-02-18,NNE,0.0,6.0,40.0,0.0
+6063,2023-02-18_Russian River HaciendaBridge,5,Russian River HaciendaBridge,Friday,2023-02-18,2023-02-18,NE,0.0,6.5,49.0,0.0
+6064,2023-02-18_San Lorenzo River,5,San Lorenzo River,Friday,2023-02-18,2023-02-18,NNE,0.0,6.0,50.5,0.0
+6065,2023-02-18_San Lorenzo River Upper,5,San Lorenzo River Upper,Friday,2023-02-18,2023-02-18,N,0.0,6.0,51.0,0.0
+6066,2023-02-18_Smith River CC,5,Smith River CC,Friday,2023-02-18,2023-02-18,NNE,0.0,11.0,48.5,0.0
+6067,2023-02-18_Trinity River Burnt Ranch,5,Trinity River Burnt Ranch,Friday,2023-02-18,2023-02-18,E,0.0,6.0,47.0,0.0
+6068,2023-02-18_Trinity River Junction City,5,Trinity River Junction City,Friday,2023-02-18,2023-02-18,NE,0.0,6.0,45.0,0.0
+6069,2023-02-18_Trinity River Lewiston,5,Trinity River Lewiston,Friday,2023-02-18,2023-02-18,ESE,0.0,6.0,42.5,0.0
+6070,2023-02-18_Truckee River Farad,5,Truckee River Farad,Friday,2023-02-18,2023-02-18,S,0.0,5.0,29.5,0.0
+6071,2023-02-18_Umpqua River Elkton,5,Umpqua River Elkton,Friday,2023-02-18,2023-02-18,NNE,0.0,7.0,39.5,0.0
+6072,2023-02-18_Van Duzen River Bridgeville,5,Van Duzen River Bridgeville,Friday,2023-02-18,2023-02-18,NNE,0.0,7.5,45.0,0.0
+6073,2023-02-18_Yuba River,5,Yuba River,Friday,2023-02-18,2023-02-18,NE,0.0,12.5,41.5,0.0
+6074,2023-02-18_Yuba River Marysville,5,Yuba River Marysville,Friday,2023-02-18,2023-02-18,N,0.0,7.5,47.0,0.0
+6075,2023-02-19_East Fork Carson,7,East Fork Carson,Saturday,2023-02-19,2023-02-19,N,0.0,5.0,30.0,0.0
+6076,2023-02-19_East Walker,7,East Walker,Saturday,2023-02-19,2023-02-19,NW,0.0,7.5,24.0,0.0
+6077,2023-02-19_Eel River Fort Seward,7,Eel River Fort Seward,Saturday,2023-02-19,2023-02-19,NNE,0.0,7.5,49.0,0.0
+6078,2023-02-19_Eel River Scotia,7,Eel River Scotia,Saturday,2023-02-19,2023-02-19,N,0.0,11.5,46.5,0.0
+6079,2023-02-19_Hat Creek,7,Hat Creek,Saturday,2023-02-19,2023-02-19,NE,0.0,7.5,39.0,0.0
+6080,2023-02-19_Little Truckee River,7,Little Truckee River,Saturday,2023-02-19,2023-02-19,N,0.0,5.0,30.0,0.0
+6081,2023-02-19_Mad River,7,Mad River,Saturday,2023-02-19,2023-02-19,NNE,0.0,11.5,47.5,0.0
+6082,2023-02-19_Mattole River Ettersburg,7,Mattole River Ettersburg,Saturday,2023-02-19,2023-02-19,N,0.0,10.0,46.5,0.0
+6083,2023-02-19_Mattole River Petrolia,7,Mattole River Petrolia,Saturday,2023-02-19,2023-02-19,N,0.0,15.5,48.5,0.0
+6084,2023-02-19_Navarro River,7,Navarro River,Saturday,2023-02-19,2023-02-19,N,0.0,7.5,47.0,0.0
+6085,2023-02-19_Nestucca River Beaver,7,Nestucca River Beaver,Saturday,2023-02-19,2023-02-19,NW,1.0,11.0,43.5,0.0
+6086,2023-02-19_North Fork American River,7,North Fork American River,Saturday,2023-02-19,2023-02-19,ENE,0.0,6.5,48.5,0.0
+6087,2023-02-19_North Umpqua River Winchester,7,North Umpqua River Winchester,Saturday,2023-02-19,2023-02-19,NNE,0.0,7.5,42.5,0.0
+6088,2023-02-19_North Umpquar River Idlelyd,7,North Umpquar River Idlelyd,Saturday,2023-02-19,2023-02-19,N,0.0,8.0,42.5,0.0
+6089,2023-02-19_Noyo River,7,Noyo River,Saturday,2023-02-19,2023-02-19,N,0.0,7.5,46.0,0.0
+6090,2023-02-19_Pit River,7,Pit River,Saturday,2023-02-19,2023-02-19,ENE,0.0,7.0,40.5,0.0
+6091,2023-02-19_Putah Creek,7,Putah Creek,Saturday,2023-02-19,2023-02-19,N,0.0,7.0,51.0,0.0
+6092,2023-02-19_Redwood Creek Orick,7,Redwood Creek Orick,Saturday,2023-02-19,2023-02-19,NNE,0.0,13.0,47.5,0.0
+6093,2023-02-19_Rogue River Agness,7,Rogue River Agness,Saturday,2023-02-19,2023-02-19,NNE,0.0,11.0,43.5,0.0
+6094,2023-02-19_Rogue River Grants Pass,7,Rogue River Grants Pass,Saturday,2023-02-19,2023-02-19,NNE,0.0,7.5,41.5,0.0
+6095,2023-02-19_Russian River HaciendaBridge,7,Russian River HaciendaBridge,Saturday,2023-02-19,2023-02-19,N,0.0,7.0,50.0,0.0
+6096,2023-02-19_San Lorenzo River,7,San Lorenzo River,Saturday,2023-02-19,2023-02-19,N,0.0,6.5,51.0,0.0
+6097,2023-02-19_San Lorenzo River Upper,7,San Lorenzo River Upper,Saturday,2023-02-19,2023-02-19,N,0.0,6.5,51.0,0.0
+6098,2023-02-19_Smith River CC,7,Smith River CC,Saturday,2023-02-19,2023-02-19,NNE,0.0,13.5,49.5,0.0
+6099,2023-02-19_Trinity River Burnt Ranch,7,Trinity River Burnt Ranch,Saturday,2023-02-19,2023-02-19,N,0.0,8.5,51.0,0.0
+6100,2023-02-19_Trinity River Junction City,7,Trinity River Junction City,Saturday,2023-02-19,2023-02-19,NW,0.0,7.5,49.5,0.0
+6101,2023-02-19_Trinity River Lewiston,7,Trinity River Lewiston,Saturday,2023-02-19,2023-02-19,NW,0.0,6.5,46.0,0.0
+6102,2023-02-19_Truckee River Farad,7,Truckee River Farad,Saturday,2023-02-19,2023-02-19,NW,0.0,7.5,32.5,0.0
+6103,2023-02-19_Umpqua River Elkton,7,Umpqua River Elkton,Saturday,2023-02-19,2023-02-19,NNE,0.0,7.5,41.5,0.0
+6104,2023-02-19_Van Duzen River Bridgeville,7,Van Duzen River Bridgeville,Saturday,2023-02-19,2023-02-19,N,0.0,9.5,47.5,0.0
+6105,2023-02-19_Yuba River,7,Yuba River,Saturday,2023-02-19,2023-02-19,N,0.0,7.5,44.5,0.0
+6106,2023-02-19_Yuba River Marysville,7,Yuba River Marysville,Saturday,2023-02-19,2023-02-19,NE,0.0,7.0,48.5,0.0
+6107,2023-02-20_East Fork Carson,9,East Fork Carson,Sunday,2023-02-20,2023-02-20,SW,0.0,7.5,34.5,0.0
+6108,2023-02-20_East Walker,9,East Walker,Sunday,2023-02-20,2023-02-20,W,0.0,10.0,27.0,0.0
+6109,2023-02-20_Eel River Fort Seward,9,Eel River Fort Seward,Sunday,2023-02-20,2023-02-20,N,0.0,11.0,48.5,0.0
+6110,2023-02-20_Eel River Scotia,9,Eel River Scotia,Sunday,2023-02-20,2023-02-20,N,0.0,15.5,46.0,0.0
+6111,2023-02-20_Hat Creek,9,Hat Creek,Sunday,2023-02-20,2023-02-20,ESE,0.0,10.0,40.5,0.0
+6112,2023-02-20_Little Truckee River,9,Little Truckee River,Sunday,2023-02-20,2023-02-20,W,0.0,7.5,34.0,0.0
+6113,2023-02-20_Mad River,9,Mad River,Sunday,2023-02-20,2023-02-20,N,0.0,15.5,48.5,0.0
+6114,2023-02-20_Mattole River Ettersburg,9,Mattole River Ettersburg,Sunday,2023-02-20,2023-02-20,N,0.0,15.0,47.0,0.0
+6115,2023-02-20_Mattole River Petrolia,9,Mattole River Petrolia,Sunday,2023-02-20,2023-02-20,N,0.0,19.5,48.5,0.0
+6116,2023-02-20_Navarro River,9,Navarro River,Sunday,2023-02-20,2023-02-20,N,0.0,14.5,47.5,0.0
+6117,2023-02-20_Nestucca River Beaver,9,Nestucca River Beaver,Sunday,2023-02-20,2023-02-20,WNW,1.0,15.0,44.5,0.0
+6118,2023-02-20_North Fork American River,9,North Fork American River,Sunday,2023-02-20,2023-02-20,N,0.0,7.0,50.0,0.0
+6119,2023-02-20_North Umpqua River Winchester,9,North Umpqua River Winchester,Sunday,2023-02-20,2023-02-20,W,1.0,8.0,43.0,0.0
+6120,2023-02-20_North Umpquar River Idlelyd,9,North Umpquar River Idlelyd,Sunday,2023-02-20,2023-02-20,SSE,1.0,9.0,42.0,0.0
+6121,2023-02-20_Noyo River,9,Noyo River,Sunday,2023-02-20,2023-02-20,NNW,0.0,13.5,46.5,0.0
+6122,2023-02-20_Pit River,9,Pit River,Sunday,2023-02-20,2023-02-20,ENE,0.0,8.5,42.0,0.0
+6123,2023-02-20_Putah Creek,9,Putah Creek,Sunday,2023-02-20,2023-02-20,NNW,0.0,8.0,51.0,0.0
+6124,2023-02-20_Redwood Creek Orick,9,Redwood Creek Orick,Sunday,2023-02-20,2023-02-20,N,0.0,16.0,48.0,0.0
+6125,2023-02-20_Rogue River Agness,9,Rogue River Agness,Sunday,2023-02-20,2023-02-20,N,1.0,12.0,42.5,0.0
+6126,2023-02-20_Rogue River Grants Pass,9,Rogue River Grants Pass,Sunday,2023-02-20,2023-02-20,NW,1.0,8.0,41.0,0.0
+6127,2023-02-20_Russian River HaciendaBridge,9,Russian River HaciendaBridge,Sunday,2023-02-20,2023-02-20,NW,0.0,8.0,51.0,0.0
+6128,2023-02-20_San Lorenzo River,9,San Lorenzo River,Sunday,2023-02-20,2023-02-20,NNE,0.0,7.5,50.0,0.0
+6129,2023-02-20_San Lorenzo River Upper,9,San Lorenzo River Upper,Sunday,2023-02-20,2023-02-20,NNE,0.0,7.5,50.5,0.0
+6130,2023-02-20_Smith River CC,9,Smith River CC,Sunday,2023-02-20,2023-02-20,N,0.5,13.5,49.0,0.0
+6131,2023-02-20_Trinity River Burnt Ranch,9,Trinity River Burnt Ranch,Sunday,2023-02-20,2023-02-20,N,0.0,11.5,50.0,0.0
+6132,2023-02-20_Trinity River Junction City,9,Trinity River Junction City,Sunday,2023-02-20,2023-02-20,NW,0.0,10.0,49.5,0.0
+6133,2023-02-20_Trinity River Lewiston,9,Trinity River Lewiston,Sunday,2023-02-20,2023-02-20,NW,0.0,8.0,45.5,0.0
+6134,2023-02-20_Truckee River Farad,9,Truckee River Farad,Sunday,2023-02-20,2023-02-20,W,0.0,10.0,36.5,0.0
+6135,2023-02-20_Umpqua River Elkton,9,Umpqua River Elkton,Sunday,2023-02-20,2023-02-20,W,1.0,8.5,42.0,0.0
+6136,2023-02-20_Van Duzen River Bridgeville,9,Van Duzen River Bridgeville,Sunday,2023-02-20,2023-02-20,N,0.0,13.0,47.5,0.0
+6137,2023-02-20_Yuba River,9,Yuba River,Sunday,2023-02-20,2023-02-20,NNE,0.0,8.5,45.0,0.0
+6138,2023-02-20_Yuba River Marysville,9,Yuba River Marysville,Sunday,2023-02-20,2023-02-20,E,0.0,7.5,50.0,0.0
+6139,2023-02-21_East Fork Carson,11,East Fork Carson,Monday,2023-02-21,2023-02-21,SW,0.5,15.0,34.0,0.0
+6140,2023-02-21_East Walker,11,East Walker,Monday,2023-02-21,2023-02-21,NW,0.0,17.5,27.5,0.0
+6141,2023-02-21_Eel River Fort Seward,11,Eel River Fort Seward,Monday,2023-02-21,2023-02-21,NNW,0.5,12.5,45.5,0.0
+6142,2023-02-21_Eel River Scotia,11,Eel River Scotia,Monday,2023-02-21,2023-02-21,NNW,0.5,16.0,45.5,0.0
+6143,2023-02-21_Hat Creek,11,Hat Creek,Monday,2023-02-21,2023-02-21,NE,0.5,14.0,38.0,0.0
+6144,2023-02-21_Little Truckee River,11,Little Truckee River,Monday,2023-02-21,2023-02-21,SW,0.0,15.0,32.5,0.0
+6145,2023-02-21_Mad River,11,Mad River,Monday,2023-02-21,2023-02-21,N,0.5,15.0,46.5,0.0
+6146,2023-02-21_Mattole River Ettersburg,11,Mattole River Ettersburg,Monday,2023-02-21,2023-02-21,NNW,0.5,16.0,45.5,0.0
+6147,2023-02-21_Mattole River Petrolia,11,Mattole River Petrolia,Monday,2023-02-21,2023-02-21,N,0.5,19.5,47.5,0.0
+6148,2023-02-21_Navarro River,11,Navarro River,Monday,2023-02-21,2023-02-21,NNW,0.0,20.0,47.0,0.0
+6149,2023-02-21_Nestucca River Beaver,11,Nestucca River Beaver,Monday,2023-02-21,2023-02-21,WNW,2.0,18.0,42.0,0.0
+6150,2023-02-21_North Fork American River,11,North Fork American River,Monday,2023-02-21,2023-02-21,NNE,0.5,9.5,50.0,0.0
+6151,2023-02-21_North Umpqua River Winchester,11,North Umpqua River Winchester,Monday,2023-02-21,2023-02-21,SW,1.5,11.0,41.5,0.0
+6152,2023-02-21_North Umpquar River Idlelyd,11,North Umpquar River Idlelyd,Monday,2023-02-21,2023-02-21,SW,1.5,12.0,40.5,0.0
+6153,2023-02-21_Noyo River,11,Noyo River,Monday,2023-02-21,2023-02-21,NNW,0.5,18.0,46.0,0.0
+6154,2023-02-21_Pit River,11,Pit River,Monday,2023-02-21,2023-02-21,NNE,0.5,12.0,40.5,0.0
+6155,2023-02-21_Putah Creek,11,Putah Creek,Monday,2023-02-21,2023-02-21,WNW,0.0,12.0,53.0,0.0
+6156,2023-02-21_Redwood Creek Orick,11,Redwood Creek Orick,Monday,2023-02-21,2023-02-21,N,1.0,15.5,46.5,0.0
+6157,2023-02-21_Rogue River Agness,11,Rogue River Agness,Monday,2023-02-21,2023-02-21,NW,1.5,13.0,40.0,0.0
+6158,2023-02-21_Rogue River Grants Pass,11,Rogue River Grants Pass,Monday,2023-02-21,2023-02-21,WNW,1.5,10.0,40.5,0.0
+6159,2023-02-21_Russian River HaciendaBridge,11,Russian River HaciendaBridge,Monday,2023-02-21,2023-02-21,NW,0.0,12.0,51.5,0.0
+6160,2023-02-21_San Lorenzo River,11,San Lorenzo River,Monday,2023-02-21,2023-02-21,NW,0.0,10.5,51.0,0.0
+6161,2023-02-21_San Lorenzo River Upper,11,San Lorenzo River Upper,Monday,2023-02-21,2023-02-21,NW,0.0,10.5,50.5,0.0
+6162,2023-02-21_Smith River CC,11,Smith River CC,Monday,2023-02-21,2023-02-21,N,1.0,13.0,45.5,0.0
+6163,2023-02-21_Trinity River Burnt Ranch,11,Trinity River Burnt Ranch,Monday,2023-02-21,2023-02-21,NW,0.5,13.0,47.0,0.0
+6164,2023-02-21_Trinity River Junction City,11,Trinity River Junction City,Monday,2023-02-21,2023-02-21,W,0.5,12.0,45.5,0.0
+6165,2023-02-21_Trinity River Lewiston,11,Trinity River Lewiston,Monday,2023-02-21,2023-02-21,W,0.5,10.5,43.5,0.0
+6166,2023-02-21_Truckee River Farad,11,Truckee River Farad,Monday,2023-02-21,2023-02-21,W,0.0,17.5,35.0,0.0
+6167,2023-02-21_Umpqua River Elkton,11,Umpqua River Elkton,Monday,2023-02-21,2023-02-21,SW,1.5,12.0,40.5,0.0
+6168,2023-02-21_Van Duzen River Bridgeville,11,Van Duzen River Bridgeville,Monday,2023-02-21,2023-02-21,NW,0.5,13.5,45.5,0.0
+6169,2023-02-21_Yuba River,11,Yuba River,Monday,2023-02-21,2023-02-21,N,1.0,11.5,43.5,0.0
+6170,2023-02-21_Yuba River Marysville,11,Yuba River Marysville,Monday,2023-02-21,2023-02-21,NNE,0.0,11.0,52.0,0.0
+6171,2023-02-22_East Fork Carson,13,East Fork Carson,Tuesday,2023-02-22,2023-02-22,SW,0.5,20.0,27.0,0.0
+6172,2023-02-22_East Walker,13,East Walker,Tuesday,2023-02-22,2023-02-22,SW,0.0,22.5,21.5,0.0
+6173,2023-02-22_Eel River Fort Seward,13,Eel River Fort Seward,Tuesday,2023-02-22,2023-02-22,WNW,1.0,12.0,37.5,0.0
+6174,2023-02-22_Eel River Scotia,13,Eel River Scotia,Tuesday,2023-02-22,2023-02-22,NW,1.0,15.0,39.5,0.0
+6175,2023-02-22_Hat Creek,13,Hat Creek,Tuesday,2023-02-22,2023-02-22,SW,0.0,16.5,29.5,0.0
+6176,2023-02-22_Little Truckee River,13,Little Truckee River,Tuesday,2023-02-22,2023-02-22,SW,0.0,20.0,25.0,0.0
+6177,2023-02-22_Mad River,13,Mad River,Tuesday,2023-02-22,2023-02-22,NW,1.0,14.0,42.0,0.0
+6178,2023-02-22_Mattole River Ettersburg,13,Mattole River Ettersburg,Tuesday,2023-02-22,2023-02-22,NW,1.0,14.5,39.0,0.0
+6179,2023-02-22_Mattole River Petrolia,13,Mattole River Petrolia,Tuesday,2023-02-22,2023-02-22,NW,1.0,18.0,43.0,0.0
+6180,2023-02-22_Navarro River,13,Navarro River,Tuesday,2023-02-22,2023-02-22,NW,1.0,21.5,42.5,0.0
+6181,2023-02-22_Nestucca River Beaver,13,Nestucca River Beaver,Tuesday,2023-02-22,2023-02-22,W,2.0,19.5,37.5,0.0
+6182,2023-02-22_North Fork American River,13,North Fork American River,Tuesday,2023-02-22,2023-02-22,S,1.5,11.5,43.5,0.0
+6183,2023-02-22_North Umpqua River Winchester,13,North Umpqua River Winchester,Tuesday,2023-02-22,2023-02-22,WSW,1.5,13.5,37.5,0.0
+6184,2023-02-22_North Umpquar River Idlelyd,13,North Umpquar River Idlelyd,Tuesday,2023-02-22,2023-02-22,WSW,2.0,14.5,35.0,0.0
+6185,2023-02-22_Noyo River,13,Noyo River,Tuesday,2023-02-22,2023-02-22,NW,1.0,20.0,41.5,0.0
+6186,2023-02-22_Pit River,13,Pit River,Tuesday,2023-02-22,2023-02-22,WSW,0.0,15.5,34.0,0.0
+6187,2023-02-22_Putah Creek,13,Putah Creek,Tuesday,2023-02-22,2023-02-22,W,2.0,15.0,46.5,0.0
+6188,2023-02-22_Redwood Creek Orick,13,Redwood Creek Orick,Tuesday,2023-02-22,2023-02-22,NW,1.0,14.5,41.0,0.0
+6189,2023-02-22_Rogue River Agness,13,Rogue River Agness,Tuesday,2023-02-22,2023-02-22,W,1.0,15.0,35.0,0.0
+6190,2023-02-22_Rogue River Grants Pass,13,Rogue River Grants Pass,Tuesday,2023-02-22,2023-02-22,W,1.0,11.5,35.5,0.0
+6191,2023-02-22_Russian River HaciendaBridge,13,Russian River HaciendaBridge,Tuesday,2023-02-22,2023-02-22,WNW,1.0,17.5,46.0,0.0
+6192,2023-02-22_San Lorenzo River,13,San Lorenzo River,Tuesday,2023-02-22,2023-02-22,NW,1.0,16.5,46.0,0.0
+6193,2023-02-22_San Lorenzo River Upper,13,San Lorenzo River Upper,Tuesday,2023-02-22,2023-02-22,NW,1.0,16.5,46.5,0.0
+6194,2023-02-22_Smith River CC,13,Smith River CC,Tuesday,2023-02-22,2023-02-22,WNW,1.0,12.5,40.5,0.0
+6195,2023-02-22_Trinity River Burnt Ranch,13,Trinity River Burnt Ranch,Tuesday,2023-02-22,2023-02-22,WNW,1.0,12.5,38.5,0.0
+6196,2023-02-22_Trinity River Junction City,13,Trinity River Junction City,Tuesday,2023-02-22,2023-02-22,W,1.5,12.0,36.5,0.0
+6197,2023-02-22_Trinity River Lewiston,13,Trinity River Lewiston,Tuesday,2023-02-22,2023-02-22,W,1.0,12.0,34.5,0.0
+6198,2023-02-22_Truckee River Farad,13,Truckee River Farad,Tuesday,2023-02-22,2023-02-22,SW,0.0,22.5,28.5,0.0
+6199,2023-02-22_Umpqua River Elkton,13,Umpqua River Elkton,Tuesday,2023-02-22,2023-02-22,WSW,1.5,15.0,36.0,0.0
+6200,2023-02-22_Van Duzen River Bridgeville,13,Van Duzen River Bridgeville,Tuesday,2023-02-22,2023-02-22,NW,1.0,13.0,38.5,0.0
+6201,2023-02-22_Yuba River,13,Yuba River,Tuesday,2023-02-22,2023-02-22,SSW,1.0,15.0,33.5,0.0
+6202,2023-02-22_Yuba River Marysville,13,Yuba River Marysville,Tuesday,2023-02-22,2023-02-22,S,1.0,13.5,47.0,0.0
+6203,2023-02-17_East Fork Carson,1,East Fork Carson,Friday,2023-02-17,2023-02-17,N,0.0,5.0,25.0,0.0
+6204,2023-02-17_East Walker,1,East Walker,Friday,2023-02-17,2023-02-17,SW,0.0,7.5,13.0,0.0
+6205,2023-02-17_Eel River Fort Seward,1,Eel River Fort Seward,Friday,2023-02-17,2023-02-17,SSE,0.0,10.0,43.5,0.0
+6206,2023-02-17_Eel River Scotia,1,Eel River Scotia,Friday,2023-02-17,2023-02-17,N,0.0,10.5,45.0,0.0
+6207,2023-02-17_Hat Creek,1,Hat Creek,Friday,2023-02-17,2023-02-17,ESE,0.0,5.5,33.0,0.0
+6208,2023-02-17_Little Truckee River,1,Little Truckee River,Friday,2023-02-17,2023-02-17,E,0.0,2.5,25.0,0.0
+6209,2023-02-17_Mad River,1,Mad River,Friday,2023-02-17,2023-02-17,E,0.0,7.5,45.5,0.0
+6210,2023-02-17_Mattole River Ettersburg,1,Mattole River Ettersburg,Friday,2023-02-17,2023-02-17,ESE,0.0,7.0,44.0,0.0
+6211,2023-02-17_Mattole River Petrolia,1,Mattole River Petrolia,Friday,2023-02-17,2023-02-17,ESE,0.0,8.0,47.0,0.0
+6212,2023-02-17_Navarro River,1,Navarro River,Friday,2023-02-17,2023-02-17,ENE,0.0,13.0,47.0,0.0
+6213,2023-02-17_Nestucca River Beaver,1,Nestucca River Beaver,Friday,2023-02-17,2023-02-17,N,1.0,2.0,42.5,0.0
+6214,2023-02-17_North Umpqua River Winchester,1,North Umpqua River Winchester,Friday,2023-02-17,2023-02-17,E,0.0,4.5,39.5,0.0
+6215,2023-02-17_North Umpquar River Idlelyd,1,North Umpquar River Idlelyd,Friday,2023-02-17,2023-02-17,NE,0.0,5.5,39.5,0.0
+6216,2023-02-17_Noyo River,1,Noyo River,Friday,2023-02-17,2023-02-17,ESE,0.0,12.5,45.0,0.0
+6217,2023-02-17_Pit River,1,Pit River,Friday,2023-02-17,2023-02-17,NE,0.0,5.5,37.5,0.0
+6218,2023-02-17_Putah Creek,1,Putah Creek,Friday,2023-02-17,2023-02-17,N,0.0,9.5,48.5,0.0
+6219,2023-02-17_Redwood Creek Orick,1,Redwood Creek Orick,Friday,2023-02-17,2023-02-17,E,0.0,9.0,45.5,0.0
+6220,2023-02-17_Rogue River Agness,1,Rogue River Agness,Friday,2023-02-17,2023-02-17,NE,0.0,5.5,41.5,0.0
+6221,2023-02-17_Rogue River Grants Pass,1,Rogue River Grants Pass,Friday,2023-02-17,2023-02-17,E,0.0,4.0,39.0,0.0
+6222,2023-02-17_Russian River HaciendaBridge,1,Russian River HaciendaBridge,Friday,2023-02-17,2023-02-17,NE,0.0,7.0,50.0,0.0
+6223,2023-02-17_San Lorenzo River,1,San Lorenzo River,Friday,2023-02-17,2023-02-17,NE,0.0,6.0,49.5,0.0
+6224,2023-02-17_San Lorenzo River Upper,1,San Lorenzo River Upper,Friday,2023-02-17,2023-02-17,ENE,0.0,5.5,49.5,0.0
+6225,2023-02-17_Smith River CC,1,Smith River CC,Friday,2023-02-17,2023-02-17,E,0.0,8.0,47.5,0.0
+6226,2023-02-17_Trinity River Burnt Ranch,1,Trinity River Burnt Ranch,Friday,2023-02-17,2023-02-17,E,0.0,12.0,44.0,0.0
+6227,2023-02-17_Trinity River Junction City,1,Trinity River Junction City,Friday,2023-02-17,2023-02-17,S,0.0,12.0,41.5,0.0
+6228,2023-02-17_Trinity River Lewiston,1,Trinity River Lewiston,Friday,2023-02-17,2023-02-17,NE,0.0,8.0,38.5,0.0
+6229,2023-02-17_Truckee River Farad,1,Truckee River Farad,Friday,2023-02-17,2023-02-17,E,0.0,2.5,27.5,0.0
+6230,2023-02-17_Umpqua River Elkton,1,Umpqua River Elkton,Friday,2023-02-17,2023-02-17,ENE,0.0,5.5,39.5,0.0
+6231,2023-02-17_Van Duzen River Bridgeville,1,Van Duzen River Bridgeville,Friday,2023-02-17,2023-02-17,E,0.0,9.0,45.0,0.0
+6232,2023-02-17_Yuba River,1,Yuba River,Friday,2023-02-17,2023-02-17,ENE,0.0,6.5,41.0,0.0
+6233,2023-02-17_Yuba River Marysville,1,Yuba River Marysville,Friday,2023-02-17,2023-02-17,N,0.0,9.0,48.0,0.0
+6234,2023-02-18_East Fork Carson,3,East Fork Carson,Friday,2023-02-18,2023-02-18,S,0.0,5.0,29.0,0.0
+6235,2023-02-18_East Walker,3,East Walker,Friday,2023-02-18,2023-02-18,SW,0.0,5.0,14.5,0.0
+6236,2023-02-18_Eel River Fort Seward,3,Eel River Fort Seward,Friday,2023-02-18,2023-02-18,NW,0.0,12.0,45.0,0.0
+6237,2023-02-18_Eel River Scotia,3,Eel River Scotia,Friday,2023-02-18,2023-02-18,WNW,0.0,12.0,44.0,0.0
+6238,2023-02-18_Hat Creek,3,Hat Creek,Friday,2023-02-18,2023-02-18,ESE,0.0,5.5,36.0,0.0
+6239,2023-02-18_Little Truckee River,3,Little Truckee River,Friday,2023-02-18,2023-02-18,E,0.0,5.0,28.0,0.0
+6240,2023-02-18_Mad River,3,Mad River,Friday,2023-02-18,2023-02-18,NE,0.0,6.5,45.0,0.0
+6241,2023-02-18_Mattole River Ettersburg,3,Mattole River Ettersburg,Friday,2023-02-18,2023-02-18,N,0.0,8.0,44.5,0.0
+6242,2023-02-18_Mattole River Petrolia,3,Mattole River Petrolia,Friday,2023-02-18,2023-02-18,N,0.0,10.0,47.0,0.0
+6243,2023-02-18_Navarro River,3,Navarro River,Friday,2023-02-18,2023-02-18,N,0.0,7.0,45.5,0.0
+6244,2023-02-18_Nestucca River Beaver,3,Nestucca River Beaver,Friday,2023-02-18,2023-02-18,N,0.5,4.5,41.0,0.0
+6245,2023-02-18_North Umpqua River Winchester,3,North Umpqua River Winchester,Friday,2023-02-18,2023-02-18,NE,0.0,6.0,40.5,0.0
+6246,2023-02-18_North Umpquar River Idlelyd,3,North Umpquar River Idlelyd,Friday,2023-02-18,2023-02-18,N,0.0,6.0,40.0,0.0
+6247,2023-02-18_Noyo River,3,Noyo River,Friday,2023-02-18,2023-02-18,NE,0.0,9.0,44.5,0.0
+6248,2023-02-18_Pit River,3,Pit River,Friday,2023-02-18,2023-02-18,NE,0.0,5.5,38.5,0.0
+6249,2023-02-18_Putah Creek,3,Putah Creek,Friday,2023-02-18,2023-02-18,NNE,0.0,6.5,50.0,0.0
+6250,2023-02-18_Redwood Creek Orick,3,Redwood Creek Orick,Friday,2023-02-18,2023-02-18,ENE,0.0,8.5,45.5,0.0
+6251,2023-02-18_Rogue River Agness,3,Rogue River Agness,Friday,2023-02-18,2023-02-18,NE,0.0,7.5,43.0,0.0
+6252,2023-02-18_Rogue River Grants Pass,3,Rogue River Grants Pass,Friday,2023-02-18,2023-02-18,NE,0.0,5.5,40.0,0.0
+6253,2023-02-18_Russian River HaciendaBridge,3,Russian River HaciendaBridge,Friday,2023-02-18,2023-02-18,NE,0.0,6.0,49.5,0.0
+6254,2023-02-18_San Lorenzo River,3,San Lorenzo River,Friday,2023-02-18,2023-02-18,N,0.0,6.5,50.5,0.0
+6255,2023-02-18_San Lorenzo River Upper,3,San Lorenzo River Upper,Friday,2023-02-18,2023-02-18,N,0.0,6.0,51.5,0.0
+6256,2023-02-18_Smith River CC,3,Smith River CC,Friday,2023-02-18,2023-02-18,NNE,0.0,9.0,49.0,0.0
+6257,2023-02-18_Trinity River Burnt Ranch,3,Trinity River Burnt Ranch,Friday,2023-02-18,2023-02-18,SW,0.0,6.0,46.5,0.0
+6258,2023-02-18_Trinity River Junction City,3,Trinity River Junction City,Friday,2023-02-18,2023-02-18,NNW,0.0,6.0,45.0,0.0
+6259,2023-02-18_Trinity River Lewiston,3,Trinity River Lewiston,Friday,2023-02-18,2023-02-18,N,0.0,5.0,42.5,0.0
+6260,2023-02-18_Truckee River Farad,3,Truckee River Farad,Friday,2023-02-18,2023-02-18,E,0.0,5.0,30.5,0.0
+6261,2023-02-18_Umpqua River Elkton,3,Umpqua River Elkton,Friday,2023-02-18,2023-02-18,NE,0.0,6.0,40.0,0.0
+6262,2023-02-18_Van Duzen River Bridgeville,3,Van Duzen River Bridgeville,Friday,2023-02-18,2023-02-18,NNW,0.0,7.0,44.5,0.0
+6263,2023-02-18_Yuba River,3,Yuba River,Friday,2023-02-18,2023-02-18,ENE,0.0,10.5,41.5,0.0
+6264,2023-02-18_Yuba River Marysville,3,Yuba River Marysville,Friday,2023-02-18,2023-02-18,N,0.0,6.5,46.5,0.0
+6265,2023-02-19_East Fork Carson,5,East Fork Carson,Saturday,2023-02-19,2023-02-19,E,0.0,5.0,32.0,0.0
+6266,2023-02-19_East Walker,5,East Walker,Saturday,2023-02-19,2023-02-19,E,0.0,5.0,22.5,0.0
+6267,2023-02-19_Eel River Fort Seward,5,Eel River Fort Seward,Saturday,2023-02-19,2023-02-19,N,0.0,9.0,49.5,0.0
+6268,2023-02-19_Eel River Scotia,5,Eel River Scotia,Saturday,2023-02-19,2023-02-19,N,0.0,12.5,47.5,0.0
+6269,2023-02-19_Hat Creek,5,Hat Creek,Saturday,2023-02-19,2023-02-19,ENE,0.0,7.0,39.5,0.0
+6270,2023-02-19_Little Truckee River,5,Little Truckee River,Saturday,2023-02-19,2023-02-19,SE,0.0,5.0,30.5,0.0
+6271,2023-02-19_Mad River,5,Mad River,Saturday,2023-02-19,2023-02-19,NNE,0.0,8.5,48.0,0.0
+6272,2023-02-19_Mattole River Ettersburg,5,Mattole River Ettersburg,Saturday,2023-02-19,2023-02-19,ENE,0.0,7.5,48.5,0.0
+6273,2023-02-19_Mattole River Petrolia,5,Mattole River Petrolia,Saturday,2023-02-19,2023-02-19,N,0.0,13.0,50.0,0.0
+6274,2023-02-19_Navarro River,5,Navarro River,Saturday,2023-02-19,2023-02-19,NNE,0.0,7.0,48.5,0.0
+6275,2023-02-19_Nestucca River Beaver,5,Nestucca River Beaver,Saturday,2023-02-19,2023-02-19,WNW,1.0,6.5,43.5,0.0
+6276,2023-02-19_North Umpqua River Winchester,5,North Umpqua River Winchester,Saturday,2023-02-19,2023-02-19,E,0.0,6.0,44.5,0.0
+6277,2023-02-19_North Umpquar River Idlelyd,5,North Umpquar River Idlelyd,Saturday,2023-02-19,2023-02-19,NE,0.0,6.5,43.5,0.0
+6278,2023-02-19_Noyo River,5,Noyo River,Saturday,2023-02-19,2023-02-19,ENE,0.0,6.0,46.5,0.0
+6279,2023-02-19_Pit River,5,Pit River,Saturday,2023-02-19,2023-02-19,E,0.0,6.0,41.0,0.0
+6280,2023-02-19_Putah Creek,5,Putah Creek,Saturday,2023-02-19,2023-02-19,N,0.0,7.0,52.5,0.0
+6281,2023-02-19_Redwood Creek Orick,5,Redwood Creek Orick,Saturday,2023-02-19,2023-02-19,NNE,0.0,11.0,48.5,0.0
+6282,2023-02-19_Rogue River Agness,5,Rogue River Agness,Saturday,2023-02-19,2023-02-19,NE,0.0,9.5,45.5,0.0
+6283,2023-02-19_Rogue River Grants Pass,5,Rogue River Grants Pass,Saturday,2023-02-19,2023-02-19,NNE,0.0,6.0,43.0,0.0
+6284,2023-02-19_Russian River HaciendaBridge,5,Russian River HaciendaBridge,Saturday,2023-02-19,2023-02-19,NW,0.0,6.5,51.0,0.0
+6285,2023-02-19_San Lorenzo River,5,San Lorenzo River,Saturday,2023-02-19,2023-02-19,NNE,0.0,6.0,51.5,0.0
+6286,2023-02-19_San Lorenzo River Upper,5,San Lorenzo River Upper,Saturday,2023-02-19,2023-02-19,N,0.0,6.0,52.0,0.0
+6287,2023-02-19_Smith River CC,5,Smith River CC,Saturday,2023-02-19,2023-02-19,NNE,0.0,12.0,51.0,0.0
+6288,2023-02-19_Trinity River Burnt Ranch,5,Trinity River Burnt Ranch,Saturday,2023-02-19,2023-02-19,E,0.0,8.0,51.5,0.0
+6289,2023-02-19_Trinity River Junction City,5,Trinity River Junction City,Saturday,2023-02-19,2023-02-19,ENE,0.0,6.0,50.5,0.0
+6290,2023-02-19_Trinity River Lewiston,5,Trinity River Lewiston,Saturday,2023-02-19,2023-02-19,N,0.0,4.5,47.5,0.0
+6291,2023-02-19_Truckee River Farad,5,Truckee River Farad,Saturday,2023-02-19,2023-02-19,SE,0.0,5.0,34.5,0.0
+6292,2023-02-19_Umpqua River Elkton,5,Umpqua River Elkton,Saturday,2023-02-19,2023-02-19,NE,0.0,6.0,43.0,0.0
+6293,2023-02-19_Van Duzen River Bridgeville,5,Van Duzen River Bridgeville,Saturday,2023-02-19,2023-02-19,NNE,0.0,7.5,49.0,0.0
+6294,2023-02-19_Yuba River,5,Yuba River,Saturday,2023-02-19,2023-02-19,E,0.0,8.5,46.0,0.0
+6295,2023-02-19_Yuba River Marysville,5,Yuba River Marysville,Saturday,2023-02-19,2023-02-19,NE,0.0,6.5,49.5,0.0
+6296,2023-02-20_East Fork Carson,7,East Fork Carson,Sunday,2023-02-20,2023-02-20,S,0.0,7.5,36.0,0.0
+6297,2023-02-20_East Walker,7,East Walker,Sunday,2023-02-20,2023-02-20,SW,0.0,7.5,29.0,0.0
+6298,2023-02-20_Eel River Fort Seward,7,Eel River Fort Seward,Sunday,2023-02-20,2023-02-20,N,0.0,9.5,50.0,0.0
+6299,2023-02-20_Eel River Scotia,7,Eel River Scotia,Sunday,2023-02-20,2023-02-20,N,0.0,12.5,47.0,0.0
+6300,2023-02-20_Hat Creek,7,Hat Creek,Sunday,2023-02-20,2023-02-20,ESE,0.0,7.5,42.5,0.0
+6301,2023-02-20_Little Truckee River,7,Little Truckee River,Sunday,2023-02-20,2023-02-20,S,0.0,7.5,34.5,0.0
+6302,2023-02-20_Mad River,7,Mad River,Sunday,2023-02-20,2023-02-20,N,0.0,11.5,48.5,0.0
+6303,2023-02-20_Mattole River Ettersburg,7,Mattole River Ettersburg,Sunday,2023-02-20,2023-02-20,N,0.0,11.5,48.0,0.0
+6304,2023-02-20_Mattole River Petrolia,7,Mattole River Petrolia,Sunday,2023-02-20,2023-02-20,N,0.0,17.0,49.0,0.0
+6305,2023-02-20_Navarro River,7,Navarro River,Sunday,2023-02-20,2023-02-20,N,0.0,10.0,49.0,0.0
+6306,2023-02-20_Nestucca River Beaver,7,Nestucca River Beaver,Sunday,2023-02-20,2023-02-20,W,1.0,14.0,45.0,0.0
+6307,2023-02-20_North Umpqua River Winchester,7,North Umpqua River Winchester,Sunday,2023-02-20,2023-02-20,SW,1.0,7.0,42.5,0.0
+6308,2023-02-20_North Umpquar River Idlelyd,7,North Umpquar River Idlelyd,Sunday,2023-02-20,2023-02-20,ENE,1.0,8.0,42.0,0.0
+6309,2023-02-20_Noyo River,7,Noyo River,Sunday,2023-02-20,2023-02-20,N,0.0,9.5,47.5,0.0
+6310,2023-02-20_Pit River,7,Pit River,Sunday,2023-02-20,2023-02-20,ENE,0.0,6.5,44.5,0.0
+6311,2023-02-20_Putah Creek,7,Putah Creek,Sunday,2023-02-20,2023-02-20,NNE,0.0,6.5,52.5,0.0
+6312,2023-02-20_Redwood Creek Orick,7,Redwood Creek Orick,Sunday,2023-02-20,2023-02-20,N,0.0,13.5,48.0,0.0
+6313,2023-02-20_Rogue River Agness,7,Rogue River Agness,Sunday,2023-02-20,2023-02-20,N,0.5,10.0,44.0,0.0
+6314,2023-02-20_Rogue River Grants Pass,7,Rogue River Grants Pass,Sunday,2023-02-20,2023-02-20,NE,0.5,6.5,43.5,0.0
+6315,2023-02-20_Russian River HaciendaBridge,7,Russian River HaciendaBridge,Sunday,2023-02-20,2023-02-20,E,0.0,7.5,52.0,0.0
+6316,2023-02-20_San Lorenzo River,7,San Lorenzo River,Sunday,2023-02-20,2023-02-20,NNE,0.0,6.5,51.5,0.0
+6317,2023-02-20_San Lorenzo River Upper,7,San Lorenzo River Upper,Sunday,2023-02-20,2023-02-20,NNE,0.0,6.5,52.0,0.0
+6318,2023-02-20_Smith River CC,7,Smith River CC,Sunday,2023-02-20,2023-02-20,N,0.5,13.5,50.0,0.0
+6319,2023-02-20_Trinity River Burnt Ranch,7,Trinity River Burnt Ranch,Sunday,2023-02-20,2023-02-20,N,0.0,10.0,53.0,0.0
+6320,2023-02-20_Trinity River Junction City,7,Trinity River Junction City,Sunday,2023-02-20,2023-02-20,N,0.0,8.0,52.5,0.0
+6321,2023-02-20_Trinity River Lewiston,7,Trinity River Lewiston,Sunday,2023-02-20,2023-02-20,N,0.0,7.0,48.0,0.0
+6322,2023-02-20_Truckee River Farad,7,Truckee River Farad,Sunday,2023-02-20,2023-02-20,S,0.0,7.5,38.0,0.0
+6323,2023-02-20_Umpqua River Elkton,7,Umpqua River Elkton,Sunday,2023-02-20,2023-02-20,SW,1.0,8.0,40.5,0.0
+6324,2023-02-20_Van Duzen River Bridgeville,7,Van Duzen River Bridgeville,Sunday,2023-02-20,2023-02-20,N,0.0,10.5,48.5,0.0
+6325,2023-02-20_Yuba River,7,Yuba River,Sunday,2023-02-20,2023-02-20,NE,0.0,8.0,47.0,0.0
+6326,2023-02-20_Yuba River Marysville,7,Yuba River Marysville,Sunday,2023-02-20,2023-02-20,ESE,0.0,6.5,51.5,0.0
+6327,2023-02-21_East Fork Carson,9,East Fork Carson,Monday,2023-02-21,2023-02-21,SW,1.0,17.5,34.5,0.0
+6328,2023-02-21_East Walker,9,East Walker,Monday,2023-02-21,2023-02-21,SW,0.0,17.5,28.0,0.0
+6329,2023-02-21_Eel River Fort Seward,9,Eel River Fort Seward,Monday,2023-02-21,2023-02-21,NNW,0.5,15.0,43.5,0.0
+6330,2023-02-21_Eel River Scotia,9,Eel River Scotia,Monday,2023-02-21,2023-02-21,NNW,0.5,18.0,44.5,0.0
+6331,2023-02-21_Hat Creek,9,Hat Creek,Monday,2023-02-21,2023-02-21,WSW,0.5,14.5,38.0,0.0
+6332,2023-02-21_Little Truckee River,9,Little Truckee River,Monday,2023-02-21,2023-02-21,SW,0.0,20.0,33.5,0.0
+6333,2023-02-21_Mad River,9,Mad River,Monday,2023-02-21,2023-02-21,NNW,0.5,17.0,46.0,0.0
+6334,2023-02-21_Mattole River Ettersburg,9,Mattole River Ettersburg,Monday,2023-02-21,2023-02-21,NNW,0.5,17.5,44.0,0.0
+6335,2023-02-21_Mattole River Petrolia,9,Mattole River Petrolia,Monday,2023-02-21,2023-02-21,NNW,0.5,21.5,47.0,0.0
+6336,2023-02-21_Navarro River,9,Navarro River,Monday,2023-02-21,2023-02-21,NNW,0.5,20.5,46.5,0.0
+6337,2023-02-21_Nestucca River Beaver,9,Nestucca River Beaver,Monday,2023-02-21,2023-02-21,WNW,2.0,19.5,41.0,0.0
+6338,2023-02-21_North Umpqua River Winchester,9,North Umpqua River Winchester,Monday,2023-02-21,2023-02-21,W,1.0,12.5,41.5,0.0
+6339,2023-02-21_North Umpquar River Idlelyd,9,North Umpquar River Idlelyd,Monday,2023-02-21,2023-02-21,W,2.0,14.0,40.0,0.0
+6340,2023-02-21_Noyo River,9,Noyo River,Monday,2023-02-21,2023-02-21,NNW,0.5,19.0,45.5,0.0
+6341,2023-02-21_Pit River,9,Pit River,Monday,2023-02-21,2023-02-21,SW,1.0,13.5,40.5,0.0
+6342,2023-02-21_Putah Creek,9,Putah Creek,Monday,2023-02-21,2023-02-21,WSW,0.5,11.5,52.0,0.0
+6343,2023-02-21_Redwood Creek Orick,9,Redwood Creek Orick,Monday,2023-02-21,2023-02-21,NNW,1.0,17.5,46.0,0.0
+6344,2023-02-21_Rogue River Agness,9,Rogue River Agness,Monday,2023-02-21,2023-02-21,W,2.0,13.0,40.0,0.0
+6345,2023-02-21_Rogue River Grants Pass,9,Rogue River Grants Pass,Monday,2023-02-21,2023-02-21,W,1.0,10.5,40.0,0.0
+6346,2023-02-21_Russian River HaciendaBridge,9,Russian River HaciendaBridge,Monday,2023-02-21,2023-02-21,NW,0.0,15.0,51.0,0.0
+6347,2023-02-21_San Lorenzo River,9,San Lorenzo River,Monday,2023-02-21,2023-02-21,NW,0.0,11.5,49.5,0.0
+6348,2023-02-21_San Lorenzo River Upper,9,San Lorenzo River Upper,Monday,2023-02-21,2023-02-21,NW,0.0,12.0,49.5,0.0
+6349,2023-02-21_Smith River CC,9,Smith River CC,Monday,2023-02-21,2023-02-21,NW,1.5,16.5,45.5,0.0
+6350,2023-02-21_Trinity River Burnt Ranch,9,Trinity River Burnt Ranch,Monday,2023-02-21,2023-02-21,WNW,0.5,15.5,45.5,0.0
+6351,2023-02-21_Trinity River Junction City,9,Trinity River Junction City,Monday,2023-02-21,2023-02-21,W,0.5,15.5,44.0,0.0
+6352,2023-02-21_Trinity River Lewiston,9,Trinity River Lewiston,Monday,2023-02-21,2023-02-21,W,0.5,14.5,41.5,0.0
+6353,2023-02-21_Truckee River Farad,9,Truckee River Farad,Monday,2023-02-21,2023-02-21,SW,0.0,20.0,36.5,0.0
+6354,2023-02-21_Umpqua River Elkton,9,Umpqua River Elkton,Monday,2023-02-21,2023-02-21,W,2.0,14.0,40.5,0.0
+6355,2023-02-21_Van Duzen River Bridgeville,9,Van Duzen River Bridgeville,Monday,2023-02-21,2023-02-21,NW,0.5,16.5,44.0,0.0
+6356,2023-02-21_Yuba River,9,Yuba River,Monday,2023-02-21,2023-02-21,ENE,1.0,13.0,42.0,0.0
+6357,2023-02-21_Yuba River Marysville,9,Yuba River Marysville,Monday,2023-02-21,2023-02-21,SE,0.5,11.0,51.0,0.0
+6358,2023-02-22_East Fork Carson,11,East Fork Carson,Tuesday,2023-02-22,2023-02-22,SW,1.0,22.5,20.5,0.0
+6359,2023-02-22_East Walker,11,East Walker,Tuesday,2023-02-22,2023-02-22,W,0.0,22.5,14.5,0.0
+6360,2023-02-22_Eel River Fort Seward,11,Eel River Fort Seward,Tuesday,2023-02-22,2023-02-22,WNW,1.5,16.0,35.0,0.0
+6361,2023-02-22_Eel River Scotia,11,Eel River Scotia,Tuesday,2023-02-22,2023-02-22,NW,1.0,18.5,38.0,0.0
+6362,2023-02-22_Hat Creek,11,Hat Creek,Tuesday,2023-02-22,2023-02-22,W,0.0,18.0,24.0,0.0
+6363,2023-02-22_Little Truckee River,11,Little Truckee River,Tuesday,2023-02-22,2023-02-22,W,0.0,22.5,20.0,0.0
+6364,2023-02-22_Mad River,11,Mad River,Tuesday,2023-02-22,2023-02-22,NW,1.0,18.5,39.5,0.0
+6365,2023-02-22_Mattole River Ettersburg,11,Mattole River Ettersburg,Tuesday,2023-02-22,2023-02-22,NW,1.0,18.0,37.0,0.0
+6366,2023-02-22_Mattole River Petrolia,11,Mattole River Petrolia,Tuesday,2023-02-22,2023-02-22,NNW,1.0,22.0,40.5,0.0
+6367,2023-02-22_Navarro River,11,Navarro River,Tuesday,2023-02-22,2023-02-22,NW,1.0,22.5,40.5,0.0
+6368,2023-02-22_Nestucca River Beaver,11,Nestucca River Beaver,Tuesday,2023-02-22,2023-02-22,NNE,2.0,19.0,36.0,0.0
+6369,2023-02-22_North Umpqua River Winchester,11,North Umpqua River Winchester,Tuesday,2023-02-22,2023-02-22,WSW,1.5,13.0,37.0,0.0
+6370,2023-02-22_North Umpquar River Idlelyd,11,North Umpquar River Idlelyd,Tuesday,2023-02-22,2023-02-22,SW,1.0,13.0,35.5,0.0
+6371,2023-02-22_Noyo River,11,Noyo River,Tuesday,2023-02-22,2023-02-22,NW,1.0,21.5,39.5,0.0
+6372,2023-02-22_Pit River,11,Pit River,Tuesday,2023-02-22,2023-02-22,W,1.0,17.0,29.5,0.0
+6373,2023-02-22_Putah Creek,11,Putah Creek,Tuesday,2023-02-22,2023-02-22,W,1.5,17.5,44.0,0.0
+6374,2023-02-22_Redwood Creek Orick,11,Redwood Creek Orick,Tuesday,2023-02-22,2023-02-22,NW,1.0,18.0,39.5,0.0
+6375,2023-02-22_Rogue River Agness,11,Rogue River Agness,Tuesday,2023-02-22,2023-02-22,W,1.0,14.5,34.0,0.0
+6376,2023-02-22_Rogue River Grants Pass,11,Rogue River Grants Pass,Tuesday,2023-02-22,2023-02-22,W,1.0,11.5,34.5,0.0
+6377,2023-02-22_Russian River HaciendaBridge,11,Russian River HaciendaBridge,Tuesday,2023-02-22,2023-02-22,WNW,1.0,20.0,43.5,0.0
+6378,2023-02-22_San Lorenzo River,11,San Lorenzo River,Tuesday,2023-02-22,2023-02-22,NW,1.0,21.0,44.0,0.0
+6379,2023-02-22_San Lorenzo River Upper,11,San Lorenzo River Upper,Tuesday,2023-02-22,2023-02-22,NW,1.0,21.0,44.5,0.0
+6380,2023-02-22_Smith River CC,11,Smith River CC,Tuesday,2023-02-22,2023-02-22,NW,1.0,17.0,38.0,0.0
+6381,2023-02-22_Trinity River Burnt Ranch,11,Trinity River Burnt Ranch,Tuesday,2023-02-22,2023-02-22,W,1.5,16.0,36.0,0.0
+6382,2023-02-22_Trinity River Junction City,11,Trinity River Junction City,Tuesday,2023-02-22,2023-02-22,W,1.0,17.5,34.0,0.0
+6383,2023-02-22_Trinity River Lewiston,11,Trinity River Lewiston,Tuesday,2023-02-22,2023-02-22,W,0.0,16.5,32.0,0.0
+6384,2023-02-22_Truckee River Farad,11,Truckee River Farad,Tuesday,2023-02-22,2023-02-22,W,0.0,25.0,23.0,0.0
+6385,2023-02-22_Umpqua River Elkton,11,Umpqua River Elkton,Tuesday,2023-02-22,2023-02-22,W,1.5,14.0,36.0,0.0
+6386,2023-02-22_Van Duzen River Bridgeville,11,Van Duzen River Bridgeville,Tuesday,2023-02-22,2023-02-22,NW,1.0,17.0,36.5,0.0
+6387,2023-02-22_Yuba River,11,Yuba River,Tuesday,2023-02-22,2023-02-22,SW,1.0,16.0,29.0,0.0
+6388,2023-02-22_Yuba River Marysville,11,Yuba River Marysville,Tuesday,2023-02-22,2023-02-22,SSW,1.0,14.0,43.5,0.0
+6389,2023-02-23_East Fork Carson,13,East Fork Carson,Thursday,2023-02-23,2023-02-23,SW,0.0,20.0,18.5,0.0
+6390,2023-02-23_East Walker,13,East Walker,Thursday,2023-02-23,2023-02-23,SW,0.0,20.0,12.0,0.0
+6391,2023-02-23_Eel River Fort Seward,13,Eel River Fort Seward,Thursday,2023-02-23,2023-02-23,S,1.0,13.0,32.5,0.0
+6392,2023-02-23_Eel River Scotia,13,Eel River Scotia,Thursday,2023-02-23,2023-02-23,S,2.0,13.0,35.5,0.0
+6393,2023-02-23_Hat Creek,13,Hat Creek,Thursday,2023-02-23,2023-02-23,SSW,0.0,15.0,23.0,0.0
+6394,2023-02-23_Little Truckee River,13,Little Truckee River,Thursday,2023-02-23,2023-02-23,SW,0.0,17.5,18.0,0.0
+6395,2023-02-23_Mad River,13,Mad River,Thursday,2023-02-23,2023-02-23,S,1.5,13.5,37.5,0.0
+6396,2023-02-23_Mattole River Ettersburg,13,Mattole River Ettersburg,Thursday,2023-02-23,2023-02-23,S,2.0,14.0,34.0,0.0
+6397,2023-02-23_Mattole River Petrolia,13,Mattole River Petrolia,Thursday,2023-02-23,2023-02-23,NW,1.0,16.0,38.5,0.0
+6398,2023-02-23_Navarro River,13,Navarro River,Thursday,2023-02-23,2023-02-23,W,1.0,15.5,38.0,0.0
+6399,2023-02-23_Nestucca River Beaver,13,Nestucca River Beaver,Thursday,2023-02-23,2023-02-23,E,1.0,16.5,29.5,0.0
+6400,2023-02-23_North Umpqua River Winchester,13,North Umpqua River Winchester,Thursday,2023-02-23,2023-02-23,SSW,1.0,9.5,32.0,0.0
+6401,2023-02-23_North Umpquar River Idlelyd,13,North Umpquar River Idlelyd,Thursday,2023-02-23,2023-02-23,SSE,1.0,10.0,32.0,0.0
+6402,2023-02-23_Noyo River,13,Noyo River,Thursday,2023-02-23,2023-02-23,NW,1.5,15.0,36.5,0.0
+6403,2023-02-23_Pit River,13,Pit River,Thursday,2023-02-23,2023-02-23,SSW,0.0,13.5,28.0,0.0
+6404,2023-02-23_Putah Creek,13,Putah Creek,Thursday,2023-02-23,2023-02-23,SSW,1.5,15.5,40.0,0.0
+6405,2023-02-23_Redwood Creek Orick,13,Redwood Creek Orick,Thursday,2023-02-23,2023-02-23,S,1.5,13.5,37.0,0.0
+6406,2023-02-23_Rogue River Agness,13,Rogue River Agness,Thursday,2023-02-23,2023-02-23,SSW,0.0,12.5,31.0,0.0
+6407,2023-02-23_Rogue River Grants Pass,13,Rogue River Grants Pass,Thursday,2023-02-23,2023-02-23,SSW,0.0,10.0,31.0,0.0
+6408,2023-02-23_Russian River HaciendaBridge,13,Russian River HaciendaBridge,Thursday,2023-02-23,2023-02-23,SW,1.5,15.5,40.5,0.0
+6409,2023-02-23_San Lorenzo River,13,San Lorenzo River,Thursday,2023-02-23,2023-02-23,W,1.0,15.5,41.5,0.0
+6410,2023-02-23_San Lorenzo River Upper,13,San Lorenzo River Upper,Thursday,2023-02-23,2023-02-23,W,1.0,15.5,41.5,0.0
+6411,2023-02-23_Smith River CC,13,Smith River CC,Thursday,2023-02-23,2023-02-23,S,1.5,13.0,36.0,0.0
+6412,2023-02-23_Trinity River Burnt Ranch,13,Trinity River Burnt Ranch,Thursday,2023-02-23,2023-02-23,S,1.0,13.0,33.5,0.0
+6413,2023-02-23_Trinity River Junction City,13,Trinity River Junction City,Thursday,2023-02-23,2023-02-23,SSW,0.0,13.0,31.5,0.0
+6414,2023-02-23_Trinity River Lewiston,13,Trinity River Lewiston,Thursday,2023-02-23,2023-02-23,SSW,0.0,12.5,29.5,0.0
+6415,2023-02-23_Truckee River Farad,13,Truckee River Farad,Thursday,2023-02-23,2023-02-23,SW,0.0,17.5,21.0,0.0
+6416,2023-02-23_Umpqua River Elkton,13,Umpqua River Elkton,Thursday,2023-02-23,2023-02-23,ENE,1.0,11.0,31.0,0.0
+6417,2023-02-23_Van Duzen River Bridgeville,13,Van Duzen River Bridgeville,Thursday,2023-02-23,2023-02-23,S,2.0,12.5,34.0,0.0
+6418,2023-02-23_Yuba River,13,Yuba River,Thursday,2023-02-23,2023-02-23,SSW,0.0,14.5,26.5,0.0
+6419,2023-02-23_Yuba River Marysville,13,Yuba River Marysville,Thursday,2023-02-23,2023-02-23,S,1.0,14.0,40.5,0.0
+0,2023-02-19_East Walker,1,East Walker,Today,2023-02-19,2023-02-20,E,0.0,5.0,28.0,0.0
+1,2023-02-19_Eel River Fort Seward,1,Eel River Fort Seward,Today,2023-02-19,2023-02-20,NW,0.0,7.0,62.0,0.0
+2,2023-02-19_Eel River Scotia,1,Eel River Scotia,Today,2023-02-19,2023-02-20,NW,0.0,12.0,54.0,0.0
+3,2023-02-19_Hat Creek,1,Hat Creek,Today,2023-02-19,2023-02-20,N,0.0,7.0,48.0,0.0
+4,2023-02-19_Little Truckee River,1,Little Truckee River,Today,2023-02-19,2023-02-20,NE,0.0,5.0,44.0,0.0
+5,2023-02-19_Mad River,1,Mad River,Today,2023-02-19,2023-02-20,NNW,0.0,12.0,59.0,0.0
+6,2023-02-19_Mattole River Ettersburg,1,Mattole River Ettersburg,Today,2023-02-19,2023-02-20,N,0.0,12.0,61.0,0.0
+7,2023-02-19_Mattole River Petrolia,1,Mattole River Petrolia,Today,2023-02-19,2023-02-20,N,0.0,17.0,58.0,0.0
+8,2023-02-19_Navarro River,1,Navarro River,Today,2023-02-19,2023-02-20,NW,0.0,6.0,58.0,0.0
+9,2023-02-19_Nestucca River Beaver,1,Nestucca River Beaver,Today,2023-02-19,2023-02-20,WSW,0.0,5.0,48.0,0.0
+10,2023-02-19_North Fork American River,1,North Fork American River,Today,2023-02-19,2023-02-20,SW,0.0,6.0,62.0,0.0
+11,2023-02-19_North Umpqua River Winchester,1,North Umpqua River Winchester,Today,2023-02-19,2023-02-20,N,0.0,8.0,52.0,0.0
+12,2023-02-19_North Umpquar River Idlelyd,1,North Umpquar River Idlelyd,Today,2023-02-19,2023-02-20,NW,0.0,6.0,50.0,0.0
+13,2023-02-19_Noyo River,1,Noyo River,Today,2023-02-19,2023-02-20,WNW,0.0,6.0,58.0,0.0
+14,2023-02-19_Pit River,1,Pit River,Today,2023-02-19,2023-02-20,NE,0.0,9.0,54.0,0.0
+15,2023-02-19_Putah Creek,1,Putah Creek,Today,2023-02-19,2023-02-20,NNE,0.0,10.0,66.0,0.0
+16,2023-02-19_Redwood Creek Orick,1,Redwood Creek Orick,Today,2023-02-19,2023-02-20,NNW,0.0,14.0,58.0,0.0
+17,2023-02-19_Rogue River Agness,1,Rogue River Agness,Today,2023-02-19,2023-02-20,NNE,0.0,12.0,53.0,0.0
+18,2023-02-19_Rogue River Grants Pass,1,Rogue River Grants Pass,Today,2023-02-19,2023-02-20,W,0.0,3.0,53.0,0.0
+19,2023-02-19_Russian River HaciendaBridge,1,Russian River HaciendaBridge,Today,2023-02-19,2023-02-20,SW,0.0,10.0,66.0,0.0
+20,2023-02-19_San Lorenzo River,1,San Lorenzo River,Today,2023-02-19,2023-02-20,NNW,0.0,8.0,64.0,0.0
+21,2023-02-19_San Lorenzo River Upper,1,San Lorenzo River Upper,Today,2023-02-19,2023-02-20,N,0.0,8.0,66.0,0.0
+22,2023-02-19_Smith River CC,1,Smith River CC,Today,2023-02-19,2023-02-20,N,0.0,14.0,64.0,0.0
+23,2023-02-19_Trinity River Burnt Ranch,1,Trinity River Burnt Ranch,Today,2023-02-19,2023-02-20,WSW,0.0,6.0,66.0,0.0
+24,2023-02-19_Trinity River Junction City,1,Trinity River Junction City,Today,2023-02-19,2023-02-20,S,0.0,6.0,65.0,0.0
+25,2023-02-19_Trinity River Lewiston,1,Trinity River Lewiston,Today,2023-02-19,2023-02-20,NNE,0.0,6.0,60.0,0.0
+26,2023-02-19_Truckee River Farad,1,Truckee River Farad,Today,2023-02-19,2023-02-20,NE,0.0,5.0,46.0,0.0
+27,2023-02-19_Umpqua River Elkton,1,Umpqua River Elkton,Today,2023-02-19,2023-02-20,N,0.0,6.0,50.0,0.0
+28,2023-02-19_Van Duzen River Bridgeville,1,Van Duzen River Bridgeville,Today,2023-02-19,2023-02-20,WNW,0.0,9.0,60.0,0.0
+29,2023-02-19_Yuba River,1,Yuba River,Today,2023-02-19,2023-02-20,NE,0.0,14.0,58.0,0.0
+30,2023-02-19_Yuba River Marysville,1,Yuba River Marysville,Today,2023-02-19,2023-02-20,NW,0.0,8.0,67.0,0.0
+31,2023-02-20_East Walker,2,East Walker,Today,2023-02-20,2023-02-20,E,0.0,5.0,25.0,0.0
+32,2023-02-20_Eel River Fort Seward,2,Eel River Fort Seward,Today,2023-02-20,2023-02-20,NNW,0.0,8.5,52.0,0.0
+33,2023-02-20_Eel River Scotia,2,Eel River Scotia,Today,2023-02-20,2023-02-20,NW,0.0,11.0,48.0,0.0
+34,2023-02-20_Hat Creek,2,Hat Creek,Today,2023-02-20,2023-02-20,N,0.0,6.5,42.5,0.0
+35,2023-02-20_Little Truckee River,2,Little Truckee River,Today,2023-02-20,2023-02-20,N,0.0,5.0,35.5,0.0
+36,2023-02-20_Mad River,2,Mad River,Today,2023-02-20,2023-02-20,N,0.0,8.0,48.5,0.0
+37,2023-02-20_Mattole River Ettersburg,2,Mattole River Ettersburg,Today,2023-02-20,2023-02-20,N,0.0,13.0,50.5,0.0
+38,2023-02-20_Mattole River Petrolia,2,Mattole River Petrolia,Today,2023-02-20,2023-02-20,N,0.0,17.5,50.5,0.0
+39,2023-02-20_Navarro River,2,Navarro River,Today,2023-02-20,2023-02-20,ENE,0.0,5.5,51.5,0.0
+40,2023-02-20_Nestucca River Beaver,2,Nestucca River Beaver,Today,2023-02-20,2023-02-20,WSW,1.5,10.0,45.5,0.0
+41,2023-02-20_North Fork American River,2,North Fork American River,Today,2023-02-20,2023-02-20,ENE,0.0,4.5,53.0,0.0
+42,2023-02-20_North Umpqua River Winchester,2,North Umpqua River Winchester,Today,2023-02-20,2023-02-20,N,0.5,5.5,47.5,0.0
+43,2023-02-20_North Umpquar River Idlelyd,2,North Umpquar River Idlelyd,Today,2023-02-20,2023-02-20,ENE,0.5,5.5,46.0,0.0
+44,2023-02-20_Noyo River,2,Noyo River,Today,2023-02-20,2023-02-20,NE,0.0,6.5,49.5,0.0
+45,2023-02-20_Pit River,2,Pit River,Today,2023-02-20,2023-02-20,ENE,0.0,6.5,45.0,0.0
+46,2023-02-20_Putah Creek,2,Putah Creek,Today,2023-02-20,2023-02-20,NNW,0.0,8.0,56.0,0.0
+47,2023-02-20_Redwood Creek Orick,2,Redwood Creek Orick,Today,2023-02-20,2023-02-20,N,0.0,9.5,49.5,0.0
+48,2023-02-20_Rogue River Agness,2,Rogue River Agness,Today,2023-02-20,2023-02-20,N,0.0,9.0,48.0,0.0
+49,2023-02-20_Rogue River Grants Pass,2,Rogue River Grants Pass,Today,2023-02-20,2023-02-20,ESE,0.0,4.5,45.0,0.0
+50,2023-02-20_Russian River HaciendaBridge,2,Russian River HaciendaBridge,Today,2023-02-20,2023-02-20,NW,0.0,10.5,55.5,0.0
+51,2023-02-20_San Lorenzo River,2,San Lorenzo River,Today,2023-02-20,2023-02-20,N,0.0,8.5,52.5,0.0
+52,2023-02-20_San Lorenzo River Upper,2,San Lorenzo River Upper,Today,2023-02-20,2023-02-20,E,0.0,8.0,54.5,0.0
+53,2023-02-20_Smith River CC,2,Smith River CC,Today,2023-02-20,2023-02-20,NNE,0.0,9.5,52.5,0.0
+54,2023-02-20_Trinity River Burnt Ranch,2,Trinity River Burnt Ranch,Today,2023-02-20,2023-02-20,NW,0.0,7.0,55.0,0.0
+55,2023-02-20_Trinity River Junction City,2,Trinity River Junction City,Today,2023-02-20,2023-02-20,ESE,0.0,7.5,54.0,0.0
+56,2023-02-20_Trinity River Lewiston,2,Trinity River Lewiston,Today,2023-02-20,2023-02-20,NNE,0.0,6.0,50.5,0.0
+57,2023-02-20_Truckee River Farad,2,Truckee River Farad,Today,2023-02-20,2023-02-20,N,0.0,5.0,38.0,0.0
+58,2023-02-20_Umpqua River Elkton,2,Umpqua River Elkton,Today,2023-02-20,2023-02-20,NNW,0.5,6.0,45.0,0.0
+59,2023-02-20_Van Duzen River Bridgeville,2,Van Duzen River Bridgeville,Today,2023-02-20,2023-02-20,NW,0.0,8.5,49.5,0.0
+60,2023-02-20_Yuba River,2,Yuba River,Today,2023-02-20,2023-02-20,ENE,0.0,10.0,50.0,0.0
+61,2023-02-20_Yuba River Marysville,2,Yuba River Marysville,Today,2023-02-20,2023-02-20,E,0.0,6.0,53.5,0.0
+62,2023-02-21_East Walker,4,East Walker,Monday,2023-02-21,2023-02-21,SW,0.0,22.5,29.0,0.0
+63,2023-02-21_Eel River Fort Seward,4,Eel River Fort Seward,Monday,2023-02-21,2023-02-21,NNW,1.5,16.0,41.0,0.0
+64,2023-02-21_Eel River Scotia,4,Eel River Scotia,Monday,2023-02-21,2023-02-21,NW,1.0,16.5,43.5,0.0
+65,2023-02-21_Hat Creek,4,Hat Creek,Monday,2023-02-21,2023-02-21,SW,0.0,18.5,37.5,0.0
+66,2023-02-21_Little Truckee River,4,Little Truckee River,Monday,2023-02-21,2023-02-21,SW,0.0,20.0,33.0,0.0
+67,2023-02-21_Mad River,4,Mad River,Monday,2023-02-21,2023-02-21,NW,2.0,16.0,45.0,0.0
+68,2023-02-21_Mattole River Ettersburg,4,Mattole River Ettersburg,Monday,2023-02-21,2023-02-21,N,1.0,20.0,43.0,0.0
+69,2023-02-21_Mattole River Petrolia,4,Mattole River Petrolia,Monday,2023-02-21,2023-02-21,N,1.0,23.5,46.5,0.0
+70,2023-02-21_Navarro River,4,Navarro River,Monday,2023-02-21,2023-02-21,NW,1.0,20.5,46.0,0.0
+71,2023-02-21_Nestucca River Beaver,4,Nestucca River Beaver,Monday,2023-02-21,2023-02-21,W,1.5,20.0,40.0,0.0
+72,2023-02-21_North Fork American River,4,North Fork American River,Monday,2023-02-21,2023-02-21,ENE,1.0,10.5,49.5,0.0
+73,2023-02-21_North Umpqua River Winchester,4,North Umpqua River Winchester,Monday,2023-02-21,2023-02-21,WNW,1.5,15.0,41.5,0.0
+74,2023-02-21_North Umpquar River Idlelyd,4,North Umpquar River Idlelyd,Monday,2023-02-21,2023-02-21,SW,1.5,16.0,38.5,0.0
+75,2023-02-21_Noyo River,4,Noyo River,Monday,2023-02-21,2023-02-21,NW,1.0,20.0,45.0,0.0
+76,2023-02-21_Pit River,4,Pit River,Monday,2023-02-21,2023-02-21,ESE,0.0,15.5,39.5,0.0
+77,2023-02-21_Putah Creek,4,Putah Creek,Monday,2023-02-21,2023-02-21,NW,0.0,15.5,52.5,0.0
+78,2023-02-21_Redwood Creek Orick,4,Redwood Creek Orick,Monday,2023-02-21,2023-02-21,WNW,1.0,18.0,45.5,0.0
+79,2023-02-21_Rogue River Agness,4,Rogue River Agness,Monday,2023-02-21,2023-02-21,W,1.5,14.0,38.5,0.0
+80,2023-02-21_Rogue River Grants Pass,4,Rogue River Grants Pass,Monday,2023-02-21,2023-02-21,W,1.5,13.5,40.0,0.0
+81,2023-02-21_Russian River HaciendaBridge,4,Russian River HaciendaBridge,Monday,2023-02-21,2023-02-21,WNW,0.5,20.0,51.0,0.0
+82,2023-02-21_San Lorenzo River,4,San Lorenzo River,Monday,2023-02-21,2023-02-21,N,0.0,16.5,49.0,0.0
+83,2023-02-21_San Lorenzo River Upper,4,San Lorenzo River Upper,Monday,2023-02-21,2023-02-21,NNE,0.5,15.5,49.5,0.0
+84,2023-02-21_Smith River CC,4,Smith River CC,Monday,2023-02-21,2023-02-21,W,1.0,18.5,44.0,0.0
+85,2023-02-21_Trinity River Burnt Ranch,4,Trinity River Burnt Ranch,Monday,2023-02-21,2023-02-21,WNW,2.0,18.5,43.5,0.0
+86,2023-02-21_Trinity River Junction City,4,Trinity River Junction City,Monday,2023-02-21,2023-02-21,W,1.5,21.5,43.0,0.0
+87,2023-02-21_Trinity River Lewiston,4,Trinity River Lewiston,Monday,2023-02-21,2023-02-21,W,1.5,19.0,41.0,0.0
+88,2023-02-21_Truckee River Farad,4,Truckee River Farad,Monday,2023-02-21,2023-02-21,SW,1.0,20.0,37.0,0.0
+89,2023-02-21_Umpqua River Elkton,4,Umpqua River Elkton,Monday,2023-02-21,2023-02-21,WNW,1.5,17.0,39.5,0.0
+90,2023-02-21_Van Duzen River Bridgeville,4,Van Duzen River Bridgeville,Monday,2023-02-21,2023-02-21,NW,1.0,16.0,43.0,0.0
+91,2023-02-21_Yuba River,4,Yuba River,Monday,2023-02-21,2023-02-21,ENE,1.0,14.0,43.0,0.0
+92,2023-02-21_Yuba River Marysville,4,Yuba River Marysville,Monday,2023-02-21,2023-02-21,S,0.0,15.0,51.0,0.0
+93,2023-02-22_East Walker,6,East Walker,Tuesday,2023-02-22,2023-02-22,W,0.0,25.0,10.5,0.0
+94,2023-02-22_Eel River Fort Seward,6,Eel River Fort Seward,Tuesday,2023-02-22,2023-02-22,NW,1.0,17.0,34.0,0.0
+95,2023-02-22_Eel River Scotia,6,Eel River Scotia,Tuesday,2023-02-22,2023-02-22,NNW,0.0,18.5,36.5,0.0
+96,2023-02-22_Hat Creek,6,Hat Creek,Tuesday,2023-02-22,2023-02-22,W,0.0,17.5,24.0,0.0
+97,2023-02-22_Little Truckee River,6,Little Truckee River,Tuesday,2023-02-22,2023-02-22,W,0.0,20.0,17.0,0.0
+98,2023-02-22_Mad River,6,Mad River,Tuesday,2023-02-22,2023-02-22,NW,0.0,19.0,38.5,0.0
+99,2023-02-22_Mattole River Ettersburg,6,Mattole River Ettersburg,Tuesday,2023-02-22,2023-02-22,NNW,1.0,20.0,35.5,0.0
+100,2023-02-22_Mattole River Petrolia,6,Mattole River Petrolia,Tuesday,2023-02-22,2023-02-22,NNW,0.0,25.0,39.5,0.0
+101,2023-02-22_Navarro River,6,Navarro River,Tuesday,2023-02-22,2023-02-22,NW,1.0,24.5,39.5,0.0
+102,2023-02-22_Nestucca River Beaver,6,Nestucca River Beaver,Tuesday,2023-02-22,2023-02-22,NW,2.0,16.0,37.0,0.0
+103,2023-02-22_North Fork American River,6,North Fork American River,Tuesday,2023-02-22,2023-02-22,NW,2.0,15.0,37.5,0.0
+104,2023-02-22_North Umpqua River Winchester,6,North Umpqua River Winchester,Tuesday,2023-02-22,2023-02-22,W,2.0,15.0,35.5,0.0
+105,2023-02-22_North Umpquar River Idlelyd,6,North Umpquar River Idlelyd,Tuesday,2023-02-22,2023-02-22,W,1.0,14.0,33.5,0.0
+106,2023-02-22_Noyo River,6,Noyo River,Tuesday,2023-02-22,2023-02-22,NW,1.0,23.5,38.5,0.0
+107,2023-02-22_Pit River,6,Pit River,Tuesday,2023-02-22,2023-02-22,WNW,0.0,17.5,29.5,0.0
+108,2023-02-22_Putah Creek,6,Putah Creek,Tuesday,2023-02-22,2023-02-22,W,0.5,19.5,43.0,0.0
+109,2023-02-22_Redwood Creek Orick,6,Redwood Creek Orick,Tuesday,2023-02-22,2023-02-22,NW,0.0,19.0,38.0,0.0
+110,2023-02-22_Rogue River Agness,6,Rogue River Agness,Tuesday,2023-02-22,2023-02-22,WNW,1.0,15.0,32.5,0.0
+111,2023-02-22_Rogue River Grants Pass,6,Rogue River Grants Pass,Tuesday,2023-02-22,2023-02-22,W,1.0,12.5,34.0,0.0
+112,2023-02-22_Russian River HaciendaBridge,6,Russian River HaciendaBridge,Tuesday,2023-02-22,2023-02-22,NW,1.0,24.0,43.5,0.0
+113,2023-02-22_San Lorenzo River,6,San Lorenzo River,Tuesday,2023-02-22,2023-02-22,NW,1.0,24.0,43.5,0.0
+114,2023-02-22_San Lorenzo River Upper,6,San Lorenzo River Upper,Tuesday,2023-02-22,2023-02-22,NW,1.0,26.0,43.5,0.0
+115,2023-02-22_Smith River CC,6,Smith River CC,Tuesday,2023-02-22,2023-02-22,NW,0.0,19.0,38.0,0.0
+116,2023-02-22_Trinity River Burnt Ranch,6,Trinity River Burnt Ranch,Tuesday,2023-02-22,2023-02-22,WNW,1.0,19.0,34.5,0.0
+117,2023-02-22_Trinity River Junction City,6,Trinity River Junction City,Tuesday,2023-02-22,2023-02-22,W,1.0,19.5,33.5,0.0
+118,2023-02-22_Trinity River Lewiston,6,Trinity River Lewiston,Tuesday,2023-02-22,2023-02-22,W,0.0,19.0,31.5,0.0
+119,2023-02-22_Truckee River Farad,6,Truckee River Farad,Tuesday,2023-02-22,2023-02-22,W,0.0,17.5,20.5,0.0
+120,2023-02-22_Umpqua River Elkton,6,Umpqua River Elkton,Tuesday,2023-02-22,2023-02-22,W,2.0,15.5,35.5,0.0
+121,2023-02-22_Van Duzen River Bridgeville,6,Van Duzen River Bridgeville,Tuesday,2023-02-22,2023-02-22,NW,1.0,17.5,35.0,0.0
+122,2023-02-22_Yuba River,6,Yuba River,Tuesday,2023-02-22,2023-02-22,NW,0.0,17.5,27.5,0.0
+123,2023-02-22_Yuba River Marysville,6,Yuba River Marysville,Tuesday,2023-02-22,2023-02-22,NW,1.0,18.5,41.5,0.0
+124,2023-02-23_East Walker,8,East Walker,Thursday,2023-02-23,2023-02-23,SW,0.0,15.0,9.0,0.0
+125,2023-02-23_Eel River Fort Seward,8,Eel River Fort Seward,Thursday,2023-02-23,2023-02-23,NNW,0.0,10.5,31.0,0.0
+126,2023-02-23_Eel River Scotia,8,Eel River Scotia,Thursday,2023-02-23,2023-02-23,N,0.0,11.5,34.0,0.0
+127,2023-02-23_Hat Creek,8,Hat Creek,Thursday,2023-02-23,2023-02-23,SSW,0.0,13.5,22.5,0.0
+128,2023-02-23_Little Truckee River,8,Little Truckee River,Thursday,2023-02-23,2023-02-23,SW,0.0,15.0,16.5,0.0
+129,2023-02-23_Mad River,8,Mad River,Thursday,2023-02-23,2023-02-23,ESE,0.0,11.0,35.5,0.0
+130,2023-02-23_Mattole River Ettersburg,8,Mattole River Ettersburg,Thursday,2023-02-23,2023-02-23,N,1.0,11.5,34.0,0.0
+131,2023-02-23_Mattole River Petrolia,8,Mattole River Petrolia,Thursday,2023-02-23,2023-02-23,N,0.0,14.0,37.5,0.0
+132,2023-02-23_Navarro River,8,Navarro River,Thursday,2023-02-23,2023-02-23,NNW,2.0,14.0,37.5,0.0
+133,2023-02-23_Nestucca River Beaver,8,Nestucca River Beaver,Thursday,2023-02-23,2023-02-23,E,1.0,13.5,30.5,0.0
+134,2023-02-23_North Fork American River,8,North Fork American River,Thursday,2023-02-23,2023-02-23,S,1.0,14.0,36.0,0.0
+135,2023-02-23_North Umpqua River Winchester,8,North Umpqua River Winchester,Thursday,2023-02-23,2023-02-23,SSW,1.0,10.0,33.0,0.0
+136,2023-02-23_North Umpquar River Idlelyd,8,North Umpquar River Idlelyd,Thursday,2023-02-23,2023-02-23,S,0.0,10.5,31.5,0.0
+137,2023-02-23_Noyo River,8,Noyo River,Thursday,2023-02-23,2023-02-23,NNW,2.0,13.5,36.5,0.0
+138,2023-02-23_Pit River,8,Pit River,Thursday,2023-02-23,2023-02-23,SW,0.0,12.5,28.0,0.0
+139,2023-02-23_Putah Creek,8,Putah Creek,Thursday,2023-02-23,2023-02-23,SSW,1.0,13.5,38.5,0.0
+140,2023-02-23_Redwood Creek Orick,8,Redwood Creek Orick,Thursday,2023-02-23,2023-02-23,NNE,0.0,12.5,36.0,0.0
+141,2023-02-23_Rogue River Agness,8,Rogue River Agness,Thursday,2023-02-23,2023-02-23,SSW,0.0,11.0,31.0,0.0
+142,2023-02-23_Rogue River Grants Pass,8,Rogue River Grants Pass,Thursday,2023-02-23,2023-02-23,S,0.0,8.5,30.5,0.0
+143,2023-02-23_Russian River HaciendaBridge,8,Russian River HaciendaBridge,Thursday,2023-02-23,2023-02-23,NW,2.0,13.0,39.5,0.0
+144,2023-02-23_San Lorenzo River,8,San Lorenzo River,Thursday,2023-02-23,2023-02-23,NW,1.0,13.0,40.5,0.0
+145,2023-02-23_San Lorenzo River Upper,8,San Lorenzo River Upper,Thursday,2023-02-23,2023-02-23,NW,1.5,13.0,40.5,0.0
+146,2023-02-23_Smith River CC,8,Smith River CC,Thursday,2023-02-23,2023-02-23,NNE,0.0,11.5,35.5,0.0
+147,2023-02-23_Trinity River Burnt Ranch,8,Trinity River Burnt Ranch,Thursday,2023-02-23,2023-02-23,SW,0.0,11.0,32.5,0.0
+148,2023-02-23_Trinity River Junction City,8,Trinity River Junction City,Thursday,2023-02-23,2023-02-23,SW,0.0,11.5,31.0,0.0
+149,2023-02-23_Trinity River Lewiston,8,Trinity River Lewiston,Thursday,2023-02-23,2023-02-23,SSW,0.0,10.5,29.0,0.0
+150,2023-02-23_Truckee River Farad,8,Truckee River Farad,Thursday,2023-02-23,2023-02-23,SW,0.0,15.0,19.5,0.0
+151,2023-02-23_Umpqua River Elkton,8,Umpqua River Elkton,Thursday,2023-02-23,2023-02-23,SE,1.0,11.0,32.0,0.0
+152,2023-02-23_Van Duzen River Bridgeville,8,Van Duzen River Bridgeville,Thursday,2023-02-23,2023-02-23,NE,1.0,10.5,32.5,0.0
+153,2023-02-23_Yuba River,8,Yuba River,Thursday,2023-02-23,2023-02-23,SSW,0.0,15.5,25.5,0.0
+154,2023-02-23_Yuba River Marysville,8,Yuba River Marysville,Thursday,2023-02-23,2023-02-23,SSE,2.0,13.5,40.0,0.0
+155,2023-02-24_East Walker,10,East Walker,Friday,2023-02-24,2023-02-24,SW,0.0,12.5,9.0,0.0
+156,2023-02-24_Eel River Fort Seward,10,Eel River Fort Seward,Friday,2023-02-24,2023-02-24,NNE,0.0,9.0,33.5,0.0
+157,2023-02-24_Eel River Scotia,10,Eel River Scotia,Friday,2023-02-24,2023-02-24,N,1.0,10.0,35.5,0.0
+158,2023-02-24_Hat Creek,10,Hat Creek,Friday,2023-02-24,2023-02-24,ENE,0.0,11.0,24.5,0.0
+159,2023-02-24_Little Truckee River,10,Little Truckee River,Friday,2023-02-24,2023-02-24,SW,0.0,12.5,16.5,0.0
+160,2023-02-24_Mad River,10,Mad River,Friday,2023-02-24,2023-02-24,N,1.5,9.5,36.5,0.0
+161,2023-02-24_Mattole River Ettersburg,10,Mattole River Ettersburg,Friday,2023-02-24,2023-02-24,N,1.0,11.0,35.0,0.0
+162,2023-02-24_Mattole River Petrolia,10,Mattole River Petrolia,Friday,2023-02-24,2023-02-24,N,2.0,12.5,39.0,0.0
+163,2023-02-24_Navarro River,10,Navarro River,Friday,2023-02-24,2023-02-24,N,1.5,12.0,38.5,0.0
+164,2023-02-24_Nestucca River Beaver,10,Nestucca River Beaver,Friday,2023-02-24,2023-02-24,E,1.0,11.0,29.5,0.0
+165,2023-02-24_North Fork American River,10,North Fork American River,Friday,2023-02-24,2023-02-24,NNW,2.0,11.0,38.0,0.0
+166,2023-02-24_North Umpqua River Winchester,10,North Umpqua River Winchester,Friday,2023-02-24,2023-02-24,ENE,1.0,7.5,30.0,0.0
+167,2023-02-24_North Umpquar River Idlelyd,10,North Umpquar River Idlelyd,Friday,2023-02-24,2023-02-24,E,1.0,8.5,29.0,0.0
+168,2023-02-24_Noyo River,10,Noyo River,Friday,2023-02-24,2023-02-24,N,1.5,12.0,37.0,0.0
+169,2023-02-24_Pit River,10,Pit River,Friday,2023-02-24,2023-02-24,ENE,0.0,9.5,29.0,0.0
+170,2023-02-24_Putah Creek,10,Putah Creek,Friday,2023-02-24,2023-02-24,NNE,1.5,13.0,41.5,0.0
+171,2023-02-24_Redwood Creek Orick,10,Redwood Creek Orick,Friday,2023-02-24,2023-02-24,NNE,1.5,11.0,36.5,0.0
+172,2023-02-24_Rogue River Agness,10,Rogue River Agness,Friday,2023-02-24,2023-02-24,ESE,0.0,9.5,29.5,0.0
+173,2023-02-24_Rogue River Grants Pass,10,Rogue River Grants Pass,Friday,2023-02-24,2023-02-24,NE,0.5,8.0,30.5,0.0
+174,2023-02-24_Russian River HaciendaBridge,10,Russian River HaciendaBridge,Friday,2023-02-24,2023-02-24,NNW,1.0,10.0,41.5,0.0
+175,2023-02-24_San Lorenzo River,10,San Lorenzo River,Friday,2023-02-24,2023-02-24,N,1.0,10.5,41.5,0.0
+176,2023-02-24_San Lorenzo River Upper,10,San Lorenzo River Upper,Friday,2023-02-24,2023-02-24,NNW,1.0,10.5,41.5,0.0
+177,2023-02-24_Smith River CC,10,Smith River CC,Friday,2023-02-24,2023-02-24,N,2.0,9.5,36.0,0.0
+178,2023-02-24_Trinity River Burnt Ranch,10,Trinity River Burnt Ranch,Friday,2023-02-24,2023-02-24,E,0.5,9.0,33.0,0.0
+179,2023-02-24_Trinity River Junction City,10,Trinity River Junction City,Friday,2023-02-24,2023-02-24,W,0.0,9.5,33.0,0.0
+180,2023-02-24_Trinity River Lewiston,10,Trinity River Lewiston,Friday,2023-02-24,2023-02-24,W,0.0,9.0,31.0,0.0
+181,2023-02-24_Truckee River Farad,10,Truckee River Farad,Friday,2023-02-24,2023-02-24,SW,0.0,12.5,20.0,0.0
+182,2023-02-24_Umpqua River Elkton,10,Umpqua River Elkton,Friday,2023-02-24,2023-02-24,NE,0.0,8.5,28.0,0.0
+183,2023-02-24_Van Duzen River Bridgeville,10,Van Duzen River Bridgeville,Friday,2023-02-24,2023-02-24,NNE,1.5,9.0,33.0,0.0
+184,2023-02-24_Yuba River,10,Yuba River,Friday,2023-02-24,2023-02-24,ESE,0.0,11.5,30.0,0.0
+185,2023-02-24_Yuba River Marysville,10,Yuba River Marysville,Friday,2023-02-24,2023-02-24,N,1.0,11.5,42.0,0.0
+186,2023-02-25_East Walker,12,East Walker,Friday,2023-02-25,2023-02-25,W,0.0,10.0,15.0,0.0
+187,2023-02-25_Eel River Fort Seward,12,Eel River Fort Seward,Friday,2023-02-25,2023-02-25,NE,0.0,8.0,36.5,0.0
+188,2023-02-25_Eel River Scotia,12,Eel River Scotia,Friday,2023-02-25,2023-02-25,ESE,0.5,9.0,37.0,0.0
+189,2023-02-25_Hat Creek,12,Hat Creek,Friday,2023-02-25,2023-02-25,SSE,0.0,9.0,29.0,0.0
+190,2023-02-25_Little Truckee River,12,Little Truckee River,Friday,2023-02-25,2023-02-25,SW,0.0,10.0,21.0,0.0
+191,2023-02-25_Mad River,12,Mad River,Friday,2023-02-25,2023-02-25,ENE,1.0,8.5,39.0,0.0
+192,2023-02-25_Mattole River Ettersburg,12,Mattole River Ettersburg,Friday,2023-02-25,2023-02-25,N,0.5,10.0,37.5,0.0
+193,2023-02-25_Mattole River Petrolia,12,Mattole River Petrolia,Friday,2023-02-25,2023-02-25,NE,1.0,11.5,41.5,0.0
+194,2023-02-25_Navarro River,12,Navarro River,Friday,2023-02-25,2023-02-25,N,0.0,11.5,40.5,0.0
+195,2023-02-25_Nestucca River Beaver,12,Nestucca River Beaver,Friday,2023-02-25,2023-02-25,SSE,1.5,12.5,36.5,0.0
+196,2023-02-25_North Fork American River,12,North Fork American River,Friday,2023-02-25,2023-02-25,N,0.0,8.0,40.0,0.0
+197,2023-02-25_North Umpqua River Winchester,12,North Umpqua River Winchester,Friday,2023-02-25,2023-02-25,ENE,2.0,7.0,35.0,0.0
+198,2023-02-25_North Umpquar River Idlelyd,12,North Umpquar River Idlelyd,Friday,2023-02-25,2023-02-25,SE,2.0,8.5,34.0,0.0
+199,2023-02-25_Noyo River,12,Noyo River,Friday,2023-02-25,2023-02-25,N,0.0,11.0,39.0,0.0
+200,2023-02-25_Pit River,12,Pit River,Friday,2023-02-25,2023-02-25,E,0.0,8.5,32.0,0.0
+201,2023-02-25_Putah Creek,12,Putah Creek,Friday,2023-02-25,2023-02-25,NNW,0.0,10.5,44.5,0.0
+202,2023-02-25_Redwood Creek Orick,12,Redwood Creek Orick,Friday,2023-02-25,2023-02-25,NE,1.0,9.5,39.0,0.0
+203,2023-02-25_Rogue River Agness,12,Rogue River Agness,Friday,2023-02-25,2023-02-25,ENE,1.0,9.5,34.0,0.0
+204,2023-02-25_Rogue River Grants Pass,12,Rogue River Grants Pass,Friday,2023-02-25,2023-02-25,NE,1.0,7.5,34.0,0.0
+205,2023-02-25_Russian River HaciendaBridge,12,Russian River HaciendaBridge,Friday,2023-02-25,2023-02-25,NW,0.0,9.5,44.0,0.0
+206,2023-02-25_San Lorenzo River,12,San Lorenzo River,Friday,2023-02-25,2023-02-25,N,0.5,10.5,44.0,0.0
+207,2023-02-25_San Lorenzo River Upper,12,San Lorenzo River Upper,Friday,2023-02-25,2023-02-25,N,0.5,10.5,43.5,0.0
+208,2023-02-25_Smith River CC,12,Smith River CC,Friday,2023-02-25,2023-02-25,ENE,1.5,9.0,39.0,0.0
+209,2023-02-25_Trinity River Burnt Ranch,12,Trinity River Burnt Ranch,Friday,2023-02-25,2023-02-25,NNE,0.5,8.5,37.5,0.0
+210,2023-02-25_Trinity River Junction City,12,Trinity River Junction City,Friday,2023-02-25,2023-02-25,NW,0.5,9.0,37.5,0.0
+211,2023-02-25_Trinity River Lewiston,12,Trinity River Lewiston,Friday,2023-02-25,2023-02-25,W,0.0,8.5,35.5,0.0
+212,2023-02-25_Truckee River Farad,12,Truckee River Farad,Friday,2023-02-25,2023-02-25,S,0.0,10.0,24.0,0.0
+213,2023-02-25_Umpqua River Elkton,12,Umpqua River Elkton,Friday,2023-02-25,2023-02-25,ESE,2.0,8.5,33.5,0.0
+214,2023-02-25_Van Duzen River Bridgeville,12,Van Duzen River Bridgeville,Friday,2023-02-25,2023-02-25,NE,0.5,8.0,36.0,0.0
+215,2023-02-25_Yuba River,12,Yuba River,Friday,2023-02-25,2023-02-25,N,0.0,9.5,33.0,0.0
+216,2023-02-25_Yuba River Marysville,12,Yuba River Marysville,Friday,2023-02-25,2023-02-25,N,0.0,9.0,43.0,0.0
+217,2023-02-26_East Walker,14,East Walker,Saturday,2023-02-26,2023-02-26,NW,0.0,10.0,7.0,0.0
+218,2023-02-26_Eel River Fort Seward,14,Eel River Fort Seward,Saturday,2023-02-26,2023-02-26,SSE,2.0,8.0,32.0,0.0
+219,2023-02-26_Eel River Scotia,14,Eel River Scotia,Saturday,2023-02-26,2023-02-26,SW,2.0,9.0,35.0,0.0
+220,2023-02-26_Hat Creek,14,Hat Creek,Saturday,2023-02-26,2023-02-26,SW,0.0,9.0,23.0,0.0
+221,2023-02-26_Little Truckee River,14,Little Truckee River,Saturday,2023-02-26,2023-02-26,W,0.0,10.0,11.0,0.0
+222,2023-02-26_Mad River,14,Mad River,Saturday,2023-02-26,2023-02-26,S,2.0,9.0,35.0,0.0
+223,2023-02-26_Mattole River Ettersburg,14,Mattole River Ettersburg,Saturday,2023-02-26,2023-02-26,NE,2.0,9.0,32.0,0.0
+224,2023-02-26_Mattole River Petrolia,14,Mattole River Petrolia,Saturday,2023-02-26,2023-02-26,NNE,2.0,12.0,37.0,0.0
+225,2023-02-26_Navarro River,14,Navarro River,Saturday,2023-02-26,2023-02-26,NNW,2.0,9.0,36.0,0.0
+226,2023-02-26_Nestucca River Beaver,14,Nestucca River Beaver,Saturday,2023-02-26,2023-02-26,SW,1.0,20.0,37.0,0.0
+227,2023-02-26_North Fork American River,14,North Fork American River,Saturday,2023-02-26,2023-02-26,ENE,0.0,7.0,31.0,0.0
+228,2023-02-26_North Umpqua River Winchester,14,North Umpqua River Winchester,Saturday,2023-02-26,2023-02-26,SSW,2.0,8.0,32.0,0.0
+229,2023-02-26_North Umpquar River Idlelyd,14,North Umpquar River Idlelyd,Saturday,2023-02-26,2023-02-26,S,2.0,9.0,33.0,0.0
+230,2023-02-26_Noyo River,14,Noyo River,Saturday,2023-02-26,2023-02-26,N,2.0,9.0,34.0,0.0
+231,2023-02-26_Pit River,14,Pit River,Saturday,2023-02-26,2023-02-26,S,0.0,8.0,24.0,0.0
+232,2023-02-26_Putah Creek,14,Putah Creek,Saturday,2023-02-26,2023-02-26,WNW,1.0,9.0,36.0,0.0
+233,2023-02-26_Redwood Creek Orick,14,Redwood Creek Orick,Saturday,2023-02-26,2023-02-26,S,2.0,13.0,35.0,0.0
+234,2023-02-26_Rogue River Agness,14,Rogue River Agness,Saturday,2023-02-26,2023-02-26,SSW,2.0,10.0,33.0,0.0
+235,2023-02-26_Rogue River Grants Pass,14,Rogue River Grants Pass,Saturday,2023-02-26,2023-02-26,SSW,2.0,7.0,30.0,0.0
+236,2023-02-26_Russian River HaciendaBridge,14,Russian River HaciendaBridge,Saturday,2023-02-26,2023-02-26,WNW,0.0,9.0,36.0,0.0
+237,2023-02-26_San Lorenzo River,14,San Lorenzo River,Saturday,2023-02-26,2023-02-26,N,0.0,9.0,36.0,0.0
+238,2023-02-26_San Lorenzo River Upper,14,San Lorenzo River Upper,Saturday,2023-02-26,2023-02-26,NNW,0.0,9.0,36.0,0.0
+239,2023-02-26_Smith River CC,14,Smith River CC,Saturday,2023-02-26,2023-02-26,SSW,2.0,13.0,35.0,0.0
+240,2023-02-26_Trinity River Burnt Ranch,14,Trinity River Burnt Ranch,Saturday,2023-02-26,2023-02-26,SSW,2.0,8.0,34.0,0.0
+241,2023-02-26_Trinity River Junction City,14,Trinity River Junction City,Saturday,2023-02-26,2023-02-26,WSW,2.0,9.0,31.0,0.0
+242,2023-02-26_Trinity River Lewiston,14,Trinity River Lewiston,Saturday,2023-02-26,2023-02-26,SW,1.0,8.0,29.0,0.0
+243,2023-02-26_Truckee River Farad,14,Truckee River Farad,Saturday,2023-02-26,2023-02-26,W,0.0,10.0,16.0,0.0
+244,2023-02-26_Umpqua River Elkton,14,Umpqua River Elkton,Saturday,2023-02-26,2023-02-26,SSW,2.0,12.0,32.0,0.0
+245,2023-02-26_Van Duzen River Bridgeville,14,Van Duzen River Bridgeville,Saturday,2023-02-26,2023-02-26,SE,2.0,8.0,32.0,0.0
+246,2023-02-26_Yuba River,14,Yuba River,Saturday,2023-02-26,2023-02-26,NE,0.0,8.0,26.0,0.0
+247,2023-02-26_Yuba River Marysville,14,Yuba River Marysville,Saturday,2023-02-26,2023-02-26,ENE,0.0,8.0,32.0,0.0
