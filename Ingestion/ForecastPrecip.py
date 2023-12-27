@@ -2,6 +2,7 @@ import re
 import pandas as pd
 import numpy as np
 import requests
+import sys
 import json
 import time
 import datetime as dt
@@ -108,63 +109,73 @@ for i in range(len(Geodata['value']['timeSeries'])):
 
     print('Retrieving '+baseStation)
     # Retrieve Forecast for Lat Long Position
-    forecast_json = requests.get(json_data['properties']['forecast']).json()
-    try: 
-        if forecast_json['status'] == 500:
-            continue
-    except:
-        KeyError
+    if requests.get(json_data['properties']['forecast']).status_code!=200:
+        print(requests.get(json_data['properties']['forecast']).status_code)
+        Forecast_df_temp = None
+    else:
+        try:
+            forecast_json = requests.get(json_data['properties']['forecast']).json()
+            if forecast_json['status'] == 500:
+                continue
+            if forecast_json['status'] == 503:
+                continue
+        except:
+            KeyError
+        forecast = forecast_json['properties']['periods']
+        Forecast_df_temp = pd.DataFrame(forecast)
+    if Forecast_df_temp == None:
+        Forecast_df = Forecast_df.append(Forecast_df_temp,ignore_index=True)
+    else:
+        # Clean Data
+        Forecast_df_temp['startTime'] = pd.to_datetime(Forecast_df_temp.startTime,utc=True).dt.date
+        Forecast_df_temp['endTime'] = pd.to_datetime(Forecast_df_temp.endTime,utc=True).dt.date
+        Forecast_df_temp['Lat'] = lat
+        Forecast_df_temp['Long'] = long
+        Forecast_df_temp['Station'] = baseStation
+        Forecast_df_temp['WindMph'] = Forecast_df_temp.windSpeed.apply(lambda x: WindTranslate(x))
 
-    forecast = forecast_json['properties']['periods']
-    Forecast_df_temp = pd.DataFrame(forecast)
-
-    # Clean Data
-    Forecast_df_temp['startTime'] = pd.to_datetime(Forecast_df_temp.startTime,utc=True).dt.date
-    Forecast_df_temp['endTime'] = pd.to_datetime(Forecast_df_temp.endTime,utc=True).dt.date
-    Forecast_df_temp['Lat'] = lat
-    Forecast_df_temp['Long'] = long
-    Forecast_df_temp['Station'] = baseStation
-    Forecast_df_temp['WindMph'] = Forecast_df_temp.windSpeed.apply(lambda x: WindTranslate(x))
-
-    # Generalize Name's of Day
-    Forecast_df_temp['WeekdayName'] = Forecast_df_temp.name.apply(lambda x: nameChanger(x))
-  
-    # Create Rain and Snow  Features
-    Forecast_df_temp['LightRainFlag'] = Forecast_df_temp.shortForecast.apply(lambda x: LightRain(x))
-    Forecast_df_temp['HeavyRainFlag'] = Forecast_df_temp.shortForecast.apply(lambda x: HeavyRain(x))
-    Forecast_df_temp['RainFlag'] = Forecast_df_temp.shortForecast.apply(lambda x: Rain(x))
-    Forecast_df_temp['SnowFlag'] = Forecast_df_temp.shortForecast.apply(lambda x: HeavyRain(x))
-    Forecast_df_temp['RainCode'] = Forecast_df_temp.LightRainFlag.astype(str) + Forecast_df_temp.RainFlag.astype(str) + Forecast_df_temp.HeavyRainFlag.astype(str)
-    Forecast_df_temp['Rain'] = Forecast_df_temp.RainCode.apply(lambda x: RainCoder(x))
+        # Generalize Name's of Day
+        Forecast_df_temp['WeekdayName'] = Forecast_df_temp.name.apply(lambda x: nameChanger(x))
     
-    Forecast_df_temp = Forecast_df_temp[['Station','number','WeekdayName','startTime','endTime'
-                                        ,'Rain','SnowFlag','WindMph','windDirection','temperature'
-                                        ,'LightRainFlag','RainFlag','HeavyRainFlag','RainCode','shortForecast','detailedForecast','Lat','Long']]
+        # Create Rain and Snow  Features
+        Forecast_df_temp['LightRainFlag'] = Forecast_df_temp.shortForecast.apply(lambda x: LightRain(x))
+        Forecast_df_temp['HeavyRainFlag'] = Forecast_df_temp.shortForecast.apply(lambda x: HeavyRain(x))
+        Forecast_df_temp['RainFlag'] = Forecast_df_temp.shortForecast.apply(lambda x: Rain(x))
+        Forecast_df_temp['SnowFlag'] = Forecast_df_temp.shortForecast.apply(lambda x: HeavyRain(x))
+        Forecast_df_temp['RainCode'] = Forecast_df_temp.LightRainFlag.astype(str) + Forecast_df_temp.RainFlag.astype(str) + Forecast_df_temp.HeavyRainFlag.astype(str)
+        Forecast_df_temp['Rain'] = Forecast_df_temp.RainCode.apply(lambda x: RainCoder(x))
+        
+        Forecast_df_temp = Forecast_df_temp[['Station','number','WeekdayName','startTime','endTime'
+                                            ,'Rain','SnowFlag','WindMph','windDirection','temperature'
+                                            ,'LightRainFlag','RainFlag','HeavyRainFlag','RainCode','shortForecast','detailedForecast','Lat','Long']]
 
-    Forecast_df = Forecast_df.append(Forecast_df_temp,ignore_index=True)
-    
+        Forecast_df = Forecast_df.append(Forecast_df_temp,ignore_index=True)
+
     # # Remove Duplicates
     # Forecast_df = Forecast_df.drop_duplicates()
 
 
-# Transform Data for Loading    
-Weather_Forecast = Forecast_df.set_index('Station').join(rivers_reference[['USGS Name','Name']].set_index('USGS Name'))
-Weather_Forecast = Weather_Forecast.reset_index().rename(columns={'index':'Station','Name':'StationName'})
-Weather_Forecast['Date_Name'] = Weather_Forecast.startTime.astype(str)+'_'+Weather_Forecast.StationName
-Weather_Forecast['ForecastFromPresent'] = Weather_Forecast['number']
-Weather_Forecast = Weather_Forecast[['StationName','ForecastFromPresent','WeekdayName','startTime','endTime'
-                ,'Rain','SnowFlag','WindMph','windDirection','temperature'
-                ,'LightRainFlag','RainFlag','HeavyRainFlag','RainCode','shortForecast','detailedForecast','Lat','Long','Date_Name']]
+if Forecast_df.empty:
+    print('No Data Found')
+else:
+    # Transform Data for Loading    
+    Weather_Forecast = Forecast_df.set_index('Station').join(rivers_reference[['USGS Name','Name']].set_index('USGS Name'))
+    Weather_Forecast = Weather_Forecast.reset_index().rename(columns={'index':'Station','Name':'StationName'})
+    Weather_Forecast['Date_Name'] = Weather_Forecast.startTime.astype(str)+'_'+Weather_Forecast.StationName
+    Weather_Forecast['ForecastFromPresent'] = Weather_Forecast['number']
+    Weather_Forecast = Weather_Forecast[['StationName','ForecastFromPresent','WeekdayName','startTime','endTime'
+                    ,'Rain','SnowFlag','WindMph','windDirection','temperature'
+                    ,'LightRainFlag','RainFlag','HeavyRainFlag','RainCode','shortForecast','detailedForecast','Lat','Long','Date_Name']]
 
-Avgs = Weather_Forecast.groupby('Date_Name').mean()[['Rain','WindMph','temperature','SnowFlag']]
-StaticFields = Weather_Forecast.groupby('Date_Name').min()[['ForecastFromPresent','StationName','WeekdayName','startTime','endTime','windDirection']]
+    Avgs = Weather_Forecast.groupby('Date_Name').mean()[['Rain','WindMph','temperature','SnowFlag']]
+    StaticFields = Weather_Forecast.groupby('Date_Name').min()[['ForecastFromPresent','StationName','WeekdayName','startTime','endTime','windDirection']]
 
-Condensed_df = StaticFields.join(Avgs).reset_index().drop_duplicates(subset=['Date_Name'])
+    Condensed_df = StaticFields.join(Avgs).reset_index().drop_duplicates(subset=['Date_Name'])
 
-# Condensed_df.to_csv('NewWeatherForecast.csv',index=False)
+    # Condensed_df.to_csv('NewWeatherForecast.csv',index=False)
 
-full_df = pd.read_csv('NewWeatherForecast.csv')
-full_df.append(Condensed_df).drop_duplicates()[['Date_Name','ForecastFromPresent','StationName','WeekdayName','startTime','endTime','windDirection','Rain','WindMph','temperature','SnowFlag']].to_csv('NewWeatherForecast.csv',index=True)
+    full_df = pd.read_csv('NewWeatherForecast.csv')
+    full_df.append(Condensed_df).drop_duplicates()[['Date_Name','ForecastFromPresent','StationName','WeekdayName','startTime','endTime','windDirection','Rain','WindMph','temperature','SnowFlag']].to_csv('NewWeatherForecast.csv',index=True)
 
 
 

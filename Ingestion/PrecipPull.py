@@ -30,6 +30,12 @@ for row in range(0,len(referencedata)):
     data_url = 'https://www.ncdc.noaa.gov/cdo-web/api/v2/data?datasetid=GHCND&datatypeid=PRCP&units=metric&limit=1000&locationid=ZIP:'+str(zipcode)+'&startdate='+str(startdate)+'&enddate='+str(enddate)
     
     r = requests.get(data_url, headers={'token':Token})
+
+    try: 
+        if r['status'] == 200:
+            continue
+    except:
+        KeyError
     d = json.loads(r.text)
 
     # print(json.dumps(d, indent=4, sort_keys=True))
@@ -38,7 +44,6 @@ for row in range(0,len(referencedata)):
         data_url = 'https://www.ncdc.noaa.gov/cdo-web/api/v2/data?datasetid=GHCND&datatypeid=PRCP&limit=1000&locationid=ZIP:'+str(zipcode2)+'&startdate='+str(startdate)+'&enddate='+str(enddate)
         r = requests.get(data_url, headers={'token':Token})
         d = json.loads(r.text)
-
     dates = []
     precips = []
     # print(d)
