@@ -111,7 +111,7 @@ for i in range(len(Geodata['value']['timeSeries'])):
     # Retrieve Forecast for Lat Long Position
     if requests.get(json_data['properties']['forecast']).status_code!=200:
         print(requests.get(json_data['properties']['forecast']).status_code)
-        Forecast_df_temp = None
+        Forecast_df_temp = pd.DataFrame()
     else:
         try:
             forecast_json = requests.get(json_data['properties']['forecast']).json()
@@ -123,9 +123,8 @@ for i in range(len(Geodata['value']['timeSeries'])):
             KeyError
         forecast = forecast_json['properties']['periods']
         Forecast_df_temp = pd.DataFrame(forecast)
-    if Forecast_df_temp == None:
-        Forecast_df = Forecast_df.append(Forecast_df_temp,ignore_index=True)
-    else:
+    
+    if Forecast_df_temp.empty == False:
         # Clean Data
         Forecast_df_temp['startTime'] = pd.to_datetime(Forecast_df_temp.startTime,utc=True).dt.date
         Forecast_df_temp['endTime'] = pd.to_datetime(Forecast_df_temp.endTime,utc=True).dt.date
@@ -150,6 +149,9 @@ for i in range(len(Geodata['value']['timeSeries'])):
                                             ,'LightRainFlag','RainFlag','HeavyRainFlag','RainCode','shortForecast','detailedForecast','Lat','Long']]
 
         Forecast_df = Forecast_df.append(Forecast_df_temp,ignore_index=True)
+    else:
+        Forecast_df = Forecast_df.append(Forecast_df_temp,ignore_index=True)
+        
 
     # # Remove Duplicates
     # Forecast_df = Forecast_df.drop_duplicates()

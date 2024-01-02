@@ -15800,316 +15800,232 @@
 15798,2023-12-22 00:00:00,0.5,North Umpqua River Winchester
 15799,2023-12-22 00:00:00,1.0,North Umpquar River Idlelyd
 15800,2023-12-21 00:00:00,0.5,Yuba River Marysville
-15801,2023-12-20 00:00:00,42.7,Russian River HaciendaBridge
-15802,2023-12-20 00:00:00,41.9,Russian River HaciendaBridge
-15803,2023-12-21 00:00:00,12.2,Russian River HaciendaBridge
-15804,2023-12-21 00:00:00,12.4,Russian River HaciendaBridge
-15805,2023-12-22 00:00:00,0.0,Russian River HaciendaBridge
-15806,2023-12-22 00:00:00,0.0,Russian River HaciendaBridge
-15807,2023-12-23 00:00:00,0.0,Russian River HaciendaBridge
-15808,2023-12-23 00:00:00,0.0,Russian River HaciendaBridge
-15809,2023-12-24 00:00:00,0.0,Russian River HaciendaBridge
-15810,2023-12-24 00:00:00,0.0,Russian River HaciendaBridge
-15811,2023-12-21 00:00:00,1.0,Navarro River
-15812,2023-12-22 00:00:00,0.0,Navarro River
-15813,2023-12-23 00:00:00,0.0,Navarro River
-15814,2023-12-24 00:00:00,0.5,Navarro River
-15815,2023-12-20 00:00:00,26.7,Noyo River
-15816,2023-12-20 00:00:00,33.5,Noyo River
-15817,2023-12-21 00:00:00,0.5,Noyo River
-15818,2023-12-21 00:00:00,1.3,Noyo River
-15819,2023-12-22 00:00:00,0.0,Noyo River
-15820,2023-12-23 00:00:00,0.0,Noyo River
-15821,2023-12-24 00:00:00,0.0,Noyo River
-15822,2023-12-20 00:00:00,32.5,San Lorenzo River Upper
-15823,2023-12-20 00:00:00,40.1,San Lorenzo River Upper
-15824,2023-12-20 00:00:00,36.8,San Lorenzo River Upper
-15825,2023-12-21 00:00:00,16.5,San Lorenzo River Upper
-15826,2023-12-21 00:00:00,4.1,San Lorenzo River Upper
-15827,2023-12-21 00:00:00,13.5,San Lorenzo River Upper
-15828,2023-12-20 00:00:00,11.4,Mad River
-15829,2023-12-21 00:00:00,0.8,Mad River
-15830,2023-12-22 00:00:00,0.0,Mad River
-15831,2023-12-23 00:00:00,0.0,Mad River
-15832,2023-12-24 00:00:00,0.0,Mad River
-15833,2023-12-20 00:00:00,1.8,Putah Creek
-15834,2023-12-20 00:00:00,2.0,Putah Creek
-15835,2023-12-21 00:00:00,9.1,Putah Creek
-15836,2023-12-21 00:00:00,8.9,Putah Creek
-15837,2023-12-22 00:00:00,0.0,Putah Creek
-15838,2023-12-22 00:00:00,0.0,Putah Creek
-15839,2023-12-23 00:00:00,0.0,Putah Creek
-15840,2023-12-23 00:00:00,0.0,Putah Creek
-15841,2023-12-20 00:00:00,11.2,Truckee River Farad
-15842,2023-12-20 00:00:00,14.5,Truckee River Farad
-15843,2023-12-20 00:00:00,8.6,Truckee River Farad
-15844,2023-12-20 00:00:00,0.0,Truckee River Farad
-15845,2023-12-21 00:00:00,0.0,Truckee River Farad
-15846,2023-12-21 00:00:00,0.0,Truckee River Farad
-15847,2023-12-21 00:00:00,0.0,Truckee River Farad
-15848,2023-12-21 00:00:00,0.0,Truckee River Farad
-15849,2023-12-22 00:00:00,0.0,Truckee River Farad
-15850,2023-12-22 00:00:00,0.0,Truckee River Farad
-15851,2023-12-22 00:00:00,0.0,Truckee River Farad
-15852,2023-12-22 00:00:00,0.0,Truckee River Farad
-15853,2023-12-23 00:00:00,0.0,Truckee River Farad
-15854,2023-12-23 00:00:00,0.0,Truckee River Farad
-15855,2023-12-23 00:00:00,0.0,Truckee River Farad
-15856,2023-12-23 00:00:00,0.0,Truckee River Farad
-15857,2023-12-24 00:00:00,0.0,Truckee River Farad
-15858,2023-12-20 00:00:00,11.2,Little Truckee River
-15859,2023-12-20 00:00:00,14.5,Little Truckee River
-15860,2023-12-20 00:00:00,8.6,Little Truckee River
-15861,2023-12-20 00:00:00,0.0,Little Truckee River
-15862,2023-12-21 00:00:00,0.0,Little Truckee River
-15863,2023-12-21 00:00:00,0.0,Little Truckee River
-15864,2023-12-21 00:00:00,0.0,Little Truckee River
-15865,2023-12-21 00:00:00,0.0,Little Truckee River
-15866,2023-12-22 00:00:00,0.0,Little Truckee River
-15867,2023-12-22 00:00:00,0.0,Little Truckee River
-15868,2023-12-22 00:00:00,0.0,Little Truckee River
-15869,2023-12-22 00:00:00,0.0,Little Truckee River
-15870,2023-12-23 00:00:00,0.0,Little Truckee River
-15871,2023-12-23 00:00:00,0.0,Little Truckee River
-15872,2023-12-23 00:00:00,0.0,Little Truckee River
-15873,2023-12-23 00:00:00,0.0,Little Truckee River
-15874,2023-12-24 00:00:00,0.0,Little Truckee River
-15875,2023-12-20 00:00:00,26.2,Smith River CC
-15876,2023-12-20 00:00:00,18.3,Smith River CC
-15877,2023-12-20 00:00:00,18.0,Smith River CC
-15878,2023-12-20 00:00:00,17.8,Smith River CC
-15879,2023-12-20 00:00:00,16.5,Smith River CC
-15880,2023-12-20 00:00:00,15.5,Smith River CC
-15881,2023-12-20 00:00:00,0.3,Smith River CC
-15882,2023-12-21 00:00:00,0.8,Smith River CC
-15883,2023-12-21 00:00:00,0.0,Smith River CC
-15884,2023-12-21 00:00:00,0.8,Smith River CC
-15885,2023-12-21 00:00:00,0.5,Smith River CC
-15886,2023-12-21 00:00:00,0.0,Smith River CC
-15887,2023-12-22 00:00:00,0.5,Smith River CC
-15888,2023-12-22 00:00:00,0.8,Smith River CC
-15889,2023-12-22 00:00:00,1.5,Smith River CC
-15890,2023-12-22 00:00:00,1.5,Smith River CC
-15891,2023-12-22 00:00:00,0.3,Smith River CC
-15892,2023-12-22 00:00:00,1.5,Smith River CC
-15893,2023-12-23 00:00:00,0.0,Smith River CC
-15894,2023-12-23 00:00:00,2.3,Smith River CC
-15895,2023-12-23 00:00:00,0.0,Smith River CC
-15896,2023-12-23 00:00:00,0.5,Smith River CC
-15897,2023-12-23 00:00:00,0.0,Smith River CC
-15898,2023-12-24 00:00:00,0.0,Smith River CC
-15899,2023-12-24 00:00:00,0.8,Smith River CC
-15900,2023-12-20 00:00:00,26.2,Smith River Fort Dick
-15901,2023-12-20 00:00:00,18.3,Smith River Fort Dick
-15902,2023-12-20 00:00:00,18.0,Smith River Fort Dick
-15903,2023-12-20 00:00:00,17.8,Smith River Fort Dick
-15904,2023-12-20 00:00:00,16.5,Smith River Fort Dick
-15905,2023-12-20 00:00:00,15.5,Smith River Fort Dick
-15906,2023-12-20 00:00:00,0.3,Smith River Fort Dick
-15907,2023-12-21 00:00:00,0.8,Smith River Fort Dick
-15908,2023-12-21 00:00:00,0.0,Smith River Fort Dick
-15909,2023-12-21 00:00:00,0.8,Smith River Fort Dick
-15910,2023-12-21 00:00:00,0.5,Smith River Fort Dick
-15911,2023-12-21 00:00:00,0.0,Smith River Fort Dick
-15912,2023-12-22 00:00:00,0.5,Smith River Fort Dick
-15913,2023-12-22 00:00:00,0.8,Smith River Fort Dick
-15914,2023-12-22 00:00:00,1.5,Smith River Fort Dick
-15915,2023-12-22 00:00:00,1.5,Smith River Fort Dick
-15916,2023-12-22 00:00:00,0.3,Smith River Fort Dick
-15917,2023-12-22 00:00:00,1.5,Smith River Fort Dick
-15918,2023-12-23 00:00:00,0.0,Smith River Fort Dick
-15919,2023-12-23 00:00:00,2.3,Smith River Fort Dick
-15920,2023-12-23 00:00:00,0.0,Smith River Fort Dick
-15921,2023-12-23 00:00:00,0.5,Smith River Fort Dick
-15922,2023-12-23 00:00:00,0.0,Smith River Fort Dick
-15923,2023-12-24 00:00:00,0.0,Smith River Fort Dick
-15924,2023-12-24 00:00:00,0.8,Smith River Fort Dick
-15925,2023-12-20 00:00:00,47.0,Eel River Fort Seward
-15926,2023-12-20 00:00:00,49.3,Eel River Fort Seward
-15927,2023-12-20 00:00:00,80.3,Eel River Fort Seward
-15928,2023-12-20 00:00:00,46.2,Eel River Fort Seward
-15929,2023-12-20 00:00:00,44.2,Eel River Fort Seward
-15930,2023-12-21 00:00:00,0.5,Eel River Fort Seward
-15931,2023-12-21 00:00:00,0.3,Eel River Fort Seward
-15932,2023-12-21 00:00:00,0.3,Eel River Fort Seward
-15933,2023-12-21 00:00:00,0.3,Eel River Fort Seward
-15934,2023-12-21 00:00:00,0.3,Eel River Fort Seward
-15935,2023-12-22 00:00:00,0.5,Eel River Fort Seward
-15936,2023-12-22 00:00:00,0.0,Eel River Fort Seward
-15937,2023-12-22 00:00:00,0.0,Eel River Fort Seward
-15938,2023-12-22 00:00:00,0.5,Eel River Fort Seward
-15939,2023-12-23 00:00:00,0.0,Eel River Fort Seward
-15940,2023-12-23 00:00:00,0.0,Eel River Fort Seward
-15941,2023-12-23 00:00:00,0.0,Eel River Fort Seward
-15942,2023-12-23 00:00:00,0.0,Eel River Fort Seward
-15943,2023-12-24 00:00:00,0.3,Eel River Fort Seward
-15944,2023-12-24 00:00:00,0.0,Eel River Fort Seward
-15945,2023-12-24 00:00:00,0.0,Eel River Fort Seward
-15946,2023-12-20 00:00:00,27.4,Eel River Scotia
-15947,2023-12-21 00:00:00,1.0,Eel River Scotia
-15948,2023-12-20 00:00:00,25.4,Eel River Fernbridge
-15949,2023-12-20 00:00:00,23.4,Eel River Fernbridge
-15950,2023-12-20 00:00:00,21.1,Eel River Fernbridge
-15951,2023-12-20 00:00:00,26.2,Eel River Fernbridge
-15952,2023-12-20 00:00:00,24.6,Eel River Fernbridge
-15953,2023-12-21 00:00:00,0.0,Eel River Fernbridge
-15954,2023-12-21 00:00:00,0.3,Eel River Fernbridge
-15955,2023-12-22 00:00:00,0.8,Eel River Fernbridge
-15956,2023-12-22 00:00:00,0.5,Eel River Fernbridge
-15957,2023-12-22 00:00:00,0.5,Eel River Fernbridge
-15958,2023-12-23 00:00:00,1.0,Eel River Fernbridge
-15959,2023-12-20 00:00:00,32.5,San Lorenzo River
-15960,2023-12-20 00:00:00,40.1,San Lorenzo River
-15961,2023-12-20 00:00:00,36.8,San Lorenzo River
-15962,2023-12-21 00:00:00,16.5,San Lorenzo River
-15963,2023-12-21 00:00:00,4.1,San Lorenzo River
-15964,2023-12-21 00:00:00,13.5,San Lorenzo River
-15965,2023-12-20 00:00:00,7.1,North Fork American River
-15966,2023-12-20 00:00:00,9.7,North Fork American River
-15967,2023-12-21 00:00:00,2.5,North Fork American River
-15968,2023-12-21 00:00:00,2.5,North Fork American River
-15969,2023-12-22 00:00:00,0.0,North Fork American River
-15970,2023-12-23 00:00:00,0.0,North Fork American River
-15971,2023-12-24 00:00:00,0.0,North Fork American River
-15972,2023-12-20 00:00:00,50.8,Pit River
-15973,2023-12-20 00:00:00,33.8,Pit River
-15974,2023-12-21 00:00:00,0.5,Pit River
-15975,2023-12-21 00:00:00,0.5,Pit River
-15976,2023-12-22 00:00:00,0.0,Pit River
-15977,2023-12-23 00:00:00,0.0,Pit River
-15978,2023-12-20 00:00:00,5.1,East Fork Carson
-15979,2023-12-20 00:00:00,0.0,East Fork Carson
-15980,2023-12-20 00:00:00,0.0,East Fork Carson
-15981,2023-12-20 00:00:00,0.0,East Fork Carson
-15982,2023-12-20 00:00:00,0.0,East Fork Carson
-15983,2023-12-20 00:00:00,0.0,East Fork Carson
-15984,2023-12-20 00:00:00,0.0,East Fork Carson
-15985,2023-12-21 00:00:00,0.0,East Fork Carson
-15986,2023-12-21 00:00:00,0.0,East Fork Carson
-15987,2023-12-21 00:00:00,0.0,East Fork Carson
-15988,2023-12-21 00:00:00,2.5,East Fork Carson
-15989,2023-12-21 00:00:00,0.0,East Fork Carson
-15990,2023-12-21 00:00:00,0.0,East Fork Carson
-15991,2023-12-22 00:00:00,0.0,East Fork Carson
-15992,2023-12-22 00:00:00,0.0,East Fork Carson
-15993,2023-12-22 00:00:00,0.0,East Fork Carson
-15994,2023-12-23 00:00:00,0.0,East Fork Carson
-15995,2023-12-23 00:00:00,0.0,East Fork Carson
-15996,2023-12-23 00:00:00,0.0,East Fork Carson
-15997,2023-12-23 00:00:00,2.5,East Fork Carson
-15998,2023-12-23 00:00:00,0.0,East Fork Carson
-15999,2023-12-20 00:00:00,16.3,Trinity River Junction City
-16000,2023-12-21 00:00:00,2.0,Trinity River Junction City
-16001,2023-12-22 00:00:00,0.0,Trinity River Junction City
-16002,2023-12-23 00:00:00,0.0,Trinity River Junction City
-16003,2023-12-24 00:00:00,0.0,Trinity River Junction City
-16004,2023-12-20 00:00:00,7.9,Rogue River Grants Pass
-16005,2023-12-20 00:00:00,6.9,Rogue River Grants Pass
-16006,2023-12-20 00:00:00,7.6,Rogue River Grants Pass
-16007,2023-12-21 00:00:00,0.8,Rogue River Grants Pass
-16008,2023-12-21 00:00:00,0.5,Rogue River Grants Pass
-16009,2023-12-21 00:00:00,0.0,Rogue River Grants Pass
-16010,2023-12-21 00:00:00,0.0,Rogue River Grants Pass
-16011,2023-12-22 00:00:00,0.5,Rogue River Grants Pass
-16012,2023-12-22 00:00:00,0.3,Rogue River Grants Pass
-16013,2023-12-22 00:00:00,1.3,Rogue River Grants Pass
-16014,2023-12-22 00:00:00,1.0,Rogue River Grants Pass
-16015,2023-12-23 00:00:00,1.5,Rogue River Grants Pass
-16016,2023-12-23 00:00:00,1.8,Rogue River Grants Pass
-16017,2023-12-23 00:00:00,0.0,Rogue River Grants Pass
-16018,2023-12-24 00:00:00,0.5,Rogue River Grants Pass
-16019,2023-12-24 00:00:00,1.5,Rogue River Grants Pass
-16020,2023-12-20 00:00:00,15.5,Redwood Creek Orick
-16021,2023-12-20 00:00:00,18.5,Redwood Creek Orick
-16022,2023-12-20 00:00:00,17.0,Redwood Creek Orick
-16023,2023-12-20 00:00:00,21.1,Redwood Creek Orick
-16024,2023-12-21 00:00:00,0.0,Redwood Creek Orick
-16025,2023-12-21 00:00:00,0.0,Redwood Creek Orick
-16026,2023-12-21 00:00:00,0.0,Redwood Creek Orick
-16027,2023-12-21 00:00:00,0.5,Redwood Creek Orick
-16028,2023-12-22 00:00:00,0.0,Redwood Creek Orick
-16029,2023-12-22 00:00:00,0.0,Redwood Creek Orick
-16030,2023-12-22 00:00:00,0.0,Redwood Creek Orick
-16031,2023-12-22 00:00:00,0.5,Redwood Creek Orick
-16032,2023-12-23 00:00:00,2.0,Redwood Creek Orick
-16033,2023-12-23 00:00:00,2.5,Redwood Creek Orick
-16034,2023-12-23 00:00:00,1.8,Redwood Creek Orick
-16035,2023-12-23 00:00:00,1.5,Redwood Creek Orick
-16036,2023-12-24 00:00:00,0.0,Redwood Creek Orick
-16037,2023-12-24 00:00:00,0.0,Redwood Creek Orick
-16038,2023-12-20 00:00:00,31.8,Van Duzen River Bridgeville
-16039,2023-12-20 00:00:00,29.5,Van Duzen River Bridgeville
-16040,2023-12-20 00:00:00,29.0,Van Duzen River Bridgeville
-16041,2023-12-21 00:00:00,0.0,Van Duzen River Bridgeville
-16042,2023-12-21 00:00:00,0.0,Van Duzen River Bridgeville
-16043,2023-12-22 00:00:00,0.0,Van Duzen River Bridgeville
-16044,2023-12-22 00:00:00,0.0,Van Duzen River Bridgeville
-16045,2023-12-23 00:00:00,0.0,Van Duzen River Bridgeville
-16046,2023-12-23 00:00:00,0.0,Van Duzen River Bridgeville
-16047,2023-12-24 00:00:00,0.0,Van Duzen River Bridgeville
-16048,2023-12-20 00:00:00,47.0,Mattole River Ettersburg
-16049,2023-12-20 00:00:00,49.3,Mattole River Ettersburg
-16050,2023-12-20 00:00:00,80.3,Mattole River Ettersburg
-16051,2023-12-20 00:00:00,46.2,Mattole River Ettersburg
-16052,2023-12-20 00:00:00,44.2,Mattole River Ettersburg
-16053,2023-12-21 00:00:00,0.5,Mattole River Ettersburg
-16054,2023-12-21 00:00:00,0.3,Mattole River Ettersburg
-16055,2023-12-21 00:00:00,0.3,Mattole River Ettersburg
-16056,2023-12-21 00:00:00,0.3,Mattole River Ettersburg
-16057,2023-12-21 00:00:00,0.3,Mattole River Ettersburg
-16058,2023-12-22 00:00:00,0.5,Mattole River Ettersburg
-16059,2023-12-22 00:00:00,0.0,Mattole River Ettersburg
-16060,2023-12-22 00:00:00,0.0,Mattole River Ettersburg
-16061,2023-12-22 00:00:00,0.5,Mattole River Ettersburg
-16062,2023-12-23 00:00:00,0.0,Mattole River Ettersburg
-16063,2023-12-23 00:00:00,0.0,Mattole River Ettersburg
-16064,2023-12-23 00:00:00,0.0,Mattole River Ettersburg
-16065,2023-12-23 00:00:00,0.0,Mattole River Ettersburg
-16066,2023-12-24 00:00:00,0.3,Mattole River Ettersburg
-16067,2023-12-24 00:00:00,0.0,Mattole River Ettersburg
-16068,2023-12-24 00:00:00,0.0,Mattole River Ettersburg
-16069,2023-12-20 00:00:00,27.4,Mattole River Petrolia
-16070,2023-12-21 00:00:00,1.0,Mattole River Petrolia
-16071,2023-12-20 00:00:00,14.7,Trinity River Burnt Ranch
-16072,2023-12-21 00:00:00,0.5,Trinity River Burnt Ranch
-16073,2023-12-20 00:00:00,1.0,North Umpqua River Winchester
-16074,2023-12-20 00:00:00,1.0,North Umpqua River Winchester
-16075,2023-12-20 00:00:00,1.5,North Umpqua River Winchester
-16076,2023-12-20 00:00:00,1.5,North Umpqua River Winchester
-16077,2023-12-20 00:00:00,2.5,North Umpqua River Winchester
-16078,2023-12-20 00:00:00,0.0,North Umpqua River Winchester
-16079,2023-12-21 00:00:00,0.0,North Umpqua River Winchester
-16080,2023-12-21 00:00:00,0.0,North Umpqua River Winchester
-16081,2023-12-21 00:00:00,0.3,North Umpqua River Winchester
-16082,2023-12-21 00:00:00,0.0,North Umpqua River Winchester
-16083,2023-12-21 00:00:00,0.0,North Umpqua River Winchester
-16084,2023-12-22 00:00:00,0.3,North Umpqua River Winchester
-16085,2023-12-22 00:00:00,0.0,North Umpqua River Winchester
-16086,2023-12-22 00:00:00,0.5,North Umpqua River Winchester
-16087,2023-12-22 00:00:00,0.0,North Umpqua River Winchester
-16088,2023-12-22 00:00:00,1.3,North Umpqua River Winchester
-16089,2023-12-23 00:00:00,1.8,North Umpqua River Winchester
-16090,2023-12-23 00:00:00,1.5,North Umpqua River Winchester
-16091,2023-12-23 00:00:00,1.5,North Umpqua River Winchester
-16092,2023-12-23 00:00:00,1.5,North Umpqua River Winchester
-16093,2023-12-23 00:00:00,2.0,North Umpqua River Winchester
-16094,2023-12-23 00:00:00,3.0,North Umpqua River Winchester
-16095,2023-12-23 00:00:00,0.0,North Umpqua River Winchester
-16096,2023-12-24 00:00:00,0.0,North Umpqua River Winchester
-16097,2023-12-20 00:00:00,2.8,North Umpquar River Idlelyd
-16098,2023-12-20 00:00:00,3.8,North Umpquar River Idlelyd
-16099,2023-12-20 00:00:00,0.0,North Umpquar River Idlelyd
-16100,2023-12-21 00:00:00,0.0,North Umpquar River Idlelyd
-16101,2023-12-21 00:00:00,0.0,North Umpquar River Idlelyd
-16102,2023-12-21 00:00:00,0.0,North Umpquar River Idlelyd
-16103,2023-12-22 00:00:00,1.0,North Umpquar River Idlelyd
-16104,2023-12-22 00:00:00,5.6,North Umpquar River Idlelyd
-16105,2023-12-22 00:00:00,0.0,North Umpquar River Idlelyd
-16106,2023-12-23 00:00:00,3.0,North Umpquar River Idlelyd
-16107,2023-12-23 00:00:00,0.0,North Umpquar River Idlelyd
-16108,2023-12-23 00:00:00,2.5,North Umpquar River Idlelyd
-16109,2023-12-24 00:00:00,0.0,North Umpquar River Idlelyd
-16110,2023-12-20 00:00:00,3.0,Yuba River Marysville
-16111,2023-12-21 00:00:00,0.5,Yuba River Marysville
-16112,2023-12-22 00:00:00,0.0,Yuba River Marysville
-16113,2023-12-23 00:00:00,0.0,Yuba River Marysville
+15801,2023-12-23 00:00:00,0.0,Russian River HaciendaBridge
+15802,2023-12-24 00:00:00,0.0,Russian River HaciendaBridge
+15803,2023-12-23 00:00:00,0.0,Navarro River
+15804,2023-12-24 00:00:00,0.5,Navarro River
+15805,2023-12-23 00:00:00,0.0,Noyo River
+15806,2023-12-24 00:00:00,0.0,Noyo River
+15807,2023-12-22 00:00:00,0.0,Mad River
+15808,2023-12-23 00:00:00,0.0,Mad River
+15809,2023-12-24 00:00:00,0.0,Mad River
+15810,2023-12-22 00:00:00,0.0,Putah Creek
+15811,2023-12-23 00:00:00,0.0,Putah Creek
+15812,2023-12-23 00:00:00,0.0,Truckee River Farad
+15813,2023-12-24 00:00:00,0.0,Truckee River Farad
+15814,2023-12-23 00:00:00,0.0,Little Truckee River
+15815,2023-12-24 00:00:00,0.0,Little Truckee River
+15816,2023-12-22 00:00:00,0.5,Smith River CC
+15817,2023-12-22 00:00:00,1.5,Smith River CC
+15818,2023-12-23 00:00:00,0.0,Smith River CC
+15819,2023-12-23 00:00:00,2.3,Smith River CC
+15820,2023-12-23 00:00:00,0.5,Smith River CC
+15821,2023-12-24 00:00:00,0.0,Smith River CC
+15822,2023-12-24 00:00:00,0.8,Smith River CC
+15823,2023-12-22 00:00:00,0.5,Smith River Fort Dick
+15824,2023-12-22 00:00:00,1.5,Smith River Fort Dick
+15825,2023-12-23 00:00:00,0.0,Smith River Fort Dick
+15826,2023-12-23 00:00:00,2.3,Smith River Fort Dick
+15827,2023-12-23 00:00:00,0.5,Smith River Fort Dick
+15828,2023-12-24 00:00:00,0.0,Smith River Fort Dick
+15829,2023-12-24 00:00:00,0.8,Smith River Fort Dick
+15830,2023-12-23 00:00:00,0.0,Eel River Fort Seward
+15831,2023-12-24 00:00:00,0.3,Eel River Fort Seward
+15832,2023-12-24 00:00:00,0.0,Eel River Fort Seward
+15833,2023-12-20 00:00:00,27.4,Eel River Scotia
+15834,2023-12-21 00:00:00,1.0,Eel River Scotia
+15835,2023-12-23 00:00:00,1.0,Eel River Fernbridge
+15836,2023-12-23 00:00:00,0.0,North Fork American River
+15837,2023-12-24 00:00:00,0.0,North Fork American River
+15838,2023-12-22 00:00:00,0.0,Pit River
+15839,2023-12-23 00:00:00,0.0,Pit River
+15840,2023-12-22 00:00:00,0.0,East Fork Carson
+15841,2023-12-23 00:00:00,0.0,East Fork Carson
+15842,2023-12-23 00:00:00,2.5,East Fork Carson
+15843,2023-12-23 00:00:00,0.0,Trinity River Junction City
+15844,2023-12-24 00:00:00,0.0,Trinity River Junction City
+15845,2023-12-22 00:00:00,1.3,Rogue River Grants Pass
+15846,2023-12-22 00:00:00,1.0,Rogue River Grants Pass
+15847,2023-12-23 00:00:00,1.5,Rogue River Grants Pass
+15848,2023-12-23 00:00:00,1.8,Rogue River Grants Pass
+15849,2023-12-23 00:00:00,0.0,Rogue River Grants Pass
+15850,2023-12-24 00:00:00,0.5,Rogue River Grants Pass
+15851,2023-12-24 00:00:00,1.5,Rogue River Grants Pass
+15852,2023-12-23 00:00:00,2.0,Redwood Creek Orick
+15853,2023-12-23 00:00:00,2.5,Redwood Creek Orick
+15854,2023-12-23 00:00:00,1.8,Redwood Creek Orick
+15855,2023-12-23 00:00:00,1.5,Redwood Creek Orick
+15856,2023-12-24 00:00:00,0.0,Redwood Creek Orick
+15857,2023-12-23 00:00:00,0.0,Van Duzen River Bridgeville
+15858,2023-12-24 00:00:00,0.0,Van Duzen River Bridgeville
+15859,2023-12-23 00:00:00,0.0,Mattole River Ettersburg
+15860,2023-12-24 00:00:00,0.3,Mattole River Ettersburg
+15861,2023-12-24 00:00:00,0.0,Mattole River Ettersburg
+15862,2023-12-20 00:00:00,27.4,Mattole River Petrolia
+15863,2023-12-21 00:00:00,1.0,Mattole River Petrolia
+15864,2023-12-22 00:00:00,0.0,North Umpqua River Winchester
+15865,2023-12-22 00:00:00,1.3,North Umpqua River Winchester
+15866,2023-12-23 00:00:00,1.8,North Umpqua River Winchester
+15867,2023-12-23 00:00:00,1.5,North Umpqua River Winchester
+15868,2023-12-23 00:00:00,2.0,North Umpqua River Winchester
+15869,2023-12-23 00:00:00,3.0,North Umpqua River Winchester
+15870,2023-12-23 00:00:00,0.0,North Umpqua River Winchester
+15871,2023-12-24 00:00:00,0.0,North Umpqua River Winchester
+15872,2023-12-22 00:00:00,5.6,North Umpquar River Idlelyd
+15873,2023-12-22 00:00:00,0.0,North Umpquar River Idlelyd
+15874,2023-12-23 00:00:00,3.0,North Umpquar River Idlelyd
+15875,2023-12-23 00:00:00,0.0,North Umpquar River Idlelyd
+15876,2023-12-23 00:00:00,2.5,North Umpquar River Idlelyd
+15877,2023-12-24 00:00:00,0.0,North Umpquar River Idlelyd
+15878,2023-12-22 00:00:00,0.0,Yuba River Marysville
+15879,2023-12-23 00:00:00,0.0,Yuba River Marysville
+15880,2023-12-25 00:00:00,0.0,Russian River HaciendaBridge
+15881,2023-12-25 00:00:00,0.0,Noyo River
+15882,2023-12-22 00:00:00,0.3,San Lorenzo River Upper
+15883,2023-12-23 00:00:00,0.3,San Lorenzo River Upper
+15884,2023-12-24 00:00:00,0.0,San Lorenzo River Upper
+15885,2023-12-24 00:00:00,0.0,Putah Creek
+15886,2023-12-25 00:00:00,0.0,Truckee River Farad
+15887,2023-12-25 00:00:00,0.0,Little Truckee River
+15888,2023-12-24 00:00:00,11.2,Smith River CC
+15889,2023-12-25 00:00:00,12.7,Smith River CC
+15890,2023-12-25 00:00:00,11.2,Smith River CC
+15891,2023-12-24 00:00:00,11.2,Smith River Fort Dick
+15892,2023-12-25 00:00:00,12.7,Smith River Fort Dick
+15893,2023-12-25 00:00:00,11.2,Smith River Fort Dick
+15894,2023-12-25 00:00:00,0.3,Eel River Fort Seward
+15895,2023-12-25 00:00:00,0.0,Eel River Fort Seward
+15896,2023-12-24 00:00:00,0.3,Eel River Fernbridge
+15897,2023-12-24 00:00:00,0.0,Eel River Fernbridge
+15898,2023-12-25 00:00:00,0.5,Eel River Fernbridge
+15899,2023-12-22 00:00:00,0.3,San Lorenzo River
+15900,2023-12-23 00:00:00,0.3,San Lorenzo River
+15901,2023-12-24 00:00:00,0.0,San Lorenzo River
+15902,2023-12-25 00:00:00,0.0,North Fork American River
+15903,2023-12-24 00:00:00,0.0,Pit River
+15904,2023-12-24 00:00:00,5.1,East Fork Carson
+15905,2023-12-24 00:00:00,0.0,East Fork Carson
+15906,2023-12-24 00:00:00,2.5,East Fork Carson
+15907,2023-12-24 00:00:00,7.6,East Fork Carson
+15908,2023-12-24 00:00:00,0.3,Rogue River Grants Pass
+15909,2023-12-24 00:00:00,1.3,Rogue River Grants Pass
+15910,2023-12-25 00:00:00,3.8,Rogue River Grants Pass
+15911,2023-12-25 00:00:00,2.8,Rogue River Grants Pass
+15912,2023-12-24 00:00:00,0.5,Redwood Creek Orick
+15913,2023-12-25 00:00:00,3.3,Redwood Creek Orick
+15914,2023-12-25 00:00:00,3.0,Redwood Creek Orick
+15915,2023-12-25 00:00:00,2.5,Redwood Creek Orick
+15916,2023-12-25 00:00:00,1.3,Redwood Creek Orick
+15917,2023-12-25 00:00:00,0.0,Van Duzen River Bridgeville
+15918,2023-12-25 00:00:00,0.3,Mattole River Ettersburg
+15919,2023-12-25 00:00:00,0.0,Mattole River Ettersburg
+15920,2023-12-24 00:00:00,1.0,North Umpqua River Winchester
+15921,2023-12-25 00:00:00,2.0,North Umpqua River Winchester
+15922,2023-12-24 00:00:00,2.5,North Umpquar River Idlelyd
+15923,2023-12-25 00:00:00,8.4,North Umpquar River Idlelyd
+15924,2023-12-22 00:00:00,0.0,Umpqua River Elkton
+15925,2023-12-23 00:00:00,4.1,Umpqua River Elkton
+15926,2023-12-24 00:00:00,0.0,Umpqua River Elkton
+15933,2023-12-26 00:00:00,0.0,Russian River HaciendaBridge
+15935,2023-12-27 00:00:00,0.0,Russian River HaciendaBridge
+15939,2023-12-25 00:00:00,0.0,Navarro River
+15940,2023-12-26 00:00:00,0.0,Navarro River
+15941,2023-12-27 00:00:00,6.1,Navarro River
+15945,2023-12-26 00:00:00,0.0,Noyo River
+15947,2023-12-27 00:00:00,7.1,Noyo River
+15950,2023-12-25 00:00:00,0.0,San Lorenzo River Upper
+15951,2023-12-26 00:00:00,0.0,San Lorenzo River Upper
+15954,2023-12-25 00:00:00,1.5,Mad River
+15955,2023-12-26 00:00:00,0.8,Mad River
+15956,2023-12-27 00:00:00,11.4,Mad River
+15961,2023-12-25 00:00:00,0.0,Putah Creek
+15963,2023-12-26 00:00:00,0.0,Putah Creek
+15977,2023-12-26 00:00:00,0.0,Truckee River Farad
+15980,2023-12-27 00:00:00,0.0,Truckee River Farad
+15994,2023-12-26 00:00:00,0.0,Little Truckee River
+15997,2023-12-27 00:00:00,0.0,Little Truckee River
+16006,2023-12-24 00:00:00,0.5,Smith River CC
+16012,2023-12-25 00:00:00,10.9,Smith River CC
+16015,2023-12-25 00:00:00,14.7,Smith River CC
+16016,2023-12-25 00:00:00,1.5,Smith River CC
+16017,2023-12-26 00:00:00,0.8,Smith River CC
+16018,2023-12-26 00:00:00,0.5,Smith River CC
+16020,2023-12-26 00:00:00,1.3,Smith River CC
+16022,2023-12-26 00:00:00,1.0,Smith River CC
+16024,2023-12-26 00:00:00,0.0,Smith River CC
+16025,2023-12-27 00:00:00,8.6,Smith River CC
+16027,2023-12-27 00:00:00,8.4,Smith River CC
+16028,2023-12-27 00:00:00,10.2,Smith River CC
+16036,2023-12-24 00:00:00,0.5,Smith River Fort Dick
+16042,2023-12-25 00:00:00,10.9,Smith River Fort Dick
+16045,2023-12-25 00:00:00,14.7,Smith River Fort Dick
+16046,2023-12-25 00:00:00,1.5,Smith River Fort Dick
+16047,2023-12-26 00:00:00,0.8,Smith River Fort Dick
+16048,2023-12-26 00:00:00,0.5,Smith River Fort Dick
+16050,2023-12-26 00:00:00,1.3,Smith River Fort Dick
+16052,2023-12-26 00:00:00,1.0,Smith River Fort Dick
+16054,2023-12-26 00:00:00,0.0,Smith River Fort Dick
+16055,2023-12-27 00:00:00,8.6,Smith River Fort Dick
+16057,2023-12-27 00:00:00,8.4,Smith River Fort Dick
+16058,2023-12-27 00:00:00,10.2,Smith River Fort Dick
+16071,2023-12-26 00:00:00,0.0,Eel River Fort Seward
+16074,2023-12-26 00:00:00,0.3,Eel River Fort Seward
+16075,2023-12-27 00:00:00,11.4,Eel River Fort Seward
+16076,2023-12-27 00:00:00,12.4,Eel River Fort Seward
+16077,2023-12-27 00:00:00,33.5,Eel River Fort Seward
+16078,2023-12-27 00:00:00,6.9,Eel River Fort Seward
+16079,2023-12-27 00:00:00,18.8,Eel River Fort Seward
+16083,2023-12-25 00:00:00,0.0,Eel River Fernbridge
+16085,2023-12-26 00:00:00,0.0,Eel River Fernbridge
+16087,2023-12-27 00:00:00,5.1,Eel River Fernbridge
+16089,2023-12-27 00:00:00,5.8,Eel River Fernbridge
+16092,2023-12-25 00:00:00,0.0,San Lorenzo River
+16093,2023-12-26 00:00:00,0.0,San Lorenzo River
+16097,2023-12-26 00:00:00,0.0,North Fork American River
+16101,2023-12-25 00:00:00,0.0,Pit River
+16102,2023-12-26 00:00:00,0.0,Pit River
+16118,2023-12-25 00:00:00,0.0,East Fork Carson
+16125,2023-12-26 00:00:00,0.0,East Fork Carson
+16134,2023-12-25 00:00:00,1.3,Trinity River Junction City
+16135,2023-12-26 00:00:00,0.0,Trinity River Junction City
+16136,2023-12-27 00:00:00,0.0,Trinity River Junction City
+16146,2023-12-25 00:00:00,3.0,Rogue River Grants Pass
+16147,2023-12-25 00:00:00,0.5,Rogue River Grants Pass
+16148,2023-12-26 00:00:00,0.8,Rogue River Grants Pass
+16149,2023-12-26 00:00:00,0.5,Rogue River Grants Pass
+16152,2023-12-27 00:00:00,6.4,Rogue River Grants Pass
+16153,2023-12-27 00:00:00,5.6,Rogue River Grants Pass
+16166,2023-12-26 00:00:00,0.0,Redwood Creek Orick
+16169,2023-12-26 00:00:00,1.0,Redwood Creek Orick
+16170,2023-12-27 00:00:00,8.1,Redwood Creek Orick
+16171,2023-12-27 00:00:00,8.4,Redwood Creek Orick
+16172,2023-12-27 00:00:00,6.9,Redwood Creek Orick
+16173,2023-12-27 00:00:00,9.9,Redwood Creek Orick
+16179,2023-12-25 00:00:00,1.0,Van Duzen River Bridgeville
+16180,2023-12-26 00:00:00,0.0,Van Duzen River Bridgeville
+16181,2023-12-27 00:00:00,5.8,Van Duzen River Bridgeville
+16182,2023-12-27 00:00:00,13.0,Van Duzen River Bridgeville
+16195,2023-12-26 00:00:00,0.0,Mattole River Ettersburg
+16198,2023-12-26 00:00:00,0.3,Mattole River Ettersburg
+16199,2023-12-27 00:00:00,11.4,Mattole River Ettersburg
+16200,2023-12-27 00:00:00,12.4,Mattole River Ettersburg
+16201,2023-12-27 00:00:00,33.5,Mattole River Ettersburg
+16202,2023-12-27 00:00:00,6.9,Mattole River Ettersburg
+16203,2023-12-27 00:00:00,18.8,Mattole River Ettersburg
+16204,2023-12-27 00:00:00,3.6,Trinity River Burnt Ranch
+16216,2023-12-25 00:00:00,2.5,North Umpqua River Winchester
+16217,2023-12-25 00:00:00,3.8,North Umpqua River Winchester
+16218,2023-12-25 00:00:00,1.3,North Umpqua River Winchester
+16219,2023-12-26 00:00:00,0.5,North Umpqua River Winchester
+16222,2023-12-26 00:00:00,0.0,North Umpqua River Winchester
+16223,2023-12-27 00:00:00,2.8,North Umpqua River Winchester
+16224,2023-12-27 00:00:00,3.3,North Umpqua River Winchester
+16232,2023-12-25 00:00:00,5.8,North Umpquar River Idlelyd
+16233,2023-12-25 00:00:00,7.6,North Umpquar River Idlelyd
+16234,2023-12-26 00:00:00,1.3,North Umpquar River Idlelyd
+16235,2023-12-26 00:00:00,0.0,North Umpquar River Idlelyd
+16236,2023-12-27 00:00:00,5.1,North Umpquar River Idlelyd
+16240,2023-12-24 00:00:00,0.0,Yuba River Marysville
+16241,2023-12-25 00:00:00,0.0,Yuba River Marysville
+16242,2023-12-26 00:00:00,0.0,Yuba River Marysville
+16243,2023-12-27 00:00:00,0.0,Yuba River Marysville

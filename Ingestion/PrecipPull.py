@@ -6,6 +6,13 @@ import pandas as pd
 import json
 from datetime import datetime,date, timedelta
 
+def apiStatus(x):
+    print(x)
+    if x == 200:
+        d = json.loads(x.text)
+    else: d = None
+    return d
+
 print('Precipitation Data Pulling...')
 
 Token = 'ziLDJecqBlvTSNGOzOmPPLmBZtXSfBwR'
@@ -30,40 +37,41 @@ for row in range(0,len(referencedata)):
     data_url = 'https://www.ncdc.noaa.gov/cdo-web/api/v2/data?datasetid=GHCND&datatypeid=PRCP&units=metric&limit=1000&locationid=ZIP:'+str(zipcode)+'&startdate='+str(startdate)+'&enddate='+str(enddate)
     
     r = requests.get(data_url, headers={'token':Token})
-
-    try: 
-        if r['status'] == 200:
-            continue
-    except:
-        KeyError
-    d = json.loads(r.text)
+    d = apiStatus(r)
 
     # print(json.dumps(d, indent=4, sort_keys=True))
- 
-    if len(d) == 0:
-        data_url = 'https://www.ncdc.noaa.gov/cdo-web/api/v2/data?datasetid=GHCND&datatypeid=PRCP&limit=1000&locationid=ZIP:'+str(zipcode2)+'&startdate='+str(startdate)+'&enddate='+str(enddate)
-        r = requests.get(data_url, headers={'token':Token})
-        d = json.loads(r.text)
-    dates = []
-    precips = []
-    # print(d)
-    # break
+    if d != None:
+        if len(d) == 0:
+            data_url = 'https://www.ncdc.noaa.gov/cdo-web/api/v2/data?datasetid=GHCND&datatypeid=PRCP&limit=1000&locationid=ZIP:'+str(zipcode2)+'&startdate='+str(startdate)+'&enddate='+str(enddate)
+            r = requests.get(data_url, headers={'token':Token})
+            d=apiStatus(r)
 
-    #get all items in the response which are precipitation readings
-    try:
-        precip = [item for item in d['results'] if item['datatype']=='PRCP']
-        precips += [item['value'] for item in precip]
-        dates += [item['date'] for item in precip]
-    except KeyError:
-        print('No data available at this Zip Code: ',zipcode2)
-        continue
+            dates = []
+            precips = []
+            # print(d)
+            # break
 
-    df = pd.DataFrame()
-    df['Date'] = [datetime.strptime(d, '%Y-%m-%dT%H:%M:%S') for d in dates]
-    if len(precips) > 0:
-        df['Precip'] = [v for v in precips]
+            #get all items in the response which are precipitation readings
+            try:
+                if d == None:
+                    print('No Data for:', name)
+                else:
+                    precip = [item for item in d['results'] if item['datatype']=='PRCP']
+                    precips += [item['value'] for item in precip]
+                    dates += [item['date'] for item in precip]
+            except KeyError:
+                print('No data available at this Zip Code: ',zipcode2)
+                continue
 
-    df['Name'] = name
-    all_data = all_data.append(df,ignore_index=True)
-# print(all_data)
+            df = pd.DataFrame()
+            if d == None:
+                break    
+
+            df['Date'] = [datetime.strptime(d, '%Y-%m-%dT%H:%M:%S') for d in dates]
+            if len(precips) > 0:
+                df['Precip'] = [v for v in precips]
+
+            df['Name'] = name
+            all_data = all_data.append(df,ignore_index=True)
+    # print(all_data)
 all_data.to_csv('C:/Users/Scott/Desktop/Projects/River_Data/Ingestion/CurrentPrecip.csv')
